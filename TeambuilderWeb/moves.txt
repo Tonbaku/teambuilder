@@ -1,0 +1,1590 @@
+1 | Tackle | normal | physical | 35 | 50 | 100
+2 | Mirror Move | flying | other | 20 | 0 | 0
+3 | Horn Leech | grass | physical | 10 | 75 | 100
+4 | Thief | dark | physical | 25 | 60 | 100
+5 | Acupressure | normal | other | 30 | 0 | 0
+6 | Brine | water | special | 10 | 65 | 100
+7 | Magic Coat | psychic | other | 15 | 0 | 0
+8 | Trick-or-Treat | ghost | other | 20 | 0 | 100
+9 | Rock Climb | normal | physical | 20 | 90 | 85
+10 | Phantom Force | ghost | physical | 10 | 90 | 100
+11 | Feather Dance | flying | other | 15 | 0 | 100
+12 | Sing | normal | other | 15 | 0 | 55
+13 | Detect | fighting | other | 5 | 0 | 0
+14 | Spite | ghost | other | 10 | 0 | 100
+15 | Sludge | poison | special | 20 | 65 | 100
+16 | Scratch | normal | physical | 35 | 40 | 100
+17 | Transform | normal | other | 10 | 0 | 0
+18 | Yawn | normal | other | 10 | 0 | 0
+19 | Play Nice | normal | other | 20 | 0 | 0
+20 | Night Shade | ghost | special | 15 | 1 | 100
+21 | Cross Chop | fighting | physical | 5 | 100 | 80
+22 | Counter | fighting | physical | 20 | 1 | 100
+23 | Double Kick | fighting | physical | 30 | 30 | 100
+24 | Hex | ghost | special | 10 | 65 | 100
+25 | Screech | normal | other | 40 | 0 | 85
+26 | Powder | bug | other | 20 | 0 | 100
+27 | Imprison | psychic | other | 10 | 0 | 0
+28 | Heal Bell | normal | other | 5 | 0 | 0
+29 | Snatch | dark | other | 10 | 0 | 0
+30 | Belch | poison | special | 10 | 120 | 90
+31 | Clamp | water | physical | 15 | 35 | 85
+32 | Sharpen | normal | other | 30 | 0 | 0
+33 | Feint | normal | physical | 10 | 30 | 100
+34 | Tickle | normal | other | 20 | 0 | 100
+35 | Ominous Wind | ghost | special | 5 | 60 | 100
+36 | Sky Uppercut | fighting | physical | 15 | 85 | 90
+37 | Magnitude | ground | physical | 30 | 1 | 100
+38 | Submission | fighting | physical | 25 | 80 | 80
+39 | Shadow Ball | ghost | special | 15 | 80 | 100
+40 | Parting Shot | dark | other | 20 | 0 | 100
+41 | Perish Song | normal | other | 5 | 0 | 0
+42 | Nature Power | normal | other | 20 | 0 | 0
+43 | Smog | poison | special | 20 | 30 | 70
+44 | Confide | normal | other | 20 | 0 | 0
+45 | Protect | normal | other | 10 | 0 | 0
+46 | Confuse Ray | ghost | other | 10 | 0 | 100
+47 | Quick Guard | fighting | other | 15 | 0 | 0
+48 | Flying Press | fighting | physical | 10 | 80 | 95
+49 | Bulk Up | fighting | other | 20 | 0 | 0
+50 | Shadow Claw | ghost | physical | 15 | 70 | 100
+51 | Tail Slap | normal | physical | 10 | 25 | 85
+52 | Encore | normal | other | 5 | 0 | 100
+53 | Crush Grip | normal | physical | 5 | 1 | 100
+54 | Hold Hands | normal | other | 40 | 0 | 0
+55 | Magma Storm | fire | special | 5 | 100 | 75
+56 | Future Sight | psychic | special | 10 | 120 | 100
+57 | Spider Web | bug | other | 10 | 0 | 0
+58 | Psych Up | normal | other | 10 | 0 | 0
+59 | Slam | normal | physical | 20 | 80 | 75
+60 | Hyper Fang | normal | physical | 15 | 80 | 90
+61 | Heat Crash | fire | physical | 10 | 1 | 100
+62 | Mean Look | normal | other | 5 | 0 | 0
+63 | Teeter Dance | normal | other | 20 | 0 | 100
+64 | Destiny Bond | ghost | other | 5 | 0 | 0
+65 | Storm Throw | fighting | physical | 10 | 60 | 100
+66 | Strength | normal | physical | 15 | 80 | 100
+67 | Jump Kick | fighting | physical | 10 | 100 | 95
+68 | Shadow Sneak | ghost | physical | 30 | 40 | 100
+69 | Natural Gift | normal | physical | 15 | 1 | 100
+70 | Disable | normal | other | 20 | 0 | 100
+71 | Headbutt | normal | physical | 15 | 70 | 100
+72 | Facade | normal | physical | 20 | 70 | 100
+73 | Memento | dark | other | 10 | 0 | 100
+74 | Doom Desire | steel | special | 5 | 140 | 100
+75 | Attract | normal | other | 15 | 0 | 100
+76 | Lunar Dance | psychic | other | 10 | 0 | 0
+77 | Techno Blast | normal | special | 5 | 120 | 100
+78 | Rock Wrecker | rock | physical | 5 | 150 | 90
+79 | Venom Drench | poison | other | 20 | 0 | 100
+80 | Baton Pass | normal | other | 40 | 0 | 0
+81 | Shadow Force | ghost | physical | 5 | 120 | 100
+82 | Vital Throw | fighting | physical | 10 | 70 | 0
+83 | Wide Guard | rock | other | 10 | 0 | 0
+84 | Secret Sword | fighting | special | 10 | 85 | 100
+85 | Astonish | ghost | physical | 15 | 30 | 100
+86 | Growth | normal | other | 20 | 0 | 0
+87 | Block | normal | other | 5 | 0 | 0
+88 | Wild Charge | electric | physical | 15 | 90 | 100
+89 | Return | normal | physical | 20 | 1 | 100
+90 | Superpower | fighting | physical | 5 | 120 | 100
+91 | Eerie Impulse | electric | other | 15 | 0 | 100
+92 | Flail | normal | physical | 15 | 1 | 100
+93 | Drill Run | ground | physical | 10 | 80 | 95
+94 | Rest | psychic | other | 10 | 0 | 0
+95 | Embargo | dark | other | 15 | 0 | 100
+96 | Wish | normal | other | 10 | 0 | 0
+97 | Lick | ghost | physical | 30 | 30 | 100
+98 | Dynamic Punch | fighting | physical | 5 | 100 | 50
+99 | Bullet Punch | steel | physical | 30 | 40 | 100
+100 | Aura Sphere | fighting | special | 20 | 80 | 0
+101 | Shadow Punch | ghost | physical | 20 | 60 | 0
+102 | Trump Card | normal | special | 5 | 1 | 0
+103 | Dark Void | dark | other | 10 | 0 | 80
+104 | Magnetic Flux | electric | other | 20 | 0 | 0
+105 | Skull Bash | normal | physical | 10 | 130 | 100
+106 | Echoed Voice | normal | special | 15 | 40 | 100
+107 | Wake-Up Slap | fighting | physical | 10 | 70 | 100
+108 | Captivate | normal | other | 20 | 0 | 100
+109 | Double-Edge | normal | physical | 15 | 120 | 100
+110 | Last Resort | normal | physical | 5 | 140 | 100
+111 | Dragon Dance | dragon | other | 20 | 0 | 0
+112 | Simple Beam | normal | other | 15 | 0 | 100
+113 | Assist | normal | other | 20 | 0 | 0
+114 | Nightmare | ghost | other | 15 | 0 | 100
+115 | Triple Kick | fighting | physical | 10 | 10 | 90
+116 | Dig | ground | physical | 10 | 80 | 100
+117 | Razor Leaf | grass | physical | 25 | 55 | 95
+118 | Conversion 2 | normal | other | 30 | 0 | 0
+119 | Mat Block | fighting | other | 15 | 0 | 0
+120 | Sand Attack | ground | other | 15 | 0 | 100
+121 | Cosmic Power | psychic | other | 20 | 0 | 0
+122 | Endure | normal | other | 10 | 0 | 0
+123 | Mega Kick | normal | physical | 5 | 120 | 75
+124 | Dragon Tail | dragon | physical | 10 | 60 | 90
+125 | Flatter | dark | other | 15 | 0 | 100
+126 | Defense Curl | normal | other | 40 | 0 | 0
+127 | Close Combat | fighting | physical | 5 | 120 | 100
+128 | Ingrain | grass | other | 20 | 0 | 0
+129 | Toxic | poison | other | 10 | 0 | 90
+130 | Belly Drum | normal | other | 10 | 0 | 0
+131 | Focus Blast | fighting | special | 5 | 120 | 70
+132 | Zen Headbutt | psychic | physical | 15 | 80 | 90
+133 | Seismic Toss | fighting | physical | 20 | 1 | 100
+134 | Vacuum Wave | fighting | special | 30 | 40 | 100
+135 | Self-Destruct | normal | physical | 5 | 200 | 100
+136 | Poison Gas | poison | other | 40 | 0 | 90
+137 | Cotton Guard | grass | other | 10 | 0 | 0
+138 | Smelling Salts | normal | physical | 10 | 70 | 100
+139 | Bestow | normal | other | 15 | 0 | 0
+140 | Acid Armor | poison | other | 20 | 0 | 0
+141 | Soak | water | other | 20 | 0 | 100
+142 | Rototiller | ground | other | 10 | 0 | 0
+143 | Fury Attack | normal | physical | 20 | 15 | 85
+144 | Constrict | normal | physical | 35 | 10 | 100
+145 | Moonlight | fairy | other | 5 | 0 | 0
+146 | Forest's Curse | grass | other | 20 | 0 | 100
+147 | Pain Split | normal | other | 20 | 0 | 0
+148 | Mach Punch | fighting | physical | 30 | 40 | 100
+149 | Lava Plume | fire | special | 15 | 80 | 100
+150 | Thunder Fang | electric | physical | 15 | 65 | 95
+151 | Rolling Kick | fighting | physical | 15 | 60 | 85
+152 | Retaliate | normal | physical | 5 | 70 | 100
+153 | Psychic | psychic | special | 10 | 90 | 100
+154 | Quiver Dance | bug | other | 20 | 0 | 0
+155 | Crunch | dark | physical | 15 | 80 | 100
+156 | Frustration | normal | physical | 20 | 1 | 100
+157 | Foresight | normal | other | 40 | 0 | 0
+158 | Grudge | ghost | other | 5 | 0 | 0
+159 | Steamroller | bug | physical | 20 | 65 | 100
+160 | Power Trick | psychic | other | 10 | 0 | 0
+161 | Entrainment | normal | other | 15 | 0 | 100
+162 | Metronome | normal | other | 10 | 0 | 0
+163 | Brick Break | fighting | physical | 15 | 75 | 100
+164 | Aqua Tail | water | physical | 10 | 90 | 90
+165 | Hurricane | flying | special | 10 | 110 | 70
+166 | Circle Throw | fighting | physical | 10 | 60 | 90
+167 | Me First | normal | other | 20 | 1 | 0
+168 | Kinesis | psychic | other | 15 | 0 | 80
+169 | Calm Mind | psychic | other | 20 | 0 | 0
+170 | Crabhammer | water | physical | 10 | 100 | 90
+171 | Thunder Wave | electric | other | 20 | 0 | 100
+172 | Snore | normal | special | 15 | 50 | 100
+173 | Harden | normal | other | 30 | 0 | 0
+174 | Synthesis | grass | other | 5 | 0 | 0
+175 | Power Whip | grass | physical | 10 | 120 | 85
+176 | Worry Seed | grass | other | 10 | 0 | 100
+177 | Recycle | normal | other | 10 | 0 | 0
+178 | High Jump Kick | fighting | physical | 10 | 130 | 90
+179 | Stockpile | normal | other | 20 | 0 | 0
+180 | Ice Ball | ice | physical | 20 | 30 | 90
+181 | Fury Swipes | normal | physical | 15 | 18 | 80
+182 | Reversal | fighting | physical | 15 | 1 | 100
+183 | Guillotine | normal | physical | 5 | 1 | 30
+184 | Baby-Doll Eyes | fairy | other | 30 | 0 | 100
+185 | Head Charge | normal | physical | 15 | 120 | 100
+186 | Aqua Ring | water | other | 20 | 0 | 0
+187 | Sky Drop | flying | physical | 10 | 60 | 100
+188 | Lock-On | normal | other | 5 | 0 | 0
+189 | Swagger | normal | other | 15 | 0 | 90
+190 | Curse | ghost | other | 10 | 0 | 0
+191 | Nasty Plot | dark | other | 20 | 0 | 0
+192 | Hyper Voice | normal | special | 10 | 90 | 100
+193 | Extreme Speed | normal | physical | 5 | 80 | 100
+194 | Odor Sleuth | normal | other | 40 | 0 | 0
+195 | Scald | water | special | 15 | 80 | 100
+196 | Force Palm | fighting | physical | 10 | 60 | 100
+197 | Leaf Blade | grass | physical | 15 | 90 | 100
+198 | Roar | normal | other | 20 | 0 | 0
+199 | Horn Attack | normal | physical | 25 | 65 | 100
+200 | After You | normal | other | 15 | 0 | 0
+201 | Reflect | psychic | other | 20 | 0 | 0
+202 | Seed Bomb | grass | physical | 15 | 80 | 100
+203 | Toxic Spikes | poison | other | 20 | 0 | 0
+204 | Agility | psychic | other | 30 | 0 | 0
+205 | Bone Rush | ground | physical | 10 | 25 | 90
+206 | Lucky Chant | normal | other | 30 | 0 | 0
+207 | Razor Wind | normal | special | 10 | 80 | 100
+208 | Grass Whistle | grass | other | 15 | 0 | 55
+209 | Low Sweep | fighting | physical | 20 | 65 | 100
+210 | Rock Throw | rock | physical | 15 | 50 | 90
+211 | Milk Drink | normal | other | 10 | 0 | 0
+212 | Outrage | dragon | physical | 10 | 120 | 100
+213 | Mega Punch | normal | physical | 20 | 80 | 85
+214 | Autotomize | steel | other | 15 | 0 | 0
+215 | Secret Power | normal | physical | 20 | 70 | 100
+216 | Stun Spore | grass | other | 30 | 0 | 75
+217 | Metal Sound | steel | other | 40 | 0 | 85
+218 | Relic Song | normal | special | 10 | 75 | 100
+219 | Tailwind | flying | other | 15 | 0 | 0
+220 | Wring Out | normal | special | 5 | 1 | 100
+221 | Knock Off | dark | physical | 25 | 65 | 100
+222 | Pay Day | normal | physical | 20 | 40 | 100
+223 | Giga Impact | normal | physical | 5 | 150 | 90
+224 | Sacred Sword | fighting | physical | 15 | 90 | 100
+225 | Leech Seed | grass | other | 10 | 0 | 90
+226 | Sticky Web | bug | other | 20 | 0 | 0
+227 | Sonic Boom | normal | special | 20 | 1 | 90
+228 | Blaze Kick | fire | physical | 10 | 85 | 90
+229 | Bone Club | ground | physical | 20 | 65 | 85
+230 | Aromatherapy | grass | other | 5 | 0 | 0
+231 | Swift | normal | special | 20 | 60 | 0
+232 | Miracle Eye | psychic | other | 40 | 0 | 0
+233 | Focus Punch | fighting | physical | 20 | 150 | 100
+234 | Growl | normal | other | 40 | 0 | 100
+235 | Splash | normal | other | 40 | 0 | 0
+236 | Magnet Rise | electric | other | 10 | 0 | 0
+237 | Stone Edge | rock | physical | 5 | 100 | 80
+238 | Gear Grind | steel | physical | 15 | 50 | 85
+239 | Barrage | normal | physical | 20 | 15 | 85
+240 | Dragon Rush | dragon | physical | 10 | 100 | 75
+241 | Sweet Scent | normal | other | 20 | 0 | 100
+242 | Night Slash | dark | physical | 15 | 70 | 100
+243 | String Shot | bug | other | 40 | 0 | 95
+244 | Scary Face | normal | other | 10 | 0 | 100
+245 | Weather Ball | normal | special | 10 | 50 | 100
+246 | U-turn | bug | physical | 20 | 70 | 100
+247 | Bite | dark | physical | 25 | 60 | 100
+248 | Mist | ice | other | 30 | 0 | 0
+249 | Horn Drill | normal | physical | 5 | 1 | 30
+250 | Spore | grass | other | 15 | 0 | 100
+251 | Arm Thrust | fighting | physical | 20 | 15 | 100
+252 | Tail Whip | normal | other | 30 | 0 | 100
+253 | Double Hit | normal | physical | 10 | 35 | 90
+254 | Meditate | psychic | other | 40 | 0 | 0
+255 | Karate Chop | fighting | physical | 25 | 50 | 100
+256 | Megahorn | bug | physical | 10 | 120 | 85
+257 | Howl | normal | other | 40 | 0 | 0
+258 | Heavy Slam | steel | physical | 10 | 1 | 100
+259 | Supersonic | normal | other | 20 | 0 | 55
+260 | Rock Tomb | rock | physical | 15 | 60 | 95
+261 | Telekinesis | psychic | other | 15 | 0 | 0
+262 | Octazooka | water | special | 10 | 65 | 85
+263 | Struggle | normal | physical | 1 | 50 | 0
+264 | Freeze Shock | ice | physical | 5 | 140 | 90
+265 | Shift Gear | steel | other | 10 | 0 | 0
+266 | Hold Back | normal | physical | 40 | 40 | 100
+267 | Mud-Slap | ground | special | 10 | 20 | 100
+268 | Grass Knot | grass | special | 20 | 1 | 100
+269 | Sleep Talk | normal | other | 10 | 0 | 0
+270 | Vice Grip | normal | physical | 30 | 55 | 100
+271 | Bullet Seed | grass | physical | 30 | 25 | 100
+272 | Defend Order | bug | other | 10 | 0 | 0
+273 | Hyper Beam | normal | special | 5 | 150 | 90
+274 | Snarl | dark | special | 15 | 55 | 95
+275 | Heal Pulse | psychic | other | 10 | 0 | 0
+276 | Meteor Mash | steel | physical | 10 | 90 | 90
+277 | Sweet Kiss | fairy | other | 10 | 0 | 75
+278 | Stomp | normal | physical | 20 | 65 | 100
+279 | Soft-Boiled | normal | other | 10 | 0 | 0
+280 | Hone Claws | dark | other | 15 | 0 | 0
+281 | Fusion Bolt | electric | physical | 5 | 100 | 100
+282 | Drain Punch | fighting | physical | 10 | 75 | 100
+283 | Focus Energy | normal | other | 30 | 0 | 0
+284 | Chatter | flying | special | 20 | 65 | 100
+285 | Pound | normal | physical | 35 | 40 | 100
+286 | Disarming Voice | fairy | special | 15 | 40 | 0
+287 | Dizzy Punch | normal | physical | 10 | 70 | 100
+288 | Muddy Water | water | special | 10 | 90 | 85
+289 | Ice Shard | ice | physical | 30 | 40 | 100
+290 | Withdraw | water | other | 40 | 0 | 0
+291 | Slash | normal | physical | 20 | 70 | 100
+292 | Lovely Kiss | normal | other | 10 | 0 | 75
+293 | Razor Shell | water | physical | 10 | 75 | 95
+294 | Leer | normal | other | 30 | 0 | 100
+295 | Rock Polish | rock | other | 20 | 0 | 0
+296 | Crush Claw | normal | physical | 10 | 75 | 95
+297 | Light Screen | psychic | other | 30 | 0 | 0
+298 | Play Rough | fairy | physical | 10 | 90 | 90
+299 | Low Kick | fighting | physical | 20 | 1 | 100
+300 | Slack Off | normal | other | 10 | 0 | 0
+301 | Mud Sport | ground | other | 15 | 0 | 0
+302 | Iron Defense | steel | other | 15 | 0 | 0
+303 | Role Play | psychic | other | 10 | 0 | 0
+304 | Spike Cannon | normal | physical | 15 | 20 | 100
+305 | Earthquake | ground | physical | 10 | 100 | 100
+306 | Flame Wheel | fire | physical | 25 | 60 | 100
+307 | Amnesia | psychic | other | 20 | 0 | 0
+308 | Egg Bomb | normal | physical | 10 | 100 | 75
+309 | Sludge Bomb | poison | special | 10 | 90 | 100
+310 | Spikes | ground | other | 20 | 0 | 0
+311 | Bolt Strike | electric | physical | 5 | 130 | 85
+312 | Payback | dark | physical | 10 | 50 | 100
+313 | Judgment | normal | special | 10 | 100 | 100
+314 | Heal Order | bug | other | 10 | 0 | 0
+315 | Dragon Claw | dragon | physical | 15 | 80 | 100
+316 | Conversion | normal | other | 30 | 0 | 0
+317 | Water Sport | water | other | 15 | 0 | 0
+318 | Iron Head | steel | physical | 15 | 80 | 100
+319 | Bide | normal | physical | 10 | 1 | 0
+320 | Helping Hand | normal | other | 20 | 0 | 0
+321 | Dive | water | physical | 10 | 80 | 100
+322 | Barrier | psychic | other | 20 | 0 | 0
+323 | Substitute | normal | other | 10 | 0 | 0
+324 | Drill Peck | flying | physical | 20 | 80 | 100
+325 | Cotton Spore | grass | other | 40 | 0 | 100
+326 | Mind Reader | normal | other | 5 | 0 | 0
+327 | Spit Up | normal | special | 10 | 1 | 100
+328 | Tail Glow | bug | other | 20 | 0 | 0
+329 | Feint Attack | dark | physical | 20 | 60 | 0
+330 | Hidden Power | normal | special | 15 | 60 | 100
+331 | Final Gambit | fighting | special | 5 | 1 | 100
+332 | Struggle Bug | bug | special | 20 | 50 | 100
+333 | Sludge Wave | poison | special | 10 | 95 | 100
+334 | Hammer Arm | fighting | physical | 10 | 100 | 90
+335 | Follow Me | normal | other | 20 | 0 | 0
+336 | Beat Up | dark | physical | 10 | 1 | 100
+337 | Healing Wish | psychic | other | 10 | 0 | 0
+338 | Fissure | ground | physical | 5 | 1 | 30
+339 | Minimize | normal | other | 10 | 0 | 0
+340 | Taunt | dark | other | 20 | 0 | 100
+341 | Fling | dark | physical | 10 | 1 | 100
+342 | Safeguard | normal | other | 25 | 0 | 0
+343 | Revenge | fighting | physical | 10 | 60 | 100
+344 | X-Scissor | bug | physical | 15 | 80 | 100
+345 | Pursuit | dark | physical | 20 | 40 | 100
+346 | Fake Out | normal | physical | 10 | 40 | 100
+347 | Smack Down | rock | physical | 15 | 50 | 100
+348 | Power-Up Punch | fighting | physical | 20 | 40 | 100
+349 | Haze | ice | other | 30 | 0 | 0
+350 | Super Fang | normal | physical | 10 | 1 | 90
+351 | Celebrate | normal | other | 40 | 0 | 0
+352 | Cross Poison | poison | physical | 20 | 70 | 100
+353 | Aqua Jet | water | physical | 20 | 40 | 100
+354 | Quick Attack | normal | physical | 30 | 40 | 100
+355 | Icicle Spear | ice | physical | 30 | 25 | 100
+356 | Will-O-Wisp | fire | other | 15 | 0 | 85
+357 | Assurance | dark | physical | 10 | 60 | 100
+358 | Explosion | normal | physical | 5 | 250 | 100
+359 | Poison Jab | poison | physical | 20 | 80 | 100
+360 | Attack Order | bug | physical | 15 | 90 | 100
+361 | Wing Attack | flying | physical | 35 | 60 | 100
+362 | Covet | normal | physical | 25 | 60 | 100
+363 | Body Slam | normal | physical | 15 | 85 | 100
+364 | Clear Smog | poison | special | 15 | 50 | 0
+365 | Dual Chop | dragon | physical | 15 | 40 | 90
+366 | Water Pledge | water | special | 10 | 80 | 100
+367 | Fire Punch | fire | physical | 15 | 75 | 100
+368 | Double Slap | normal | physical | 10 | 15 | 85
+369 | Punishment | dark | physical | 5 | 1 | 100
+370 | Ice Punch | ice | physical | 15 | 75 | 100
+371 | Double Team | normal | other | 15 | 0 | 0
+372 | Rage | normal | physical | 20 | 20 | 100
+373 | Stealth Rock | rock | other | 20 | 0 | 0
+374 | Fell Stinger | bug | physical | 25 | 30 | 100
+375 | Dragon Ascent | flying | physical | 5 | 120 | 100
+376 | Land's Wrath | ground | physical | 10 | 90 | 100
+377 | Reflect Type | normal | other | 15 | 0 | 0
+378 | Rock Blast | rock | physical | 10 | 25 | 90
+379 | Water Spout | water | special | 5 | 150 | 100
+380 | Hyperspace Fury | dark | physical | 5 | 100 | 0
+381 | Surf | water | special | 15 | 90 | 100
+382 | Endeavor | normal | physical | 5 | 1 | 100
+383 | Tri Attack | normal | special | 10 | 80 | 100
+384 | Nuzzle | electric | physical | 20 | 20 | 100
+385 | Iron Tail | steel | physical | 15 | 100 | 75
+386 | Ice Fang | ice | physical | 15 | 65 | 95
+387 | Poison Powder | poison | other | 35 | 0 | 75
+388 | Work Up | normal | other | 30 | 0 | 0
+389 | Sketch | normal | other | 1 | 0 | 0
+390 | Bulldoze | ground | physical | 20 | 60 | 100
+391 | Fake Tears | dark | other | 20 | 0 | 100
+392 | Leech Life | bug | physical | 15 | 20 | 100
+393 | Sand Tomb | ground | physical | 15 | 35 | 85
+394 | Fly | flying | physical | 15 | 90 | 95
+395 | Cut | normal | physical | 30 | 50 | 95
+396 | Comet Punch | normal | physical | 15 | 18 | 85
+397 | Rain Dance | water | other | 5 | 0 | 0
+398 | Wood Hammer | grass | physical | 15 | 120 | 100
+399 | Incinerate | fire | special | 15 | 60 | 100
+400 | False Swipe | normal | physical | 40 | 40 | 100
+401 | Bug Bite | bug | physical | 20 | 60 | 100
+402 | Poison Tail | poison | physical | 25 | 50 | 100
+403 | Rollout | rock | physical | 20 | 30 | 90
+404 | Topsy-Turvy | dark | other | 20 | 0 | 100
+405 | Camouflage | normal | other | 20 | 0 | 0
+406 | Shell Smash | normal | other | 15 | 0 | 0
+407 | Sleep Powder | grass | other | 15 | 0 | 75
+408 | Metal Claw | steel | physical | 35 | 50 | 95
+409 | Thousand Waves | ground | physical | 10 | 90 | 100
+410 | Flare Blitz | fire | physical | 15 | 120 | 100
+411 | Copycat | normal | other | 20 | 0 | 0
+412 | Flower Shield | fairy | other | 10 | 0 | 0
+413 | Coil | poison | other | 20 | 0 | 0
+414 | Water Pulse | water | special | 20 | 60 | 100
+415 | Bonemerang | ground | physical | 10 | 50 | 90
+416 | Electroweb | electric | special | 15 | 55 | 95
+417 | Uproar | normal | special | 10 | 90 | 100
+418 | Poison Fang | poison | physical | 15 | 50 | 100
+419 | Needle Arm | grass | physical | 15 | 60 | 100
+420 | Pin Missile | bug | physical | 20 | 25 | 95
+421 | Hypnosis | psychic | other | 20 | 0 | 60
+422 | Morning Sun | normal | other | 5 | 0 | 0
+423 | Rock Smash | fighting | physical | 15 | 40 | 100
+424 | Charm | fairy | other | 20 | 0 | 100
+425 | Vine Whip | grass | physical | 25 | 45 | 100
+426 | Psycho Cut | psychic | physical | 20 | 70 | 100
+427 | Magnet Bomb | steel | physical | 20 | 60 | 0
+428 | Swords Dance | normal | other | 20 | 0 | 0
+429 | Aromatic Mist | fairy | other | 20 | 0 | 100
+430 | Waterfall | water | physical | 15 | 80 | 100
+431 | Steam Eruption | water | special | 5 | 110 | 95
+432 | Spacial Rend | dragon | special | 5 | 100 | 95
+433 | Present | normal | physical | 15 | 1 | 90
+434 | Foul Play | dark | physical | 15 | 95 | 100
+435 | Thousand Arrows | ground | physical | 10 | 90 | 100
+436 | Fire Fang | fire | physical | 15 | 65 | 95
+437 | Defog | flying | other | 15 | 0 | 0
+438 | Gunk Shot | poison | physical | 5 | 120 | 80
+439 | Rapid Spin | normal | physical | 40 | 20 | 100
+440 | Torment | dark | other | 15 | 0 | 100
+441 | Flash | normal | other | 20 | 0 | 100
+442 | Metal Burst | steel | physical | 10 | 1 | 100
+443 | Fury Cutter | bug | physical | 20 | 40 | 95
+444 | Brave Bird | flying | physical | 15 | 120 | 100
+445 | Roost | flying | other | 10 | 0 | 0
+446 | Silver Wind | bug | special | 5 | 60 | 100
+447 | Origin Pulse | water | special | 10 | 110 | 85
+448 | Noble Roar | normal | other | 30 | 0 | 100
+449 | Bubble Beam | water | special | 20 | 65 | 100
+450 | Petal Dance | grass | special | 10 | 120 | 100
+451 | Charge | electric | other | 20 | 0 | 0
+452 | Poison Sting | poison | physical | 35 | 15 | 100
+453 | Steel Wing | steel | physical | 25 | 70 | 90
+454 | Thunder Punch | electric | physical | 15 | 75 | 100
+455 | Heal Block | psychic | other | 15 | 0 | 100
+456 | Ancient Power | rock | special | 5 | 60 | 100
+457 | Refresh | normal | other | 20 | 0 | 0
+458 | Whirlwind | normal | other | 20 | 0 | 0
+459 | Flame Charge | fire | physical | 20 | 50 | 100
+460 | Petal Blizzard | grass | physical | 15 | 90 | 100
+461 | Gyro Ball | steel | physical | 5 | 1 | 100
+462 | Electro Ball | electric | special | 10 | 1 | 100
+463 | Dazzling Gleam | fairy | special | 10 | 80 | 100
+464 | Hydro Cannon | water | special | 5 | 150 | 90
+465 | Whirlpool | water | special | 15 | 35 | 85
+466 | Mirror Shot | steel | special | 10 | 65 | 85
+467 | Thunder | electric | special | 10 | 110 | 70
+468 | Avalanche | ice | physical | 10 | 60 | 100
+469 | V-create | fire | physical | 5 | 180 | 95
+470 | Aerial Ace | flying | physical | 20 | 60 | 0
+471 | Recover | normal | other | 10 | 0 | 0
+472 | Chip Away | normal | physical | 20 | 70 | 100
+473 | Smokescreen | normal | other | 20 | 0 | 100
+474 | Round | normal | special | 15 | 60 | 100
+475 | Spark | electric | physical | 20 | 65 | 100
+476 | Precipice Blades | ground | physical | 10 | 120 | 85
+477 | Diamond Storm | rock | physical | 5 | 100 | 95
+478 | Shock Wave | electric | special | 20 | 60 | 0
+479 | Venoshock | poison | special | 10 | 65 | 100
+480 | Hail | ice | other | 10 | 0 | 0
+481 | Take Down | normal | physical | 20 | 90 | 85
+482 | Acid Spray | poison | special | 20 | 40 | 100
+483 | Volt Switch | electric | special | 20 | 70 | 100
+484 | Sacred Fire | fire | physical | 5 | 100 | 95
+485 | Ember | fire | special | 25 | 40 | 100
+486 | Heart Stamp | psychic | physical | 25 | 60 | 100
+487 | Happy Hour | normal | other | 30 | 0 | 0
+488 | Swallow | normal | other | 10 | 0 | 0
+489 | Mimic | normal | other | 10 | 0 | 0
+490 | Water Shuriken | water | physical | 20 | 15 | 100
+491 | Fire Spin | fire | special | 15 | 35 | 85
+492 | Psystrike | psychic | special | 10 | 100 | 100
+493 | Roar of Time | dragon | special | 5 | 150 | 90
+494 | Mud Shot | ground | special | 15 | 55 | 95
+495 | Ice Burn | ice | special | 5 | 140 | 90
+496 | Guard Swap | psychic | other | 10 | 0 | 0
+497 | Extrasensory | psychic | special | 20 | 80 | 100
+498 | Fire Blast | fire | special | 5 | 110 | 85
+499 | Icicle Crash | ice | physical | 10 | 85 | 90
+500 | Thrash | normal | physical | 10 | 120 | 100
+501 | Sky Attack | flying | physical | 5 | 140 | 90
+502 | Blast Burn | fire | special | 5 | 150 | 90
+503 | Dragon Breath | dragon | special | 20 | 60 | 100
+504 | Mega Drain | grass | special | 15 | 40 | 100
+505 | Psyshock | psychic | special | 10 | 80 | 100
+506 | Boomburst | normal | special | 10 | 140 | 100
+507 | Switcheroo | dark | other | 10 | 0 | 100
+508 | Dragon Rage | dragon | special | 10 | 1 | 100
+509 | Fusion Flare | fire | special | 5 | 100 | 100
+510 | Twineedle | bug | physical | 20 | 25 | 100
+511 | Gastro Acid | poison | other | 10 | 0 | 100
+512 | Bounce | flying | physical | 5 | 85 | 85
+513 | Fire Pledge | fire | special | 10 | 80 | 100
+514 | Twister | dragon | special | 20 | 40 | 100
+515 | Absorb | grass | special | 25 | 20 | 100
+516 | Spiky Shield | grass | other | 10 | 0 | 0
+517 | Charge Beam | electric | special | 10 | 50 | 90
+518 | Head Smash | rock | physical | 5 | 150 | 80
+519 | Giga Drain | grass | special | 10 | 75 | 100
+520 | Light of Ruin | fairy | special | 5 | 140 | 90
+521 | Mystical Fire | fire | special | 10 | 65 | 100
+522 | Acrobatics | flying | physical | 15 | 55 | 100
+523 | Wrap | normal | physical | 20 | 15 | 90
+524 | Overheat | fire | special | 5 | 130 | 90
+525 | Quash | dark | other | 15 | 0 | 100
+526 | Sandstorm | rock | other | 10 | 0 | 0
+527 | Earth Power | ground | special | 10 | 90 | 100
+528 | Power Split | psychic | other | 10 | 0 | 0
+529 | Dark Pulse | dark | special | 15 | 80 | 100
+530 | Flame Burst | fire | special | 15 | 70 | 100
+531 | Aurora Beam | ice | special | 20 | 65 | 100
+532 | Peck | flying | physical | 35 | 35 | 100
+533 | Wonder Room | psychic | other | 10 | 0 | 0
+534 | Geomancy | fairy | other | 10 | 0 | 0
+535 | Blue Flare | fire | special | 5 | 130 | 85
+536 | Night Daze | dark | special | 10 | 85 | 95
+537 | Mirror Coat | psychic | special | 20 | 1 | 100
+538 | Glare | normal | other | 30 | 0 | 100
+539 | Power Swap | psychic | other | 10 | 0 | 0
+540 | Sucker Punch | dark | physical | 5 | 80 | 100
+541 | Ally Switch | psychic | other | 15 | 0 | 0
+542 | Ion Deluge | electric | other | 25 | 0 | 0
+543 | Bind | normal | physical | 20 | 15 | 85
+544 | Air Cutter | flying | special | 25 | 60 | 95
+545 | Flamethrower | fire | special | 15 | 90 | 100
+546 | Leaf Tornado | grass | special | 10 | 65 | 90
+547 | Rock Slide | rock | physical | 10 | 75 | 90
+548 | Fairy Wind | fairy | special | 30 | 40 | 100
+549 | Trick Room | psychic | other | 5 | 0 | 0
+550 | Pluck | flying | physical | 20 | 60 | 100
+551 | Electric Terrain | electric | other | 10 | 0 | 0
+552 | Discharge | electric | special | 15 | 80 | 100
+553 | Aeroblast | flying | special | 5 | 100 | 95
+554 | Eruption | fire | special | 5 | 150 | 100
+555 | Sheer Cold | ice | special | 5 | 1 | 30
+556 | Luster Purge | psychic | special | 5 | 70 | 100
+557 | Volt Tackle | electric | physical | 15 | 120 | 100
+558 | Guard Split | psychic | other | 10 | 0 | 0
+559 | Ice Beam | ice | special | 10 | 90 | 100
+560 | Fiery Dance | fire | special | 10 | 80 | 100
+561 | Frenzy Plant | grass | special | 5 | 150 | 90
+562 | Magical Leaf | grass | special | 20 | 60 | 0
+563 | Crafty Shield | fairy | other | 10 | 0 | 0
+564 | Grass Pledge | grass | special | 10 | 80 | 100
+565 | Air Slash | flying | special | 15 | 75 | 95
+566 | Sunny Day | fire | other | 5 | 0 | 0
+567 | Oblivion Wing | flying | special | 10 | 80 | 100
+568 | Flash Cannon | steel | special | 10 | 80 | 100
+569 | Heart Swap | psychic | other | 10 | 0 | 0
+570 | Seed Flare | grass | special | 5 | 120 | 85
+571 | Solar Beam | grass | special | 10 | 120 | 100
+572 | Inferno | fire | special | 5 | 100 | 50
+573 | Icy Wind | ice | special | 15 | 55 | 95
+574 | Confusion | psychic | special | 25 | 50 | 100
+575 | Searing Shot | fire | special | 5 | 100 | 100
+576 | Fairy Lock | fairy | other | 10 | 0 | 0
+577 | Dragon Pulse | dragon | special | 10 | 85 | 100
+578 | Psywave | psychic | special | 15 | 1 | 100
+579 | Heat Wave | fire | special | 10 | 95 | 90
+580 | Parabolic Charge | electric | special | 20 | 50 | 100
+581 | Powder Snow | ice | special | 25 | 40 | 100
+582 | Psycho Boost | psychic | special | 5 | 140 | 90
+583 | Power Gem | rock | special | 20 | 80 | 100
+584 | Psycho Shift | psychic | other | 10 | 0 | 100
+585 | Grassy Terrain | grass | other | 10 | 0 | 0
+586 | Gust | flying | special | 35 | 40 | 100
+587 | Energy Ball | grass | special | 10 | 90 | 100
+588 | Stored Power | psychic | special | 10 | 20 | 100
+589 | Draco Meteor | dragon | special | 5 | 130 | 90
+590 | Gravity | psychic | other | 5 | 0 | 0
+591 | Blizzard | ice | special | 5 | 110 | 70
+592 | Glaciate | ice | special | 10 | 65 | 95
+593 | Magic Room | psychic | other | 10 | 0 | 0
+594 | Signal Beam | bug | special | 15 | 75 | 100
+595 | Mud Bomb | ground | special | 10 | 65 | 85
+596 | Hyperspace Hole | psychic | special | 5 | 80 | 0
+597 | Hydro Pump | water | special | 5 | 110 | 80
+598 | Freeze-Dry | ice | special | 20 | 70 | 100
+599 | Moonblast | fairy | special | 15 | 95 | 100
+600 | Dream Eater | psychic | special | 15 | 100 | 100
+601 | Thunderbolt | electric | special | 15 | 90 | 100
+602 | Bug Buzz | bug | special | 10 | 90 | 100
+603 | Mist Ball | psychic | special | 5 | 70 | 100
+604 | Psybeam | psychic | special | 20 | 65 | 100
+605 | Bubble | water | special | 30 | 40 | 100
+606 | Leaf Storm | grass | special | 5 | 130 | 90
+607 | Trick | psychic | other | 10 | 0 | 100
+608 | Misty Terrain | fairy | other | 10 | 0 | 0
+609 | Water Gun | water | special | 25 | 40 | 100
+610 | Frost Breath | ice | special | 10 | 60 | 90
+611 | Electrify | electric | other | 20 | 0 | 0
+612 | Infestation | bug | special | 20 | 20 | 100
+613 | Acid | poison | special | 30 | 40 | 100
+614 | Draining Kiss | fairy | special | 10 | 50 | 100
+615 | Synchronoise | psychic | special | 10 | 120 | 100
+616 | Skill Swap | psychic | other | 10 | 0 | 0
+617 | Rage Powder | bug | other | 20 | 0 | 0
+618 | King's Shield | steel | other | 10 | 0 | 0
+619 | Teleport | psychic | other | 20 | 0 | 0
+620 | Zap Cannon | electric | special | 5 | 120 | 50
+621 | Thunder Shock | electric | special | 30 | 40 | 100
+622 | Tackle | normal | physical | 35 | 50 | 100
+623 | Mirror Move | flying | other | 20 | 0 | 0
+624 | Horn Leech | grass | physical | 10 | 75 | 100
+625 | Thief | dark | physical | 25 | 60 | 100
+626 | Trick-or-Treat | ghost | other | 20 | 0 | 100
+627 | Acupressure | normal | other | 30 | 0 | 0
+628 | Magic Coat | psychic | other | 15 | 0 | 0
+629 | Phantom Force | ghost | physical | 10 | 90 | 100
+630 | Rock Climb | normal | physical | 20 | 90 | 85
+631 | Brine | water | special | 10 | 65 | 100
+632 | Night Shade | ghost | special | 15 | 1 | 100
+633 | Feather Dance | flying | other | 15 | 0 | 100
+634 | Sing | normal | other | 15 | 0 | 55
+635 | Detect | fighting | other | 5 | 0 | 0
+636 | Sludge | poison | special | 20 | 65 | 100
+637 | Cross Chop | fighting | physical | 5 | 100 | 80
+638 | Transform | normal | other | 10 | 0 | 0
+639 | Yawn | normal | other | 10 | 0 | 0
+640 | Play Nice | normal | other | 20 | 0 | 0
+641 | Hex | ghost | special | 10 | 65 | 100
+642 | Spite | ghost | other | 10 | 0 | 100
+643 | Counter | fighting | physical | 20 | 1 | 100
+644 | Screech | normal | other | 40 | 0 | 85
+645 | Powder | bug | other | 20 | 0 | 100
+646 | Ominous Wind | ghost | special | 5 | 60 | 100
+647 | Heal Bell | normal | other | 5 | 0 | 0
+648 | Snatch | dark | other | 10 | 0 | 0
+649 | Imprison | psychic | other | 10 | 0 | 0
+650 | Double Kick | fighting | physical | 30 | 30 | 100
+651 | Belch | poison | special | 10 | 120 | 90
+652 | Sky Uppercut | fighting | physical | 15 | 85 | 90
+653 | Feint | normal | physical | 10 | 30 | 100
+654 | Sharpen | normal | other | 30 | 0 | 0
+655 | Shadow Ball | ghost | special | 15 | 80 | 100
+656 | Tickle | normal | other | 20 | 0 | 100
+657 | Magnitude | ground | physical | 30 | 1 | 100
+658 | Scratch | normal | physical | 35 | 40 | 100
+659 | Parting Shot | dark | other | 20 | 0 | 100
+660 | Flying Press | fighting | physical | 10 | 80 | 95
+661 | Confuse Ray | ghost | other | 10 | 0 | 100
+662 | Confide | normal | other | 20 | 0 | 0
+663 | Perish Song | normal | other | 5 | 0 | 0
+664 | Protect | normal | other | 10 | 0 | 0
+665 | Nature Power | normal | other | 20 | 0 | 0
+666 | Future Sight | psychic | special | 10 | 120 | 100
+667 | Submission | fighting | physical | 25 | 80 | 80
+668 | Encore | normal | other | 5 | 0 | 100
+669 | Shadow Claw | ghost | physical | 15 | 70 | 100
+670 | Strength | normal | physical | 15 | 80 | 100
+671 | Spider Web | bug | other | 10 | 0 | 0
+672 | Clamp | water | physical | 15 | 35 | 85
+673 | Destiny Bond | ghost | other | 5 | 0 | 0
+674 | Mean Look | normal | other | 5 | 0 | 0
+675 | Quick Guard | fighting | other | 15 | 0 | 0
+676 | Psych Up | normal | other | 10 | 0 | 0
+677 | Magma Storm | fire | special | 5 | 100 | 75
+678 | Hold Hands | normal | other | 40 | 0 | 0
+679 | Tail Slap | normal | physical | 10 | 25 | 85
+680 | Tackle | normal | physical | 35 | 50 | 100
+681 | Mirror Move | flying | other | 20 | 0 | 0
+682 | Horn Leech | grass | physical | 10 | 75 | 100
+683 | Thief | dark | physical | 25 | 60 | 100
+684 | Acupressure | normal | other | 30 | 0 | 0
+685 | Magic Coat | psychic | other | 15 | 0 | 0
+686 | Rock Climb | normal | physical | 20 | 90 | 85
+687 | Trick-or-Treat | ghost | other | 20 | 0 | 100
+688 | Brine | water | special | 10 | 65 | 100
+689 | Counter | fighting | physical | 20 | 1 | 100
+690 | Feather Dance | flying | other | 15 | 0 | 100
+691 | Sing | normal | other | 15 | 0 | 55
+692 | Detect | fighting | other | 5 | 0 | 0
+693 | Sludge | poison | special | 20 | 65 | 100
+694 | Cross Chop | fighting | physical | 5 | 100 | 80
+695 | Belch | poison | special | 10 | 120 | 90
+696 | Transform | normal | other | 10 | 0 | 0
+697 | Yawn | normal | other | 10 | 0 | 0
+698 | Play Nice | normal | other | 20 | 0 | 0
+699 | Magnitude | ground | physical | 30 | 1 | 100
+700 | Spite | ghost | other | 10 | 0 | 100
+701 | Phantom Force | ghost | physical | 10 | 90 | 100
+702 | Flying Press | fighting | physical | 10 | 80 | 95
+703 | Screech | normal | other | 40 | 0 | 85
+704 | Powder | bug | other | 20 | 0 | 100
+705 | Heal Bell | normal | other | 5 | 0 | 0
+706 | Snatch | dark | other | 10 | 0 | 0
+707 | Double Kick | fighting | physical | 30 | 30 | 100
+708 | Imprison | psychic | other | 10 | 0 | 0
+709 | Magma Storm | fire | special | 5 | 100 | 75
+710 | Sharpen | normal | other | 30 | 0 | 0
+711 | Tickle | normal | other | 20 | 0 | 100
+712 | Strength | normal | physical | 15 | 80 | 100
+713 | Night Shade | ghost | special | 15 | 1 | 100
+714 | Scratch | normal | physical | 35 | 40 | 100
+715 | Parting Shot | dark | other | 20 | 0 | 100
+716 | Confide | normal | other | 20 | 0 | 0
+717 | Nature Power | normal | other | 20 | 0 | 0
+718 | Protect | normal | other | 10 | 0 | 0
+719 | Feint | normal | physical | 10 | 30 | 100
+720 | Sky Uppercut | fighting | physical | 15 | 85 | 90
+721 | Slam | normal | physical | 20 | 80 | 75
+722 | Tail Slap | normal | physical | 10 | 25 | 85
+723 | Hold Hands | normal | other | 40 | 0 | 0
+724 | Encore | normal | other | 5 | 0 | 100
+725 | Spider Web | bug | other | 10 | 0 | 0
+726 | Clamp | water | physical | 15 | 35 | 85
+727 | Hex | ghost | special | 10 | 65 | 100
+728 | Wide Guard | rock | other | 10 | 0 | 0
+729 | Ominous Wind | ghost | special | 5 | 60 | 100
+730 | Smog | poison | special | 20 | 30 | 70
+731 | Attract | normal | other | 15 | 0 | 100
+732 | Mean Look | normal | other | 5 | 0 | 0
+733 | Hyper Fang | normal | physical | 15 | 80 | 90
+734 | Teeter Dance | normal | other | 20 | 0 | 100
+735 | Memento | dark | other | 10 | 0 | 100
+736 | Submission | fighting | physical | 25 | 80 | 80
+737 | Perish Song | normal | other | 5 | 0 | 0
+738 | Quick Guard | fighting | other | 15 | 0 | 0
+739 | Tackle | normal | physical | 35 | 50 | 100 | -- % | 0 | Yes | No | No
+740 | Mirror Move | flying | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+741 | Horn Leech | grass | physical | 10 | 75 | 100 | -- % | 0 | Yes | No | No
+742 | Thief | dark | physical | 25 | 60 | 100 | -- % | 0 | Yes | No | No
+743 | Brine | water | special | 10 | 65 | 100 | -- % | 0 | No | No | No
+744 | Acupressure | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+745 | Trick-or-Treat | ghost | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+746 | Magic Coat | psychic | other | 15 | 0 | 0 | <img src="/pokedex-bw/type/normal.gif"> | 15 | 30 | -- | 100
+747 | Spite | ghost | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+748 | Rock Climb | normal | physical | 20 | 90 | 85 | 20 % | 0 | Yes | No | No
+749 | Cross Chop | fighting | physical | 5 | 100 | 80 | -- % | 0 | Yes | No | No
+750 | Feather Dance | flying | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+751 | Sing | normal | other | 15 | 0 | 55 | -- % | 0 | No | Yes | No
+752 | Detect | fighting | other | 5 | 0 | 0 | -- % | 4 | No | No | No
+753 | Phantom Force | ghost | physical | 10 | 90 | 100 | -- % | 0 | Yes | No | No
+754 | Sludge | poison | special | 20 | 65 | 100 | 30 % | 0 | No | No | No
+755 | Transform | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+756 | Yawn | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+757 | Play Nice | normal | other | 20 | 0 | 0 | 100 % | 0 | No | No | No
+758 | Double Kick | fighting | physical | 30 | 30 | 100 | -- % | 0 | Yes | No | No
+759 | Counter | fighting | physical | 20 | 1 | 100 | -- % | -5 | Yes | No | No
+760 | Scratch | normal | physical | 35 | 40 | 100 | -- % | 0 | Yes | No | No
+761 | Sky Uppercut | fighting | physical | 15 | 85 | 90 | -- % | 0 | Yes | No | Yes
+762 | Screech | normal | other | 40 | 0 | 85 | -- % | 0 | No | Yes | No
+763 | Powder | bug | other | 20 | 0 | 100 | -- % | 1 | No | No | No
+764 | Heal Bell | normal | other | 5 | 0 | 0 | -- % | 0 | No | Yes | No
+765 | Snatch | dark | other | 10 | 0 | 0 | <img src="/pokedex-bw/type/poison.gif"> | 20 | 30 | -- | --
+766 | Belch | poison | special | 10 | 120 | 90 | -- % | 0 | No | No | No
+767 | Night Shade | ghost | special | 15 | 1 | 100 | -- % | 0 | No | No | No
+768 | Imprison | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+769 | Sharpen | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+770 | Tickle | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+771 | Submission | fighting | physical | 25 | 80 | 80 | -- % | 0 | Yes | No | No
+772 | Clamp | water | physical | 15 | 35 | 85 | 100 % | 0 | Yes | No | No
+773 | Magnitude | ground | physical | 30 | 1 | 100 | -- % | 0 | No | No | No
+774 | Smog | poison | special | 20 | 30 | 70 | 40 % | 0 | No | No | No
+775 | Quick Guard | fighting | other | 15 | 0 | 0 | -- % | 3 | No | No | No
+776 | Parting Shot | dark | other | 20 | 0 | 100 | 100 % | 0 | No | Yes | No
+777 | Confide | normal | other | 20 | 0 | 0 | 100 % | 0 | No | Yes | No
+778 | Nature Power | normal | other | 20 | 0 | 0 | Buildings | Caves & Mountains | <a href="energyball.shtml">Energy ball</a> | Snow | <a href="blizzard.shtml">Blizzard</a>
+779 | Protect | normal | other | 10 | 0 | 0 | -- % | 4 | No | No | No
+780 | Feint | normal | physical | 10 | 30 | 100 | -- % | 2 | No | No | No
+781 | Hex | ghost | special | 10 | 65 | 100 | -- % | 0 | No | No | No
+782 | Magma Storm | fire | special | 5 | 100 | 75 | 100 % | 0 | No | No | No
+783 | Tail Slap | normal | physical | 10 | 25 | 85 | -- % | 0 | Yes | No | No
+784 | Hold Hands | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+785 | Encore | normal | other | 5 | 0 | 100 | -- % | 0 | No | No | No
+786 | Spider Web | bug | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+787 | Bulk Up | fighting | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+788 | Crush Grip | normal | physical | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+789 | Flying Press | fighting | physical | 10 | 80 | 95 | <a href="/attackdex-xy/normal.shtml"><img src="/games/type/normal2.gif" border="0" /></a> | <a href="/attackdex-xy/water.shtml"><img src="/games/type/water2.gif" border="0" /></a> | <a href="/attackdex-xy/poison.shtml"><img src="/games/type/poison2.gif" border="0" /></a> | <a href="/attackdex-xy/ground.shtml"><img src="/games/type/ground2.gif" border="0" /></a> | <a href="/attackdex-xy/flying.shtml"><img src="/games/type/flying2.gif" border="0" /></a>
+790 | Heat Crash | fire | physical | 10 | 1 | 100 | -- % | 0 | Yes | No | No
+791 | Storm Throw | fighting | physical | 10 | 60 | 100 | -- % | 0 | Yes | No | No
+792 | Attract | normal | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+793 | Mean Look | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+794 | Hyper Fang | normal | physical | 15 | 80 | 90 | 10 % | 0 | Yes | No | No
+795 | Teeter Dance | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+796 | Slam | normal | physical | 20 | 80 | 75 | -- % | 0 | Yes | No | No
+797 | Ominous Wind | ghost | special | 5 | 60 | 100 | 10 % | 0 | No | No | No
+798 | Perish Song | normal | other | 5 | 0 | 0 | -- % | 0 | No | Yes | No
+799 | Shadow Ball | ghost | special | 15 | 80 | 100 | 20 % | 0 | No | No | No
+800 | Memento | dark | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+801 | Natural Gift | normal | physical | 15 | 1 | 100 | <table align="center"><tr><td class="pkmn"><a href="/itemdex/cheriberry.shtml"><img src="/itemdex/sprites/cheriberry.png" border="0" /></a> | <table align="center"><tr><td class="pkmn"><a href="/itemdex/chestoberry.shtml"><img src="/itemdex/sprites/chestoberry.png" border="0" /></a> | <a href="/itemdex/rawstberry.shtml">Rawst Berry</a> | <table align="center"><tr><td class="pkmn"><a href="/itemdex/aspearberry.shtml"><img src="/itemdex/sprites/aspearberry.png" border="0" /></a> | <a href="/itemdex/aspearberry.shtml">Aspear Berry</a>
+802 | Facade | normal | physical | 20 | 70 | 100 | -- % | 0 | Yes | No | No
+803 | Eerie Impulse | electric | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+804 | Disable | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+805 | Jump Kick | fighting | physical | 10 | 100 | 95 | -- % | 0 | Yes | No | No
+806 | Headbutt | normal | physical | 15 | 70 | 100 | 30 % | 0 | Yes | No | No
+807 | Strength | normal | physical | 15 | 80 | 100 | -- % | 0 | Yes | No | No
+808 | Vital Throw | fighting | physical | 10 | 70 | 0 | -- % | -1 | Yes | No | No
+809 | Venom Drench | poison | other | 20 | 0 | 100 | 100 % | 0 | No | No | No
+810 | Captivate | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+811 | Techno Blast | normal | special | 5 | 120 | 100 | -- % | 0 | No | No | No
+812 | Baton Pass | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+813 | Confuse Ray | ghost | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+814 | Future Sight | psychic | special | 10 | 120 | 100 | -- % | 0 | No | No | No
+815 | Superpower | fighting | physical | 5 | 120 | 100 | 100 % | 0 | Yes | No | No
+816 | Growth | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+817 | Return | normal | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+818 | Block | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+819 | Secret Sword | fighting | special | 10 | 85 | 100 | -- % | 0 | No | No | No
+820 | Flatter | dark | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+821 | Wide Guard | rock | other | 10 | 0 | 0 | -- % | 3 | No | No | No
+822 | Rock Wrecker | rock | physical | 5 | 150 | 90 | -- % | 0 | No | No | No
+823 | Soak | water | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+824 | Dynamic Punch | fighting | physical | 5 | 100 | 50 | 100 % | 0 | Yes | No | Yes
+825 | Embargo | dark | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+826 | Flail | normal | physical | 15 | 1 | 100 | -- % | 0 | Yes | No | No
+827 | Wish | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+828 | Psych Up | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+829 | Wake-Up Slap | fighting | physical | 10 | 70 | 100 | -- % | 0 | Yes | No | No
+830 | Shadow Claw | ghost | physical | 15 | 70 | 100 | -- % | 0 | Yes | No | No
+831 | Trump Card | normal | special | 5 | 1 | 0 | -- % | 0 | Yes | No | No
+832 | Echoed Voice | normal | special | 15 | 40 | 100 | -- % | 0 | No | Yes | No
+833 | Dark Void | dark | other | 10 | 0 | 80 | -- % | 0 | No | No | No
+834 | Aura Sphere | fighting | special | 20 | 80 | 0 | -- % | 0 | No | No | No
+835 | Foresight | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+836 | Wild Charge | electric | physical | 15 | 90 | 100 | -- % | 0 | Yes | No | No
+837 | Bullet Punch | steel | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | Yes
+838 | Thunder Wave | electric | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+839 | Triple Kick | fighting | physical | 10 | 10 | 90 | -- % | 0 | Yes | No | No
+840 | Simple Beam | normal | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+841 | Last Resort | normal | physical | 5 | 140 | 100 | -- % | 0 | Yes | No | No
+842 | Assist | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+843 | Double-Edge | normal | physical | 15 | 120 | 100 | -- % | 0 | Yes | No | No
+844 | Destiny Bond | ghost | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+845 | Mega Kick | normal | physical | 5 | 120 | 75 | -- % | 0 | Yes | No | No
+846 | Doom Desire | steel | special | 5 | 140 | 100 | -- % | 0 | No | No | No
+847 | Sand Attack | ground | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+848 | Mat Block | fighting | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+849 | Dig | ground | physical | 10 | 80 | 100 | -- % | 0 | Yes | No | No
+850 | Swagger | normal | other | 15 | 0 | 90 | -- % | 0 | No | No | No
+851 | Drill Run | ground | physical | 10 | 80 | 95 | -- % | 0 | Yes | No | No
+852 | Focus Blast | fighting | special | 5 | 120 | 70 | 10 % | 0 | No | No | No
+853 | Lunar Dance | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+854 | Toxic | poison | other | 10 | 0 | 90 | -- % | 0 | No | No | No
+855 | Defense Curl | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+856 | Shadow Sneak | ghost | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | No
+857 | Dragon Tail | dragon | physical | 10 | 60 | 90 | -- % | -6 | Yes | No | No
+858 | Conversion 2 | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+859 | Shadow Force | ghost | physical | 5 | 120 | 100 | -- % | 0 | Yes | No | No
+860 | Bestow | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+861 | Poison Gas | poison | other | 40 | 0 | 90 | -- % | 0 | No | No | No
+862 | Rest | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+863 | Vacuum Wave | fighting | special | 30 | 40 | 100 | -- % | 1 | No | No | No
+864 | Skull Bash | normal | physical | 10 | 130 | 100 | 100 % | 0 | Yes | No | No
+865 | Toxic Spikes | poison | other | 20 | 0 | 0 | 1 Layer | 2+ Layers | Entry Hazard | <a href="/attackdex-xy/clever.shtml"><img src="/pokedex-bw/type/clever.png" border="0" alt="Clever" /></a> | <img src="/pokedex-bw/type/heart.png" /><img src="/pokedex-bw/type/heart.png" />
+866 | Seismic Toss | fighting | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+867 | Stun Spore | grass | other | 30 | 0 | 75 | -- % | 0 | No | No | No
+868 | Mach Punch | fighting | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | Yes
+869 | Magnetic Flux | electric | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+870 | Forest's Curse | grass | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+871 | Fury Attack | normal | physical | 20 | 15 | 85 | -- % | 0 | Yes | No | No
+872 | Astonish | ghost | physical | 15 | 30 | 100 | 30 % | 0 | Yes | No | No
+873 | Belly Drum | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+874 | Self-Destruct | normal | physical | 5 | 200 | 100 | -- % | 0 | No | No | No
+875 | Lick | ghost | physical | 30 | 30 | 100 | 30 % | 0 | Yes | No | No
+876 | Frustration | normal | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+877 | Dragon Dance | dragon | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+878 | Rolling Kick | fighting | physical | 15 | 60 | 85 | 30 % | 0 | Yes | No | No
+879 | Endure | normal | other | 10 | 0 | 0 | -- % | 4 | No | No | No
+880 | Psychic | psychic | special | 10 | 90 | 100 | 10 % | 0 | No | No | No
+881 | Metal Sound | steel | other | 40 | 0 | 85 | -- % | 0 | No | Yes | No
+882 | Lava Plume | fire | special | 15 | 80 | 100 | 30 % | 0 | No | No | No
+883 | Miracle Eye | psychic | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+884 | Entrainment | normal | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+885 | Close Combat | fighting | physical | 5 | 120 | 100 | 100 % | 0 | Yes | No | No
+886 | Brick Break | fighting | physical | 15 | 75 | 100 | -- % | 0 | Yes | No | No
+887 | Cosmic Power | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+888 | Snore | normal | special | 15 | 50 | 100 | 30 % | 0 | No | Yes | No
+889 | Shadow Punch | ghost | physical | 20 | 60 | 0 | -- % | 0 | Yes | No | Yes
+890 | Pain Split | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+891 | Acid Armor | poison | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+892 | Nightmare | ghost | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+893 | Lock-On | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+894 | Ingrain | grass | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+895 | Circle Throw | fighting | physical | 10 | 60 | 90 | -- % | -6 | Yes | No | No
+896 | Smelling Salts | normal | physical | 10 | 70 | 100 | -- % | 0 | Yes | No | No
+897 | Kinesis | psychic | other | 15 | 0 | 80 | -- % | 0 | No | No | No
+898 | Growl | normal | other | 40 | 0 | 100 | -- % | 0 | No | Yes | No
+899 | Worry Seed | grass | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+900 | High Jump Kick | fighting | physical | 10 | 130 | 90 | -- % | 0 | Yes | No | No
+901 | Cotton Guard | grass | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+902 | Rototiller | ground | other | 10 | 0 | 0 | 100 % | 0 | No | No | No
+903 | Constrict | normal | physical | 35 | 10 | 100 | 10 % | 0 | Yes | No | No
+904 | Zen Headbutt | psychic | physical | 15 | 80 | 90 | 20 % | 0 | Yes | No | No
+905 | Hyper Voice | normal | special | 10 | 90 | 100 | -- % | 0 | No | Yes | No
+906 | Retaliate | normal | physical | 5 | 70 | 100 | -- % | 0 | Yes | No | No
+907 | Moonlight | fairy | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+908 | Reversal | fighting | physical | 15 | 1 | 100 | -- % | 0 | Yes | No | No
+909 | Baby-Doll Eyes | fairy | other | 30 | 0 | 100 | -- % | 1 | No | No | No
+910 | Spore | grass | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+911 | Force Palm | fighting | physical | 10 | 60 | 100 | 30 % | 0 | Yes | No | No
+912 | Quiver Dance | bug | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+913 | Hurricane | flying | special | 10 | 110 | 70 | 30 % | 0 | No | No | No
+914 | Metronome | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+915 | After You | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+916 | Thunder Fang | electric | physical | 15 | 65 | 95 | 10 % | 0 | Yes | No | No
+917 | Crunch | dark | physical | 15 | 80 | 100 | 20 % | 0 | Yes | No | No
+918 | Steamroller | bug | physical | 20 | 65 | 100 | 30 % | 0 | Yes | No | No
+919 | Aqua Tail | water | physical | 10 | 90 | 90 | -- % | 0 | Yes | No | No
+920 | Razor Wind | normal | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+921 | Me First | normal | other | 20 | 1 | 0 | -- % | 0 | No | No | No
+922 | Stockpile | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+923 | Recycle | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+924 | Power Trick | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+925 | Low Sweep | fighting | physical | 20 | 65 | 100 | 100 % | 0 | Yes | No | No
+926 | Tail Whip | normal | other | 30 | 0 | 100 | -- % | 0 | No | No | No
+927 | Odor Sleuth | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+928 | Sacred Sword | fighting | physical | 15 | 90 | 100 | -- % | 0 | Yes | No | No
+929 | Calm Mind | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+930 | Guillotine | normal | physical | 5 | 1 | 30 | -- % | 0 | Yes | No | No
+931 | Fury Swipes | normal | physical | 15 | 18 | 80 | -- % | 0 | Yes | No | No
+932 | Milk Drink | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+933 | Ice Ball | ice | physical | 20 | 30 | 90 | -- % | 0 | Yes | No | No
+934 | Crabhammer | water | physical | 10 | 100 | 90 | -- % | 0 | Yes | No | No
+935 | Grudge | ghost | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+936 | Harden | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+937 | Leaf Blade | grass | physical | 15 | 90 | 100 | -- % | 0 | Yes | No | No
+938 | Pay Day | normal | physical | 20 | 40 | 100 | -- % | 0 | No | No | No
+939 | Scald | water | special | 15 | 80 | 100 | 30 % | 0 | No | No | No
+940 | Extreme Speed | normal | physical | 5 | 80 | 100 | -- % | 2 | Yes | No | No
+941 | Synthesis | grass | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+942 | Mud-Slap | ground | special | 10 | 20 | 100 | 100 % | 0 | No | No | No
+943 | Roar | normal | other | 20 | 0 | 0 | -- % | -6 | No | Yes | No
+944 | Fling | dark | physical | 10 | 1 | 100 | <table align="center"><tr><td class="pkmn"><a href="/itemdex/flameorb.shtml"><img src="/itemdex/sprites/flameorb.png" border="0" /></a> | <table align="center"><tr><td class="pkmn"><a href="/itemdex/kingsrock.shtml"><img src="/itemdex/sprites/king'srock.png" border="0" /></a> | 10 | <table align="center"><tr><td class="pkmn"><a href="/itemdex/poisonbarb.shtml"><img src="/itemdex/sprites/poisonbarb.png" border="0" /></a> | 70
+945 | Aqua Ring | water | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+946 | Horn Attack | normal | physical | 25 | 65 | 100 | -- % | 0 | Yes | No | No
+947 | Rock Throw | rock | physical | 15 | 50 | 90 | -- % | 0 | No | No | No
+948 | Grass Knot | grass | special | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+949 | Sonic Boom | normal | special | 20 | 1 | 90 | -- % | 0 | No | No | No
+950 | Outrage | dragon | physical | 10 | 120 | 100 | -- % | 0 | Yes | No | No
+951 | Sky Drop | flying | physical | 10 | 60 | 100 | -- % | 0 | Yes | No | No
+952 | Curse | ghost | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+953 | Knock Off | dark | physical | 25 | 65 | 100 | -- % | 0 | Yes | No | No
+954 | Barrage | normal | physical | 20 | 15 | 85 | -- % | 0 | No | No | No
+955 | Chatter | flying | special | 20 | 65 | 100 | 100 % | 0 | No | Yes | No
+956 | Lucky Chant | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+957 | Nasty Plot | dark | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+958 | Giga Impact | normal | physical | 5 | 150 | 90 | -- % | 0 | Yes | No | No
+959 | Icicle Spear | ice | physical | 30 | 25 | 100 | -- % | 0 | No | No | No
+960 | Grass Whistle | grass | other | 15 | 0 | 55 | -- % | 0 | No | Yes | No
+961 | Assurance | dark | physical | 10 | 60 | 100 | -- % | 0 | Yes | No | No
+962 | Sticky Web | bug | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+963 | Reflect | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+964 | Secret Power | normal | physical | 20 | 70 | 100 | Buildings | Caves & Mountains | Sleep | Snow | Freeze
+965 | Disarming Voice | fairy | special | 15 | 40 | 0 | -- % | 0 | No | Yes | No
+966 | Weather Ball | normal | special | 10 | 50 | 100 | -- % | 0 | No | No | No
+967 | Gear Grind | steel | physical | 15 | 50 | 85 | -- % | 0 | Yes | No | No
+968 | Seed Bomb | grass | physical | 15 | 80 | 100 | -- % | 0 | No | No | No
+969 | Power Whip | grass | physical | 10 | 120 | 85 | -- % | 0 | Yes | No | No
+970 | Tackle | normal | physical | 35 | 50 | 100 | -- % | 0 | Yes | No | No
+971 | Mirror Move | flying | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+972 | Horn Leech | grass | physical | 10 | 75 | 100 | -- % | 0 | Yes | No | No
+973 | Thief | dark | physical | 25 | 60 | 100 | -- % | 0 | Yes | No | No
+974 | Trick-or-Treat | ghost | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+975 | Acupressure | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+976 | Magic Coat | psychic | other | 15 | 0 | 0 | <img src="/pokedex-bw/type/normal.gif"> | 15 | 30 | -- | 100
+977 | Phantom Force | ghost | physical | 10 | 90 | 100 | -- % | 0 | Yes | No | No
+978 | Rock Climb | normal | physical | 20 | 90 | 85 | 20 % | 0 | Yes | No | No
+979 | Brine | water | special | 10 | 65 | 100 | -- % | 0 | No | No | No
+980 | Night Shade | ghost | special | 15 | 1 | 100 | -- % | 0 | No | No | No
+981 | Feather Dance | flying | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+982 | Sing | normal | other | 15 | 0 | 55 | -- % | 0 | No | Yes | No
+983 | Detect | fighting | other | 5 | 0 | 0 | -- % | 4 | No | No | No
+984 | Sludge | poison | special | 20 | 65 | 100 | 30 % | 0 | No | No | No
+985 | Cross Chop | fighting | physical | 5 | 100 | 80 | -- % | 0 | Yes | No | No
+986 | Belch | poison | special | 10 | 120 | 90 | -- % | 0 | No | No | No
+987 | Transform | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+988 | Yawn | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+989 | Play Nice | normal | other | 20 | 0 | 0 | 100 % | 0 | No | No | No
+990 | Hex | ghost | special | 10 | 65 | 100 | -- % | 0 | No | No | No
+991 | Spite | ghost | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+992 | Counter | fighting | physical | 20 | 1 | 100 | -- % | -5 | Yes | No | No
+993 | Ominous Wind | ghost | special | 5 | 60 | 100 | 10 % | 0 | No | No | No
+994 | Screech | normal | other | 40 | 0 | 85 | -- % | 0 | No | Yes | No
+995 | Powder | bug | other | 20 | 0 | 100 | -- % | 1 | No | No | No
+996 | Heal Bell | normal | other | 5 | 0 | 0 | -- % | 0 | No | Yes | No
+997 | Snatch | dark | other | 10 | 0 | 0 | <img src="/pokedex-bw/type/poison.gif"> | 20 | 30 | -- | --
+998 | Double Kick | fighting | physical | 30 | 30 | 100 | -- % | 0 | Yes | No | No
+999 | Imprison | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1000 | Magma Storm | fire | special | 5 | 100 | 75 | 100 % | 0 | No | No | No
+1001 | Sharpen | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1002 | Tickle | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1003 | Shadow Ball | ghost | special | 15 | 80 | 100 | 20 % | 0 | No | No | No
+1004 | Magnitude | ground | physical | 30 | 1 | 100 | -- % | 0 | No | No | No
+1005 | Scratch | normal | physical | 35 | 40 | 100 | -- % | 0 | Yes | No | No
+1006 | Confuse Ray | ghost | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1007 | Parting Shot | dark | other | 20 | 0 | 100 | 100 % | 0 | No | Yes | No
+1008 | Confide | normal | other | 20 | 0 | 0 | 100 % | 0 | No | Yes | No
+1009 | Nature Power | normal | other | 20 | 0 | 0 | Buildings | Caves & Mountains | <a href="energyball.shtml">Energy ball</a> | Snow | <a href="blizzard.shtml">Blizzard</a>
+1010 | Protect | normal | other | 10 | 0 | 0 | -- % | 4 | No | No | No
+1011 | Feint | normal | physical | 10 | 30 | 100 | -- % | 2 | No | No | No
+1012 | Sky Uppercut | fighting | physical | 15 | 85 | 90 | -- % | 0 | Yes | No | Yes
+1013 | Slam | normal | physical | 20 | 80 | 75 | -- % | 0 | Yes | No | No
+1014 | Tail Slap | normal | physical | 10 | 25 | 85 | -- % | 0 | Yes | No | No
+1015 | Hold Hands | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1016 | Encore | normal | other | 5 | 0 | 100 | -- % | 0 | No | No | No
+1017 | Spider Web | bug | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1018 | Shadow Claw | ghost | physical | 15 | 70 | 100 | -- % | 0 | Yes | No | No
+1019 | Clamp | water | physical | 15 | 35 | 85 | 100 % | 0 | Yes | No | No
+1020 | Flying Press | fighting | physical | 10 | 80 | 95 | <a href="/attackdex-xy/normal.shtml"><img src="/games/type/normal2.gif" border="0" /></a> | <a href="/attackdex-xy/water.shtml"><img src="/games/type/water2.gif" border="0" /></a> | <a href="/attackdex-xy/poison.shtml"><img src="/games/type/poison2.gif" border="0" /></a> | <a href="/attackdex-xy/ground.shtml"><img src="/games/type/ground2.gif" border="0" /></a> | <a href="/attackdex-xy/flying.shtml"><img src="/games/type/flying2.gif" border="0" /></a>
+1021 | Smog | poison | special | 20 | 30 | 70 | 40 % | 0 | No | No | No
+1022 | Destiny Bond | ghost | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1023 | Attract | normal | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1024 | Mean Look | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1025 | Hyper Fang | normal | physical | 15 | 80 | 90 | 10 % | 0 | Yes | No | No
+1026 | Teeter Dance | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1027 | Memento | dark | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1028 | Submission | fighting | physical | 25 | 80 | 80 | -- % | 0 | Yes | No | No
+1029 | Perish Song | normal | other | 5 | 0 | 0 | -- % | 0 | No | Yes | No
+1030 | Quick Guard | fighting | other | 15 | 0 | 0 | -- % | 3 | No | No | No
+1031 | Natural Gift | normal | physical | 15 | 1 | 100 | <table align="center"><tr><td class="pkmn"><a href="/itemdex/cheriberry.shtml"><img src="/itemdex/sprites/cheriberry.png" border="0" /></a> | <table align="center"><tr><td class="pkmn"><a href="/itemdex/chestoberry.shtml"><img src="/itemdex/sprites/chestoberry.png" border="0" /></a> | <a href="/itemdex/rawstberry.shtml">Rawst Berry</a> | <table align="center"><tr><td class="pkmn"><a href="/itemdex/aspearberry.shtml"><img src="/itemdex/sprites/aspearberry.png" border="0" /></a> | <a href="/itemdex/aspearberry.shtml">Aspear Berry</a>
+1032 | Facade | normal | physical | 20 | 70 | 100 | -- % | 0 | Yes | No | No
+1033 | Disable | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1034 | Eerie Impulse | electric | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1035 | Shadow Sneak | ghost | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | No
+1036 | Crush Grip | normal | physical | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+1037 | Strength | normal | physical | 15 | 80 | 100 | -- % | 0 | Yes | No | No
+1038 | Heat Crash | fire | physical | 10 | 1 | 100 | -- % | 0 | Yes | No | No
+1039 | Shadow Force | ghost | physical | 5 | 120 | 100 | -- % | 0 | Yes | No | No
+1040 | Captivate | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1041 | Venom Drench | poison | other | 20 | 0 | 100 | 100 % | 0 | No | No | No
+1042 | Techno Blast | normal | special | 5 | 120 | 100 | -- % | 0 | No | No | No
+1043 | Baton Pass | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1044 | Superpower | fighting | physical | 5 | 120 | 100 | 100 % | 0 | Yes | No | No
+1045 | Bulk Up | fighting | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1046 | Future Sight | psychic | special | 10 | 120 | 100 | -- % | 0 | No | No | No
+1047 | Growth | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1048 | Return | normal | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+1049 | Flatter | dark | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1050 | Block | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1051 | Astonish | ghost | physical | 15 | 30 | 100 | 30 % | 0 | Yes | No | No
+1052 | Headbutt | normal | physical | 15 | 70 | 100 | 30 % | 0 | Yes | No | No
+1053 | Wide Guard | rock | other | 10 | 0 | 0 | -- % | 3 | No | No | No
+1054 | Lick | ghost | physical | 30 | 30 | 100 | 30 % | 0 | Yes | No | No
+1055 | Embargo | dark | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1056 | Soak | water | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1057 | Flail | normal | physical | 15 | 1 | 100 | -- % | 0 | Yes | No | No
+1058 | Wish | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1059 | Wake-Up Slap | fighting | physical | 10 | 70 | 100 | -- % | 0 | Yes | No | No
+1060 | Psych Up | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1061 | Storm Throw | fighting | physical | 10 | 60 | 100 | -- % | 0 | Yes | No | No
+1062 | Double-Edge | normal | physical | 15 | 120 | 100 | -- % | 0 | Yes | No | No
+1063 | Trump Card | normal | special | 5 | 1 | 0 | -- % | 0 | Yes | No | No
+1064 | Echoed Voice | normal | special | 15 | 40 | 100 | -- % | 0 | No | Yes | No
+1065 | Dark Void | dark | other | 10 | 0 | 80 | -- % | 0 | No | No | No
+1066 | Shadow Punch | ghost | physical | 20 | 60 | 0 | -- % | 0 | Yes | No | Yes
+1067 | Foresight | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1068 | Bullet Punch | steel | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | Yes
+1069 | Rock Wrecker | rock | physical | 5 | 150 | 90 | -- % | 0 | No | No | No
+1070 | Thunder Wave | electric | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1071 | Nightmare | ghost | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1072 | Simple Beam | normal | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1073 | Last Resort | normal | physical | 5 | 140 | 100 | -- % | 0 | Yes | No | No
+1074 | Jump Kick | fighting | physical | 10 | 100 | 95 | -- % | 0 | Yes | No | No
+1075 | Assist | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1076 | Dragon Tail | dragon | physical | 10 | 60 | 90 | -- % | -6 | Yes | No | No
+1077 | Mega Kick | normal | physical | 5 | 120 | 75 | -- % | 0 | Yes | No | No
+1078 | Sand Attack | ground | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1079 | Doom Desire | steel | special | 5 | 140 | 100 | -- % | 0 | No | No | No
+1080 | Lunar Dance | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1081 | Wild Charge | electric | physical | 15 | 90 | 100 | -- % | 0 | Yes | No | No
+1082 | Swagger | normal | other | 15 | 0 | 90 | -- % | 0 | No | No | No
+1083 | Dig | ground | physical | 10 | 80 | 100 | -- % | 0 | Yes | No | No
+1084 | Rest | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1085 | Zen Headbutt | psychic | physical | 15 | 80 | 90 | 20 % | 0 | Yes | No | No
+1086 | Defense Curl | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1087 | Toxic | poison | other | 10 | 0 | 90 | -- % | 0 | No | No | No
+1088 | Conversion 2 | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1089 | Vital Throw | fighting | physical | 10 | 70 | 0 | -- % | -1 | Yes | No | No
+1090 | Belly Drum | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1091 | Acid Armor | poison | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1092 | Poison Gas | poison | other | 40 | 0 | 90 | -- % | 0 | No | No | No
+1093 | Bestow | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1094 | Thunder Fang | electric | physical | 15 | 65 | 95 | 10 % | 0 | Yes | No | No
+1095 | Magnetic Flux | electric | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1096 | Seismic Toss | fighting | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+1097 | Toxic Spikes | poison | other | 20 | 0 | 0 | 1 Layer | 2+ Layers | Entry Hazard | <a href="/attackdex-xy/clever.shtml"><img src="/pokedex-bw/type/clever.png" border="0" alt="Clever" /></a> | <img src="/pokedex-bw/type/heart.png" /><img src="/pokedex-bw/type/heart.png" />
+1098 | Drill Run | ground | physical | 10 | 80 | 95 | -- % | 0 | Yes | No | No
+1099 | Stun Spore | grass | other | 30 | 0 | 75 | -- % | 0 | No | No | No
+1100 | Lava Plume | fire | special | 15 | 80 | 100 | 30 % | 0 | No | No | No
+1101 | Dragon Dance | dragon | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1102 | Aqua Tail | water | physical | 10 | 90 | 90 | -- % | 0 | Yes | No | No
+1103 | Fury Attack | normal | physical | 20 | 15 | 85 | -- % | 0 | Yes | No | No
+1104 | Forest's Curse | grass | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1105 | Rototiller | ground | other | 10 | 0 | 0 | 100 % | 0 | No | No | No
+1106 | Self-Destruct | normal | physical | 5 | 200 | 100 | -- % | 0 | No | No | No
+1107 | Secret Sword | fighting | special | 10 | 85 | 100 | -- % | 0 | No | No | No
+1108 | Pain Split | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1109 | Steamroller | bug | physical | 20 | 65 | 100 | 30 % | 0 | Yes | No | No
+1110 | Psychic | psychic | special | 10 | 90 | 100 | 10 % | 0 | No | No | No
+1111 | Ice Ball | ice | physical | 20 | 30 | 90 | -- % | 0 | Yes | No | No
+1112 | Cosmic Power | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1113 | Metal Sound | steel | other | 40 | 0 | 85 | -- % | 0 | No | Yes | No
+1114 | Frustration | normal | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+1115 | Skull Bash | normal | physical | 10 | 130 | 100 | 100 % | 0 | Yes | No | No
+1116 | Ingrain | grass | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1117 | Leaf Blade | grass | physical | 15 | 90 | 100 | -- % | 0 | Yes | No | No
+1118 | Entrainment | normal | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1119 | Crabhammer | water | physical | 10 | 100 | 90 | -- % | 0 | Yes | No | No
+1120 | Dynamic Punch | fighting | physical | 5 | 100 | 50 | 100 % | 0 | Yes | No | Yes
+1121 | Retaliate | normal | physical | 5 | 70 | 100 | -- % | 0 | Yes | No | No
+1122 | Kinesis | psychic | other | 15 | 0 | 80 | -- % | 0 | No | No | No
+1123 | Harden | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1124 | Cotton Guard | grass | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1125 | Outrage | dragon | physical | 10 | 120 | 100 | -- % | 0 | Yes | No | No
+1126 | Hurricane | flying | special | 10 | 110 | 70 | 30 % | 0 | No | No | No
+1127 | Miracle Eye | psychic | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1128 | Snore | normal | special | 15 | 50 | 100 | 30 % | 0 | No | Yes | No
+1129 | Endure | normal | other | 10 | 0 | 0 | -- % | 4 | No | No | No
+1130 | Stockpile | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1131 | Knock Off | dark | physical | 25 | 65 | 100 | -- % | 0 | Yes | No | No
+1132 | Moonlight | fairy | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1133 | Sky Drop | flying | physical | 10 | 60 | 100 | -- % | 0 | Yes | No | No
+1134 | Worry Seed | grass | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1135 | Metronome | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1136 | Aura Sphere | fighting | special | 20 | 80 | 0 | -- % | 0 | No | No | No
+1137 | Me First | normal | other | 20 | 1 | 0 | -- % | 0 | No | No | No
+1138 | Baby-Doll Eyes | fairy | other | 30 | 0 | 100 | -- % | 1 | No | No | No
+1139 | Curse | ghost | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1140 | Quiver Dance | bug | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1141 | Gear Grind | steel | physical | 15 | 50 | 85 | -- % | 0 | Yes | No | No
+1142 | Fury Swipes | normal | physical | 15 | 18 | 80 | -- % | 0 | Yes | No | No
+1143 | Close Combat | fighting | physical | 5 | 120 | 100 | 100 % | 0 | Yes | No | No
+1144 | Lock-On | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1145 | Growl | normal | other | 40 | 0 | 100 | -- % | 0 | No | Yes | No
+1146 | Hyper Voice | normal | special | 10 | 90 | 100 | -- % | 0 | No | Yes | No
+1147 | Smelling Salts | normal | physical | 10 | 70 | 100 | -- % | 0 | Yes | No | No
+1148 | Scald | water | special | 15 | 80 | 100 | 30 % | 0 | No | No | No
+1149 | U-turn | bug | physical | 20 | 70 | 100 | -- % | 0 | Yes | No | No
+1150 | Power Trick | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1151 | Seed Bomb | grass | physical | 15 | 80 | 100 | -- % | 0 | No | No | No
+1152 | Odor Sleuth | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1153 | Recycle | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1154 | Triple Kick | fighting | physical | 10 | 10 | 90 | -- % | 0 | Yes | No | No
+1155 | Roar | normal | other | 20 | 0 | 0 | -- % | -6 | No | Yes | No
+1156 | Calm Mind | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1157 | Megahorn | bug | physical | 10 | 120 | 85 | -- % | 0 | Yes | No | No
+1158 | Rock Throw | rock | physical | 15 | 50 | 90 | -- % | 0 | No | No | No
+1159 | Constrict | normal | physical | 35 | 10 | 100 | 10 % | 0 | Yes | No | No
+1160 | After You | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1161 | Spore | grass | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1162 | Crunch | dark | physical | 15 | 80 | 100 | 20 % | 0 | Yes | No | No
+1163 | Giga Impact | normal | physical | 5 | 150 | 90 | -- % | 0 | Yes | No | No
+1164 | Synthesis | grass | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1165 | Grass Whistle | grass | other | 15 | 0 | 55 | -- % | 0 | No | Yes | No
+1166 | Freeze Shock | ice | physical | 5 | 140 | 90 | 30 % | 0 | No | No | No
+1167 | Mat Block | fighting | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1168 | Guillotine | normal | physical | 5 | 1 | 30 | -- % | 0 | Yes | No | No
+1169 | Focus Punch | fighting | physical | 20 | 150 | 100 | -- % | -3 | Yes | No | Yes
+1170 | Focus Blast | fighting | special | 5 | 120 | 70 | 10 % | 0 | No | No | No
+1171 | Bullet Seed | grass | physical | 30 | 25 | 100 | -- % | 0 | No | No | No
+1172 | Leech Seed | grass | other | 10 | 0 | 90 | -- % | 0 | No | No | No
+1173 | Aqua Ring | water | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1174 | Sticky Web | bug | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1175 | Grudge | ghost | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1176 | Tail Whip | normal | other | 30 | 0 | 100 | -- % | 0 | No | No | No
+1177 | Razor Wind | normal | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1178 | Dragon Rush | dragon | physical | 10 | 100 | 75 | 20 % | 0 | Yes | No | No
+1179 | Nasty Plot | dark | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1180 | Sweet Scent | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1181 | Fusion Bolt | electric | physical | 5 | 100 | 100 | -- % | 0 | No | No | No
+1182 | Vacuum Wave | fighting | special | 30 | 40 | 100 | -- % | 1 | No | No | No
+1183 | Arm Thrust | fighting | physical | 20 | 15 | 100 | -- % | 0 | Yes | No | No
+1184 | Extreme Speed | normal | physical | 5 | 80 | 100 | -- % | 2 | Yes | No | No
+1185 | Mach Punch | fighting | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | Yes
+1186 | Ice Shard | ice | physical | 30 | 40 | 100 | -- % | 1 | No | No | No
+1187 | String Shot | bug | other | 40 | 0 | 95 | -- % | 0 | No | No | No
+1188 | Milk Drink | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1189 | Reflect | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1190 | Scary Face | normal | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1191 | Power Whip | grass | physical | 10 | 120 | 85 | -- % | 0 | Yes | No | No
+1192 | Supersonic | normal | other | 20 | 0 | 55 | -- % | 0 | No | Yes | No
+1193 | Play Rough | fairy | physical | 10 | 90 | 90 | 10 % | 0 | No | No | No
+1194 | Rolling Kick | fighting | physical | 15 | 60 | 85 | 30 % | 0 | Yes | No | No
+1195 | Fling | dark | physical | 10 | 1 | 100 | <table align="center"><tr><td class="pkmn"><a href="/itemdex/flameorb.shtml"><img src="/itemdex/sprites/flameorb.png" border="0" /></a> | <table align="center"><tr><td class="pkmn"><a href="/itemdex/kingsrock.shtml"><img src="/itemdex/sprites/king'srock.png" border="0" /></a> | 10 | <table align="center"><tr><td class="pkmn"><a href="/itemdex/poisonbarb.shtml"><img src="/itemdex/sprites/poisonbarb.png" border="0" /></a> | 70
+1196 | Pound | normal | physical | 35 | 40 | 100 | -- % | 0 | Yes | No | No
+1197 | Horn Attack | normal | physical | 25 | 65 | 100 | -- % | 0 | Yes | No | No
+1198 | Icicle Spear | ice | physical | 30 | 25 | 100 | -- % | 0 | No | No | No
+1199 | Brick Break | fighting | physical | 15 | 75 | 100 | -- % | 0 | Yes | No | No
+1200 | Dragon Claw | dragon | physical | 15 | 80 | 100 | -- % | 0 | Yes | No | No
+1201 | Telekinesis | psychic | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1202 | Head Charge | normal | physical | 15 | 120 | 100 | -- % | 0 | Yes | No | No
+1203 | Heavy Slam | steel | physical | 10 | 1 | 100 | -- % | 0 | Yes | No | No
+1204 | Agility | psychic | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1205 | Pay Day | normal | physical | 20 | 40 | 100 | -- % | 0 | No | No | No
+1206 | Octazooka | water | special | 10 | 65 | 85 | 50 % | 0 | No | No | No
+1207 | Heal Pulse | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1208 | Dive | water | physical | 10 | 80 | 100 | -- % | 0 | Yes | No | No
+1209 | Circle Throw | fighting | physical | 10 | 60 | 90 | -- % | -6 | Yes | No | No
+1210 | Assurance | dark | physical | 10 | 60 | 100 | -- % | 0 | Yes | No | No
+1211 | Lucky Chant | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1212 | High Jump Kick | fighting | physical | 10 | 130 | 90 | -- % | 0 | Yes | No | No
+1213 | Iron Defense | steel | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1214 | Feint Attack | dark | physical | 20 | 60 | 0 | -- % | 0 | Yes | No | No
+1215 | Sweet Kiss | fairy | other | 10 | 0 | 75 | -- % | 0 | No | No | No
+1216 | Snarl | dark | special | 15 | 55 | 95 | 100 % | 0 | No | Yes | No
+1217 | Sonic Boom | normal | special | 20 | 1 | 90 | -- % | 0 | No | No | No
+1218 | Autotomize | steel | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1219 | Barrage | normal | physical | 20 | 15 | 85 | -- % | 0 | No | No | No
+1220 | Stomp | normal | physical | 20 | 65 | 100 | 30 % | 0 | Yes | No | No
+1221 | Bone Rush | ground | physical | 10 | 25 | 90 | -- % | 0 | No | No | No
+1222 | Lovely Kiss | normal | other | 10 | 0 | 75 | -- % | 0 | No | No | No
+1223 | Beat Up | dark | physical | 10 | 1 | 100 | -- % | 0 | No | No | No
+1224 | Iron Head | steel | physical | 15 | 80 | 100 | 30 % | 0 | Yes | No | No
+1225 | Reversal | fighting | physical | 15 | 1 | 100 | -- % | 0 | Yes | No | No
+1226 | Secret Power | normal | physical | 20 | 70 | 100 | Buildings | Caves & Mountains | Sleep | Snow | Freeze
+1227 | Force Palm | fighting | physical | 10 | 60 | 100 | 30 % | 0 | Yes | No | No
+1228 | Fell Stinger | bug | physical | 25 | 30 | 100 | -- % | 0 | Yes | No | No
+1229 | Pursuit | dark | physical | 20 | 40 | 100 | -- % | 0 | Yes | No | No
+1230 | Weather Ball | normal | special | 10 | 50 | 100 | -- % | 0 | No | No | No
+1231 | Mega Punch | normal | physical | 20 | 80 | 85 | -- % | 0 | Yes | No | Yes
+1232 | Tailwind | flying | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1233 | Howl | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1234 | Rock Polish | rock | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1235 | Cross Poison | poison | physical | 20 | 70 | 100 | 10 % | 0 | Yes | No | No
+1236 | Ice Fang | ice | physical | 15 | 65 | 95 | 10 % | 0 | Yes | No | No
+1237 | Sludge Wave | poison | special | 10 | 95 | 100 | 10 % | 0 | No | No | No
+1238 | Low Sweep | fighting | physical | 20 | 65 | 100 | 100 % | 0 | Yes | No | No
+1239 | Relic Song | normal | special | 10 | 75 | 100 | 10 % | 0 | No | Yes | No
+1240 | Power-Up Punch | fighting | physical | 20 | 40 | 100 | 100 % | 0 | Yes | No | Yes
+1241 | Leech Life | bug | physical | 15 | 20 | 100 | -- % | 0 | Yes | No | No
+1242 | Wing Attack | flying | physical | 35 | 60 | 100 | -- % | 0 | Yes | No | No
+1243 | Sludge Bomb | poison | special | 10 | 90 | 100 | 30 % | 0 | No | No | No
+1244 | Struggle | normal | physical | 1 | 50 | 0 | -- % | 0 | No | Yes | No
+1245 | Aromatherapy | grass | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1246 | Wring Out | normal | special | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+1247 | Magnet Rise | electric | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1248 | Hyper Beam | normal | special | 5 | 150 | 90 | -- % | 0 | No | No | No
+1249 | Rollout | rock | physical | 20 | 30 | 90 | -- % | 0 | Yes | No | No
+1250 | Swift | normal | special | 20 | 60 | 0 | -- % | 0 | No | No | No
+1251 | Punishment | dark | physical | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+1252 | Payback | dark | physical | 10 | 50 | 100 | -- % | 0 | Yes | No | No
+1253 | Sacred Sword | fighting | physical | 15 | 90 | 100 | -- % | 0 | Yes | No | No
+1254 | Metal Claw | steel | physical | 35 | 50 | 95 | 10 % | 0 | Yes | No | No
+1255 | Soft-Boiled | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1256 | Mist | ice | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1257 | Bone Club | ground | physical | 20 | 65 | 85 | 10 % | 0 | No | No | No
+1258 | Slash | normal | physical | 20 | 70 | 100 | -- % | 0 | Yes | No | No
+1259 | Pin Missile | bug | physical | 20 | 25 | 95 | -- % | 0 | No | No | No
+1260 | Mud-Slap | ground | special | 10 | 20 | 100 | 100 % | 0 | No | No | No
+1261 | Land's Wrath | ground | physical | 10 | 90 | 100 | -- % | 0 | Yes | No | No
+1262 | Splash | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1263 | Nuzzle | electric | physical | 20 | 20 | 100 | 100 % | 0 | Yes | No | No
+1264 | Spit Up | normal | special | 10 | 1 | 100 | -- % | 0 | No | No | No
+1265 | Leer | normal | other | 30 | 0 | 100 | 100 % | 0 | No | No | No
+1266 | Grass Knot | grass | special | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+1267 | Crush Claw | normal | physical | 10 | 75 | 95 | 50 % | 0 | Yes | No | No
+1268 | Dual Chop | dragon | physical | 15 | 40 | 90 | -- % | 0 | Yes | No | No
+1269 | Stone Edge | rock | physical | 5 | 100 | 80 | -- % | 0 | No | No | No
+1270 | Psycho Cut | psychic | physical | 20 | 70 | 100 | -- % | 0 | No | No | No
+1271 | Egg Bomb | normal | physical | 10 | 100 | 75 | -- % | 0 | No | No | No
+1272 | Meditate | psychic | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1273 | Thousand Arrows | ground | physical | 10 | 90 | 100 | 100 % | 0 | No | No | No
+1274 | Bite | dark | physical | 25 | 60 | 100 | 30 % | 0 | Yes | No | No
+1275 | Chatter | flying | special | 20 | 65 | 100 | 100 % | 0 | No | Yes | No
+1276 | Hyperspace Fury | dark | physical | 5 | 100 | 0 | -- % | 0 | No | No | No
+1277 | Spikes | ground | other | 20 | 0 | 0 | 1 Layer | 2 Layers | None | 0 | Entry Hazard
+1278 | Fissure | ground | physical | 5 | 1 | 30 | -- % | 0 | No | No | No
+1279 | Cotton Spore | grass | other | 40 | 0 | 100 | -- % | 0 | No | No | No
+1280 | Horn Drill | normal | physical | 5 | 1 | 30 | -- % | 0 | Yes | No | No
+1281 | Fly | flying | physical | 15 | 90 | 95 | -- % | 0 | Yes | No | No
+1282 | Taunt | dark | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1283 | Wood Hammer | grass | physical | 15 | 120 | 100 | -- % | 0 | Yes | No | No
+1284 | Disarming Voice | fairy | special | 15 | 40 | 0 | -- % | 0 | No | Yes | No
+1285 | Revenge | fighting | physical | 10 | 60 | 100 | -- % | -4 | Yes | No | No
+1286 | Karate Chop | fighting | physical | 25 | 50 | 100 | -- % | 0 | Yes | No | No
+1287 | Fury Cutter | bug | physical | 20 | 40 | 95 | -- % | 0 | Yes | No | No
+1288 | Shift Gear | steel | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1289 | Judgment | normal | special | 10 | 100 | 100 | -- % | 0 | No | No | No
+1290 | Defend Order | bug | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1291 | Steel Wing | steel | physical | 25 | 70 | 90 | 10 % | 0 | Yes | No | No
+1292 | Mud Sport | ground | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1293 | Coil | poison | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1294 | Will-O-Wisp | fire | other | 15 | 0 | 85 | -- % | 0 | No | No | No
+1295 | Bug Bite | bug | physical | 20 | 60 | 100 | -- % | 0 | Yes | No | No
+1296 | Double Hit | normal | physical | 10 | 35 | 90 | -- % | 0 | Yes | No | No
+1297 | Stealth Rock | rock | other | 20 | 0 | 0 | x0.25 Effective | x0.5 Effective | 1/4 of Max HP (25%) | x4 Effective | 1/2 of Max HP (50%)
+1298 | Role Play | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1299 | Poison Jab | poison | physical | 20 | 80 | 100 | 30 % | 0 | Yes | No | No
+1300 | Bonemerang | ground | physical | 10 | 50 | 90 | -- % | 0 | No | No | No
+1301 | Vice Grip | normal | physical | 30 | 55 | 100 | -- % | 0 | Yes | No | No
+1302 | Petal Blizzard | grass | physical | 15 | 90 | 100 | -- % | 0 | No | No | No
+1303 | Hone Claws | dark | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1304 | Substitute | normal | other | 10 | 0 | 0 | <img src="/pokedex-bw/type/normal.gif"> | 15 | 20 | -- | 100
+1305 | Precipice Blades | ground | physical | 10 | 120 | 85 | -- % | 0 | No | No | No
+1306 | Drain Punch | fighting | physical | 10 | 75 | 100 | -- % | 0 | Yes | No | Yes
+1307 | Waterfall | water | physical | 15 | 80 | 100 | 20 % | 0 | Yes | No | No
+1308 | Rage | normal | physical | 20 | 20 | 100 | -- % | 0 | Yes | No | No
+1309 | Water Sport | water | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1310 | Poison Powder | poison | other | 35 | 0 | 75 | -- % | 0 | No | No | No
+1311 | Hold Back | normal | physical | 40 | 40 | 100 | -- % | 0 | Yes | No | No
+1312 | Poison Fang | poison | physical | 15 | 50 | 100 | 50 % | 0 | Yes | No | No
+1313 | Sleep Talk | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1314 | Vine Whip | grass | physical | 25 | 45 | 100 | -- % | 0 | Yes | No | No
+1315 | Fake Tears | dark | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1316 | Struggle Bug | bug | special | 20 | 50 | 100 | 100 % | 0 | No | No | No
+1317 | Work Up | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1318 | Noble Roar | normal | other | 30 | 0 | 100 | 100 % | 0 | No | Yes | No
+1319 | Muddy Water | water | special | 10 | 90 | 85 | 30 % | 0 | No | No | No
+1320 | Ember | fire | special | 25 | 40 | 100 | 10 % | 0 | No | No | No
+1321 | Mind Reader | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1322 | Withdraw | water | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1323 | Minimize | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1324 | Fire Spin | fire | special | 15 | 35 | 85 | 100 % | 0 | No | No | No
+1325 | Low Kick | fighting | physical | 20 | 1 | 100 | -- % | 0 | Yes | No | No
+1326 | Bulldoze | ground | physical | 20 | 60 | 100 | 100 % | 0 | No | No | No
+1327 | Topsy-Turvy | dark | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1328 | Metal Burst | steel | physical | 10 | 1 | 100 | -- % | 0 | No | No | No
+1329 | Water Pledge | water | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1330 | Focus Energy | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1331 | Sleep Powder | grass | other | 15 | 0 | 75 | -- % | 0 | No | No | No
+1332 | Thunder Punch | electric | physical | 15 | 75 | 100 | 10 % | 0 | Yes | No | Yes
+1333 | Take Down | normal | physical | 20 | 90 | 85 | -- % | 0 | Yes | No | No
+1334 | Earthquake | ground | physical | 10 | 100 | 100 | -- % | 0 | No | No | No
+1335 | Safeguard | normal | other | 25 | 0 | 0 | -- % | 0 | No | No | No
+1336 | Fire Blast | fire | special | 5 | 110 | 85 | 10 % | 0 | No | No | No
+1337 | Mud Shot | ground | special | 15 | 55 | 95 | 100 % | 0 | No | No | No
+1338 | Shell Smash | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1339 | Light Screen | psychic | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1340 | Aerial Ace | flying | physical | 20 | 60 | 0 | -- % | 0 | Yes | No | No
+1341 | Hypnosis | psychic | other | 20 | 0 | 60 | -- % | 0 | No | No | No
+1342 | Dizzy Punch | normal | physical | 10 | 70 | 100 | 20 % | 0 | Yes | No | Yes
+1343 | Water Spout | water | special | 5 | 150 | 100 | -- % | 0 | No | No | No
+1344 | Slack Off | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1345 | Charm | fairy | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1346 | Spark | electric | physical | 20 | 65 | 100 | 30 % | 0 | Yes | No | No
+1347 | Amnesia | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1348 | Rock Smash | fighting | physical | 15 | 40 | 100 | 50 % | 0 | Yes | No | No
+1349 | Boomburst | normal | special | 10 | 140 | 100 | -- % | 0 | No | Yes | No
+1350 | Bide | normal | physical | 10 | 1 | 0 | -- % | 1 | Yes | No | No
+1351 | Blast Burn | fire | special | 5 | 150 | 90 | -- % | 0 | No | No | No
+1352 | Quick Attack | normal | physical | 30 | 40 | 100 | -- % | 1 | Yes | No | No
+1353 | Fusion Flare | fire | special | 5 | 100 | 100 | -- % | 0 | No | No | No
+1354 | Final Gambit | fighting | special | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+1355 | Spiky Shield | grass | other | 10 | 0 | 0 | -- % | 4 | No | No | No
+1356 | Gunk Shot | poison | physical | 5 | 120 | 80 | 30 % | 0 | No | No | No
+1357 | Heal Order | bug | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1358 | Heart Stamp | psychic | physical | 25 | 60 | 100 | 30 % | 0 | Yes | No | No
+1359 | Defog | flying | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1360 | Spike Cannon | normal | physical | 15 | 20 | 100 | -- % | 0 | No | No | No
+1361 | Surf | water | special | 15 | 90 | 100 | -- % | 0 | No | No | No
+1362 | Conversion | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1363 | Flash | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1364 | Water Shuriken | water | physical | 20 | 15 | 100 | -- % | 1 | No | No | No
+1365 | Barrier | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1366 | Torment | dark | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1367 | Head Smash | rock | physical | 5 | 150 | 80 | -- % | 0 | Yes | No | No
+1368 | Hammer Arm | fighting | physical | 10 | 100 | 90 | 100 % | 0 | Yes | No | Yes
+1369 | Fire Pledge | fire | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1370 | Explosion | normal | physical | 5 | 250 | 100 | -- % | 0 | No | No | No
+1371 | Flare Blitz | fire | physical | 15 | 120 | 100 | 10 % | 0 | Yes | No | No
+1372 | Smack Down | rock | physical | 15 | 50 | 100 | 100 % | 0 | No | No | No
+1373 | Sandstorm | rock | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1374 | Tail Glow | bug | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1375 | Ancient Power | rock | special | 5 | 60 | 100 | 10 % | 0 | No | No | No
+1376 | Icicle Crash | ice | physical | 10 | 85 | 90 | 30 % | 0 | No | No | No
+1377 | Heal Block | psychic | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1378 | Helping Hand | normal | other | 20 | 0 | 0 | -- % | 5 | No | No | No
+1379 | Rain Dance | water | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1380 | Whirlwind | normal | other | 20 | 0 | 0 | -- % | -6 | No | No | No
+1381 | Sky Attack | flying | physical | 5 | 140 | 90 | 30 % | 0 | No | No | No
+1382 | Chip Away | normal | physical | 20 | 70 | 100 | -- % | 0 | Yes | No | No
+1383 | Healing Wish | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1384 | Super Fang | normal | physical | 10 | 1 | 90 | -- % | 0 | Yes | No | No
+1385 | Fire Fang | fire | physical | 15 | 65 | 95 | 10 % | 0 | Yes | No | No
+1386 | Double Team | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1387 | Body Slam | normal | physical | 15 | 85 | 100 | 30 % | 0 | Yes | No | No
+1388 | Glare | normal | other | 30 | 0 | 100 | -- % | 0 | No | No | No
+1389 | X-Scissor | bug | physical | 15 | 80 | 100 | -- % | 0 | Yes | No | No
+1390 | Swallow | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1391 | Twineedle | bug | physical | 20 | 25 | 100 | 20 % | 0 | No | No | No
+1392 | Smokescreen | normal | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1393 | Water Pulse | water | special | 20 | 60 | 100 | 20 % | 0 | No | No | No
+1394 | Electrify | electric | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1395 | Bounce | flying | physical | 5 | 85 | 85 | 30 % | 0 | Yes | No | No
+1396 | Thrash | normal | physical | 10 | 120 | 100 | -- % | 0 | Yes | No | No
+1397 | Hidden Power | normal | special | 15 | 60 | 100 | -- % | 0 | No | No | No
+1398 | Aqua Jet | water | physical | 20 | 40 | 100 | -- % | 1 | Yes | No | No
+1399 | Bind | normal | physical | 20 | 15 | 85 | 100 % | 0 | Yes | No | No
+1400 | Fire Punch | fire | physical | 15 | 75 | 100 | 10 % | 0 | Yes | No | Yes
+1401 | Sketch | normal | other | 1 | 0 | 0 | -- % | 0 | No | No | No
+1402 | Mystical Fire | fire | special | 10 | 65 | 100 | 100 % | 0 | No | No | No
+1403 | Camouflage | normal | other | 20 | 0 | 0 | Buildings | Caves/Mountainsides | Grass-type | Snow | Ice-type
+1404 | Rock Blast | rock | physical | 10 | 25 | 90 | -- % | 0 | No | No | No
+1405 | Rock Slide | rock | physical | 10 | 75 | 90 | 30 % | 0 | No | No | No
+1406 | Attack Order | bug | physical | 15 | 90 | 100 | -- % | 0 | No | No | No
+1407 | Follow Me | normal | other | 20 | 0 | 0 | -- % | 2 | No | No | No
+1408 | Gastro Acid | poison | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1409 | Acrobatics | flying | physical | 15 | 55 | 100 | -- % | 0 | Yes | No | No
+1410 | Acid | poison | special | 30 | 40 | 100 | 10 % | 0 | No | No | No
+1411 | Steam Eruption | water | special | 5 | 110 | 95 | 30 % | 0 | No | Yes | Yes
+1412 | Synchronoise | psychic | special | 10 | 120 | 100 | -- % | 0 | No | No | No
+1413 | Peck | flying | physical | 35 | 35 | 100 | -- % | 0 | Yes | No | No
+1414 | Wrap | normal | physical | 20 | 15 | 90 | 100 % | 0 | Yes | No | No
+1415 | Fake Out | normal | physical | 10 | 40 | 100 | 100 % | 3 | Yes | No | No
+1416 | Ice Punch | ice | physical | 15 | 75 | 100 | 10 % | 0 | Yes | No | Yes
+1417 | Dazzling Gleam | fairy | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1418 | Endeavor | normal | physical | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+1419 | Morning Sun | normal | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1420 | Flame Charge | fire | physical | 20 | 50 | 100 | 100 % | 0 | Yes | No | No
+1421 | Rapid Spin | normal | physical | 40 | 20 | 100 | -- % | 0 | Yes | No | No
+1422 | Comet Punch | normal | physical | 15 | 18 | 85 | -- % | 0 | Yes | No | Yes
+1423 | Mirror Shot | steel | special | 10 | 65 | 85 | 30 % | 0 | No | No | No
+1424 | Dragon Ascent | flying | physical | 5 | 120 | 100 | -- % | 0 | Yes | No | No
+1425 | Celebrate | normal | other | 40 | 0 | 0 | -- % | 0 | No | No | No
+1426 | Sucker Punch | dark | physical | 5 | 80 | 100 | -- % | 1 | Yes | No | No
+1427 | Skill Swap | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1428 | Origin Pulse | water | special | 10 | 110 | 85 | -- % | 0 | No | No | No
+1429 | Pluck | flying | physical | 20 | 60 | 100 | -- % | 0 | Yes | No | No
+1430 | Covet | normal | physical | 25 | 60 | 100 | -- % | 0 | Yes | No | No
+1431 | Refresh | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1432 | Iron Tail | steel | physical | 15 | 100 | 75 | 30 % | 0 | Yes | No | No
+1433 | Venoshock | poison | special | 10 | 65 | 100 | -- % | 0 | No | No | No
+1434 | Sacred Fire | fire | physical | 5 | 100 | 95 | 50 % | 0 | No | No | No
+1435 | Incinerate | fire | special | 15 | 60 | 100 | -- % | 0 | No | No | No
+1436 | Double Slap | normal | physical | 10 | 15 | 85 | -- % | 0 | Yes | No | No
+1437 | Volt Tackle | electric | physical | 15 | 120 | 100 | 10 % | 0 | Yes | No | No
+1438 | Bubble Beam | water | special | 20 | 65 | 100 | 10 % | 0 | No | No | No
+1439 | Rage Powder | bug | other | 20 | 0 | 0 | -- % | 2 | No | No | No
+1440 | Night Slash | dark | physical | 15 | 70 | 100 | -- % | 0 | Yes | No | No
+1441 | Reflect Type | normal | other | 15 | 0 | 0 | -- % | 0 | No | No | No
+1442 | Overheat | fire | special | 5 | 130 | 90 | 100 % | 0 | No | No | No
+1443 | Acid Spray | poison | special | 20 | 40 | 100 | 100 % | 0 | No | No | No
+1444 | Sand Tomb | ground | physical | 15 | 35 | 85 | 100 % | 0 | No | No | No
+1445 | Recover | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1446 | Poison Tail | poison | physical | 25 | 50 | 100 | 10 % | 0 | Yes | No | No
+1447 | Roar of Time | dragon | special | 5 | 150 | 90 | -- % | 0 | No | No | No
+1448 | Flame Burst | fire | special | 15 | 70 | 100 | -- % | 0 | No | No | No
+1449 | Tri Attack | normal | special | 10 | 80 | 100 | 20 % | 0 | No | No | No
+1450 | Rock Tomb | rock | physical | 15 | 60 | 95 | 100 % | 0 | No | No | No
+1451 | Hydro Cannon | water | special | 5 | 150 | 90 | -- % | 0 | No | No | No
+1452 | Cut | normal | physical | 30 | 50 | 95 | -- % | 0 | Yes | No | No
+1453 | Blue Flare | fire | special | 5 | 130 | 85 | 20 % | 0 | No | No | No
+1454 | Psystrike | psychic | special | 10 | 100 | 100 | -- % | 0 | No | No | No
+1455 | Thousand Waves | ground | physical | 10 | 90 | 100 | -- % | 0 | No | No | No
+1456 | Round | normal | special | 15 | 60 | 100 | -- % | 0 | No | Yes | No
+1457 | Needle Arm | grass | physical | 15 | 60 | 100 | 30 % | 0 | Yes | No | No
+1458 | Extrasensory | psychic | special | 20 | 80 | 100 | 10 % | 0 | No | No | No
+1459 | Flamethrower | fire | special | 15 | 90 | 100 | 10 % | 0 | No | No | No
+1460 | False Swipe | normal | physical | 40 | 40 | 100 | -- % | 0 | Yes | No | No
+1461 | Whirlpool | water | special | 15 | 35 | 85 | 100 % | 0 | No | No | No
+1462 | Hail | ice | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1463 | Meteor Mash | steel | physical | 10 | 90 | 90 | 20 % | 0 | Yes | No | Yes
+1464 | Haze | ice | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1465 | Copycat | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1466 | Eruption | fire | special | 5 | 150 | 100 | -- % | 0 | No | No | No
+1467 | Dragon Breath | dragon | special | 20 | 60 | 100 | 30 % | 0 | No | No | No
+1468 | Magnet Bomb | steel | physical | 20 | 60 | 0 | -- % | 0 | No | No | No
+1469 | Happy Hour | normal | other | 30 | 0 | 0 | -- % | 0 | No | No | No
+1470 | Foul Play | dark | physical | 15 | 95 | 100 | -- % | 0 | Yes | No | No
+1471 | Dragon Rage | dragon | special | 10 | 1 | 100 | -- % | 0 | No | No | No
+1472 | Blaze Kick | fire | physical | 10 | 85 | 90 | 10 % | 0 | Yes | No | No
+1473 | Uproar | normal | special | 10 | 90 | 100 | -- % | 0 | No | Yes | No
+1474 | Clear Smog | poison | special | 15 | 50 | 0 | -- % | 0 | No | No | No
+1475 | Razor Shell | water | physical | 10 | 75 | 95 | 50 % | 0 | Yes | No | No
+1476 | Geomancy | fairy | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1477 | Bolt Strike | electric | physical | 5 | 130 | 85 | 20 % | 0 | Yes | No | No
+1478 | Guard Swap | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1479 | Swords Dance | normal | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1480 | Fiery Dance | fire | special | 10 | 80 | 100 | 50 % | 0 | No | No | No
+1481 | Twister | dragon | special | 20 | 40 | 100 | 20 % | 0 | No | No | No
+1482 | Brave Bird | flying | physical | 15 | 120 | 100 | -- % | 0 | Yes | No | No
+1483 | Mimic | normal | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1484 | Poison Sting | poison | physical | 35 | 15 | 100 | 30 % | 0 | No | No | No
+1485 | Light of Ruin | fairy | special | 5 | 140 | 90 | -- % | 0 | No | Yes | No
+1486 | Sunny Day | fire | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1487 | Mega Drain | grass | special | 15 | 40 | 100 | -- % | 0 | No | No | No
+1488 | Drill Peck | flying | physical | 20 | 80 | 100 | -- % | 0 | Yes | No | No
+1489 | Present | normal | physical | 15 | 1 | 90 | -- % | 0 | No | No | No
+1490 | Ion Deluge | electric | other | 25 | 0 | 0 | -- % | 1 | No | No | No
+1491 | Switcheroo | dark | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1492 | Inferno | fire | special | 5 | 100 | 50 | 100 % | 0 | No | No | No
+1493 | Air Cutter | flying | special | 25 | 60 | 95 | -- % | 0 | No | No | No
+1494 | Gyro Ball | steel | physical | 5 | 1 | 100 | -- % | 0 | Yes | No | No
+1495 | Leaf Tornado | grass | special | 10 | 65 | 90 | 50 % | 0 | No | No | No
+1496 | Searing Shot | fire | special | 5 | 100 | 100 | 30 % | 0 | No | No | No
+1497 | Absorb | grass | special | 25 | 20 | 100 | -- % | 0 | No | No | No
+1498 | King's Shield | steel | other | 10 | 0 | 0 | -- % | 4 | No | No | No
+1499 | Roost | flying | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1500 | Teleport | psychic | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1501 | Giga Drain | grass | special | 10 | 75 | 100 | -- % | 0 | No | No | No
+1502 | Flame Wheel | fire | physical | 25 | 60 | 100 | 10 % | 0 | Yes | No | No
+1503 | Aeroblast | flying | special | 5 | 100 | 95 | -- % | 0 | No | No | No
+1504 | Avalanche | ice | physical | 10 | 60 | 100 | -- % | -4 | Yes | No | No
+1505 | Frenzy Plant | grass | special | 5 | 150 | 90 | -- % | 0 | No | No | No
+1506 | Heat Wave | fire | special | 10 | 95 | 90 | 10 % | 0 | No | No | No
+1507 | Quash | dark | other | 15 | 0 | 100 | -- % | 0 | No | No | No
+1508 | Grassy Terrain | grass | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1509 | Charge | electric | other | 20 | 0 | 0 | -- % | 0 | No | No | No
+1510 | Power Split | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1511 | V-create | fire | physical | 5 | 180 | 95 | 100 % | 0 | Yes | No | No
+1512 | Dark Pulse | dark | special | 15 | 80 | 100 | 20 % | 0 | No | No | No
+1513 | Diamond Storm | rock | physical | 5 | 100 | 95 | 50 % | 0 | No | No | No
+1514 | Power Gem | rock | special | 20 | 80 | 100 | -- % | 0 | No | No | No
+1515 | Wonder Room | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1516 | Misty Terrain | fairy | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1517 | Energy Ball | grass | special | 10 | 90 | 100 | 10 % | 0 | No | No | No
+1518 | Razor Leaf | grass | physical | 25 | 55 | 95 | -- % | 0 | No | No | No
+1519 | Air Slash | flying | special | 15 | 75 | 95 | 30 % | 0 | No | No | No
+1520 | Blizzard | ice | special | 5 | 110 | 70 | 10 % | 0 | No | No | No
+1521 | Flower Shield | fairy | other | 10 | 0 | 0 | 100 % | 0 | No | No | No
+1522 | Power Swap | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1523 | Oblivion Wing | flying | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1524 | Aromatic Mist | fairy | other | 20 | 0 | 100 | -- % | 0 | No | No | No
+1525 | Mud Bomb | ground | special | 10 | 65 | 85 | 30 % | 0 | No | No | No
+1526 | Charge Beam | electric | special | 10 | 50 | 90 | 70 % | 0 | No | No | No
+1527 | Solar Beam | grass | special | 10 | 120 | 100 | -- % | 0 | No | No | No
+1528 | Ally Switch | psychic | other | 15 | 0 | 0 | -- % | 1 | No | No | No
+1529 | Zap Cannon | electric | special | 5 | 120 | 50 | 100 % | 0 | No | No | No
+1530 | Hydro Pump | water | special | 5 | 110 | 80 | -- % | 0 | No | No | No
+1531 | Electroweb | electric | special | 15 | 55 | 95 | 100 % | 0 | No | No | No
+1532 | Trick Room | psychic | other | 5 | 0 | 0 | -- % | -7 | No | No | No
+1533 | Night Daze | dark | special | 10 | 85 | 95 | 40 % | 0 | No | No | No
+1534 | Thunder Shock | electric | special | 30 | 40 | 100 | 10 % | 0 | No | No | No
+1535 | Moonblast | fairy | special | 15 | 95 | 100 | 30 % | 0 | No | No | No
+1536 | Electro Ball | electric | special | 10 | 1 | 100 | -- % | 0 | No | No | No
+1537 | Electric Terrain | electric | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1538 | Thunderbolt | electric | special | 15 | 90 | 100 | 10 % | 0 | No | No | No
+1539 | Luster Purge | psychic | special | 5 | 70 | 100 | 50 % | 0 | No | No | No
+1540 | Discharge | electric | special | 15 | 80 | 100 | 30 % | 0 | No | No | No
+1541 | Guard Split | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1542 | Bubble | water | special | 30 | 40 | 100 | 10 % | 0 | No | No | No
+1543 | Crafty Shield | fairy | other | 10 | 0 | 0 | -- % | 3 | No | No | No
+1544 | Thunder | electric | special | 10 | 110 | 70 | 30 % | 0 | No | No | No
+1545 | Water Gun | water | special | 25 | 40 | 100 | -- % | 0 | No | No | No
+1546 | Heart Swap | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1547 | Shock Wave | electric | special | 20 | 60 | 0 | -- % | 0 | No | No | No
+1548 | Infestation | bug | special | 20 | 20 | 100 | 100 % | 0 | Yes | No | No
+1549 | Confusion | psychic | special | 25 | 50 | 100 | 10 % | 0 | No | No | No
+1550 | Volt Switch | electric | special | 20 | 70 | 100 | -- % | 0 | No | No | No
+1551 | Draining Kiss | fairy | special | 10 | 50 | 100 | -- % | 0 | Yes | No | No
+1552 | Fairy Lock | fairy | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1553 | Ice Burn | ice | special | 5 | 140 | 90 | 30 % | 0 | No | No | No
+1554 | Psywave | psychic | special | 15 | 1 | 100 | -- % | 0 | No | No | No
+1555 | Psyshock | psychic | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1556 | Parabolic Charge | electric | special | 20 | 50 | 100 | -- % | 0 | No | No | No
+1557 | Earth Power | ground | special | 10 | 90 | 100 | 10 % | 0 | No | No | No
+1558 | Psycho Boost | psychic | special | 5 | 140 | 90 | 100 % | 0 | No | No | No
+1559 | Aurora Beam | ice | special | 20 | 65 | 100 | 10 % | 0 | No | No | No
+1560 | Psycho Shift | psychic | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1561 | Mirror Coat | psychic | special | 20 | 1 | 100 | -- % | -5 | No | No | No
+1562 | Gust | flying | special | 35 | 40 | 100 | -- % | 0 | No | No | No
+1563 | Fairy Wind | fairy | special | 30 | 40 | 100 | -- % | 0 | No | No | No
+1564 | Stored Power | psychic | special | 10 | 20 | 100 | -- % | 0 | No | No | No
+1565 | Sheer Cold | ice | special | 5 | 1 | 30 | -- % | 0 | No | No | No
+1566 | Gravity | psychic | other | 5 | 0 | 0 | -- % | 0 | No | No | No
+1567 | Ice Beam | ice | special | 10 | 90 | 100 | 10 % | 0 | No | No | No
+1568 | Magical Leaf | grass | special | 20 | 60 | 0 | -- % | 0 | No | No | No
+1569 | Grass Pledge | grass | special | 10 | 80 | 100 | -- % | 0 | No | No | No
+1570 | Magic Room | psychic | other | 10 | 0 | 0 | -- % | 0 | No | No | No
+1571 | Flash Cannon | steel | special | 10 | 80 | 100 | 10 % | 0 | No | No | No
+1572 | Hyperspace Hole | psychic | special | 5 | 80 | 0 | -- % | 0 | No | No | No
+1573 | Seed Flare | grass | special | 5 | 120 | 85 | 40 % | 0 | No | No | No
+1574 | Dream Eater | psychic | special | 15 | 100 | 100 | -- % | 0 | No | No | No
+1575 | Icy Wind | ice | special | 15 | 55 | 95 | 100 % | 0 | No | No | No
+1576 | Mist Ball | psychic | special | 5 | 70 | 100 | 50 % | 0 | No | No | No
+1577 | Dragon Pulse | dragon | special | 10 | 85 | 100 | -- % | 0 | No | No | No
+1578 | Trick | psychic | other | 10 | 0 | 100 | -- % | 0 | No | No | No
+1579 | Powder Snow | ice | special | 25 | 40 | 100 | 10 % | 0 | No | No | No
+1580 | Draco Meteor | dragon | special | 5 | 130 | 90 | 100 % | 0 | No | No | No
+1581 | Glaciate | ice | special | 10 | 65 | 95 | 100 % | 0 | No | No | No
+1582 | Signal Beam | bug | special | 15 | 75 | 100 | 10 % | 0 | No | No | No
+1583 | Freeze-Dry | ice | special | 20 | 70 | 100 | <a href="/attackdex-xy/normal.shtml"><img src="/games/type/normal2.gif" border="0" /></a> | <a href="/attackdex-xy/water.shtml"><img src="/games/type/water2.gif" border="0" /></a> | <a href="/attackdex-xy/poison.shtml"><img src="/games/type/poison2.gif" border="0" /></a> | <a href="/attackdex-xy/ground.shtml"><img src="/games/type/ground2.gif" border="0" /></a> | <a href="/attackdex-xy/flying.shtml"><img src="/games/type/flying2.gif" border="0" /></a>
+1584 | Bug Buzz | bug | special | 10 | 90 | 100 | 10 % | 0 | No | Yes | No
+1585 | Psybeam | psychic | special | 20 | 65 | 100 | 10 % | 0 | No | No | No
+1586 | Leaf Storm | grass | special | 5 | 130 | 90 | 100 % | 0 | No | No | No
+1587 | Frost Breath | ice | special | 10 | 60 | 90 | 100 % | 0 | No | No | No
+1588 | Spacial Rend | dragon | special | 5 | 100 | 95 | -- % | 0 | No | No | No
+1589 | Silver Wind | bug | special | 5 | 60 | 100 | 10 % | 0 | No | No | No
+1590 | Petal Dance | grass | special | 10 | 120 | 100 | -- % | 0 | Yes | No | No

@@ -1,0 +1,48 @@
+Beedrill  | Adaptability | bug # poison #  | 65 | 150 | 40 | 15 | 80 | 145
+Pidgeot  | No Guard | normal # flying #  | 83 | 80 | 80 | 135 | 80 | 121
+Slowbro  | Shell Armor | water # psychic #  | 95 | 75 | 180 | 130 | 80 | 30
+Steelix  | Sand Force | steel # ground #  | 75 | 125 | 230 | 55 | 95 | 30
+Sceptile  | Lightningrod | grass # dragon #  | 70 | 110 | 75 | 145 | 85 | 145
+Swampert  | Swift Swim | water # ground #  | 100 | 150 | 110 | 95 | 110 | 70
+Sableye  | Magic Bounce | dark # ghost #  | 50 | 85 | 125 | 85 | 115 | 20
+Sharpedo  | Strong Jaw | water # dark #  | 70 | 140 | 70 | 110 | 65 | 105
+Camerupt  | Sheer Force | fire # ground #  | 70 | 120 | 100 | 145 | 105 | 20
+Altaria  | Pixilate | dragon # fairy #  | 75 | 110 | 110 | 110 | 105 | 80
+Glalie  | Refrigerate | ice #  | 80 | 120 | 80 | 120 | 80 | 100
+Salamence  | Aerilate | dragon # flying #  | 95 | 145 | 130 | 120 | 90 | 120
+Metagross  | Tough Claws | steel # psychic #  | 80 | 145 | 150 | 105 | 110 | 110
+Latias  | Levitate | dragon # psychic #  | 80 | 100 | 120 | 140 | 150 | 110
+Latios  | Levitate | dragon # psychic #  | 80 | 130 | 100 | 160 | 120 | 110
+Rayquaza  | Delta Stream | dragon # flying #  | 105 | 180 | 100 | 180 | 100 | 115
+Lopunny  | Scrappy | normal # fighting #  | 65 | 136 | 94 | 54 | 96 | 135
+Gallade  | Inner Focus | psychic # fighting #  | 68 | 165 | 95 | 65 | 115 | 110
+Audino  | Healer | normal # fairy #  | 103 | 60 | 126 | 80 | 126 | 50
+Diancie  | Magic Bounce | rock # fairy #  | 50 | 160 | 110 | 160 | 110 | 110
+Venusaur  | Thick Fat | grass # poison #  | 80 | 100 | 123 | 122 | 120 | 80
+Charizard X | Tough Claws | fire # dragon #  | 78 | 130 | 111 | 130 | 85 | 100
+Charizard Y | Drought | fire # flying #  | 78 | 104 | 78 | 159 | 115 | 100
+Blastoise  | Mega Launcher | water #  | 79 | 103 | 120 | 135 | 115 | 78
+Alakazam  | Trace | psychic #  | 55 | 50 | 65 | 175 | 95 | 150
+Gengar  | Shadow Tag | ghost # poison #  | 60 | 65 | 80 | 170 | 95 | 130
+Kangaskhan  | Parental Bond | normal #  | 105 | 125 | 100 | 60 | 100 | 100
+Pinsir  | Aerilate | bug # flying #  | 65 | 155 | 120 | 65 | 90 | 105
+Gyarados  | Mold Breaker | water # dark #  | 95 | 155 | 109 | 70 | 130 | 81
+Aerodactyl  | Tough Claws | rock # flying #  | 80 | 135 | 85 | 70 | 95 | 150
+Mewtwo X | Steadfast | psychic # fighting #  | 106 | 190 | 100 | 154 | 100 | 130
+Mewtwo Y | Insomnia | psychic #  | 106 | 150 | 70 | 194 | 120 | 140
+Ampharos  | Mold Breaker | electric # dragon #  | 90 | 95 | 105 | 165 | 110 | 45
+Scizor  | Technician | bug # steel #  | 70 | 150 | 140 | 65 | 100 | 75
+Heracross  | Skill Link | bug # fighting #  | 80 | 185 | 115 | 40 | 105 | 75
+Houndoom  | Solar Power | dark # fire #  | 75 | 90 | 90 | 140 | 90 | 115
+Tyranitar  | Sand Stream | rock # dark #  | 100 | 164 | 150 | 95 | 120 | 71
+Blaziken  | Speed Boost | fire # fighting #  | 80 | 160 | 80 | 130 | 80 | 100
+Gardevoir  | Pixilate | psychic # fairy #  | 68 | 85 | 65 | 165 | 135 | 100
+Mawile  | Huge Power | steel # fairy #  | 50 | 105 | 125 | 55 | 95 | 50
+Aggron  | Filter | steel #  | 70 | 140 | 230 | 60 | 80 | 50
+Medicham  | Pure Power | fighting # psychic #  | 60 | 100 | 85 | 80 | 85 | 100
+Manectric  | Intimidate | electric #  | 70 | 75 | 80 | 135 | 80 | 135
+Banette  | Prankster | ghost #  | 64 | 165 | 75 | 93 | 83 | 75
+Absol  | Magic Bounce | dark #  | 65 | 150 | 60 | 115 | 60 | 115
+Garchomp  | Sand Force | dragon # ground #  | 108 | 170 | 115 | 120 | 95 | 92
+Lucario  | Adaptability | fighting # steel #  | 70 | 145 | 88 | 140 | 70 | 112
+Abomasnow  | Snow Warning | grass # ice #  | 90 | 132 | 105 | 132 | 105 | 30

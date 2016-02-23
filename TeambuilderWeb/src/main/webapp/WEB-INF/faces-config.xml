@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faces-config xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd"
+    version="2.0">
+	<managed-bean>
+    	<managed-bean-name>spriteAccessBB</managed-bean-name>
+        <managed-bean-class>view.SpriteAccessBB</managed-bean-class>
+        <managed-bean-scope>request</managed-bean-scope>
+        <managed-property>
+            <property-name>lacc</property-name>
+            <value>#{liteAccess}</value>
+        </managed-property>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>liteAccess</managed-bean-name>
+        <managed-bean-class>control.LiteAccess</managed-bean-class>
+        <managed-bean-scope>application</managed-bean-scope>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>autocompleteBB</managed-bean-name>
+        <managed-bean-class>view.AutocompleteBB</managed-bean-class>
+        <managed-bean-scope>request</managed-bean-scope>
+        <managed-property>
+            <property-name>lacc</property-name>
+            <value>#{liteAccess}</value>
+        </managed-property>
+        <managed-property>
+            <property-name>spriteAccess</property-name>
+            <value>#{spriteAccessBB}</value>
+        </managed-property>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>teamBB</managed-bean-name>
+        <managed-bean-class>view.TeamBB</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>lacc</property-name>
+            <value>#{liteAccess}</value>
+        </managed-property>
+        <managed-property>
+            <property-name>pokemonFactory</property-name>
+            <value>#{pokemonFactory}</value>
+        </managed-property>
+        <managed-property>
+            <property-name>moveFactory</property-name>
+            <value>#{moveFactory}</value>
+        </managed-property>
+        <managed-property>
+            <property-name>damageResolver</property-name>
+            <value>#{damageResolver}</value>
+        </managed-property>
+        
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>pokemonFactory</managed-bean-name>
+        <managed-bean-class>control.PokemonFactory</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>lacc</property-name>
+            <value>#{liteAccess}</value>
+        </managed-property>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>metadataBB</managed-bean-name>
+        <managed-bean-class>view.MetadataBB</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>provider</property-name>
+            <value>#{metadataProvider}</value>
+        </managed-property>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>metadataProvider</managed-bean-name>
+        <managed-bean-class>util.MetadataProvider</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>moveFactory</managed-bean-name>
+        <managed-bean-class>control.MoveFactory</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>lacc</property-name>
+            <value>#{liteAccess}</value>
+        </managed-property>
+	</managed-bean>
+	
+	<managed-bean>
+    	<managed-bean-name>damageResolver</managed-bean-name>
+        <managed-bean-class>control.DamageResolver</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	
+	<managed-bean>
+		<managed-bean-name>metadataProvider</managed-bean-name>
+        <managed-bean-class>util.MetadataProvider</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+</faces-config>

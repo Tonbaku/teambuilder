@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	 xmlns:h="http://java.sun.com/jsf/html">
+<h:head>
+   <title>Teambuilder - V0.0.0.1-alpha</title>
+   <h:outputStylesheet library="css" name="style.css"></h:outputStylesheet>
+   <h:outputStylesheet library="bootstrap" name="css/bootstrap.min.css"></h:outputStylesheet>
+</h:head>
+<h:body>
+   <div class="container-fluid">
+   	<div id="menu" class="col-md-10 col-md-offset-3">
+   			<div id="headerArea" class="row">
+   				<div class="header col-md-16">
+   					Teambuilder v0.0.0.1-alpha, by Shiro
+   				</div>
+   			</div>
+   			<div id="menuArea" class="row">
+   				<div id="buttonArea" class="col-md-6">
+   					<div class="row">
+   						<div class="button col-md-14 col-md-offset-1">Create</div>
+   					</div>
+		   			<div class="row">
+   						<div class="button col-md-14 col-md-offset-1">Load</div>
+   					</div>
+   					<div class="row">
+   						<div class="button col-md-14 col-md-offset-1">Check Data</div>
+   					</div>
+   					<div class="row">
+   						<div class="button col-md-14 col-md-offset-1">Update Threats</div>
+   					</div>
+   					<div class="row">
+   						<div class="button col-md-14 col-md-offset-1">Close</div>
+   					</div>
+   				</div>
+   				<div class="col-md-10">
+   					<div class="logo">
+   						Logo or something? (Random gif for now)
+   						<div class="row">
+	   						<div class="team col-md-offset-2 col-md-12 row">
+	   							<div class="teamHeader">
+	   								Team 1 (Dummydata)
+	   								<span class="glyphicon glyphicon-remove pull-right"></span>
+	   							</div>
+	   							<div class="member col-md-2 col-md-offset-2">
+	   								<div class="pokeball top"></div>
+	   								<div class="pokeball bottom"></div>
+	   								<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+	   							</div>
+	   							<div class="member col-md-2">
+	   								<div class="pokeball top"></div>
+	   								<div class="pokeball bottom"></div>
+	   								<img src="#{spriteAccessBB.getIconForName('Roserade')}"></img>
+	   							</div>
+	   							<div class="member col-md-2">
+	   								<div class="pokeball top"></div>
+	   								<div class="pokeball bottom"></div>
+	   								<img src="#{spriteAccessBB.getIconForName('Talonflame')}"></img>
+	   							</div>
+	   							<div class="member col-md-2">
+	   								<div class="pokeball top"></div>
+	   								<div class="pokeball bottom"></div>
+	   								<img src="#{spriteAccessBB.getIconForName('Excadrill')}"></img>
+	   							</div>
+	   							<div class="member col-md-2">
+	   								<div class="pokeball top"></div>
+	   								<div class="pokeball bottom"></div>
+	   								<img src="#{spriteAccessBB.getIconForName('Altaria')}"></img>
+	   							</div>
+	   							<div class="member col-md-2">
+	   								<div class="pokeball top"></div>
+	   								<div class="pokeball bottom"></div>
+	   								<img src="#{spriteAccessBB.getIconForName('Bisharp')}"></img>
+	   							</div>
+	   							<div class="teamButtons row">
+	   								<div class="button col-md-5 col-md-offset-2">
+	   									<h:link value="Edit" outcome="manager"></h:link>
+	   								</div>
+	   								<div class="button col-md-5 col-md-offset-2">
+	   									Export
+	   								</div>
+	   							</div>
+	   						</div>
+   						</div>
+   					</div>
+   				</div>
+   			</div>
+   		</div>
+   	</div>
+</h:body>
+</html>

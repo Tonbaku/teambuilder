@@ -1,0 +1,27 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+	<div class="stats">
+		<table>
+
+			<thead>
+				<tr>
+					<th>Stat</th>
+					<th>Base</th>
+					<th>EVs</th>
+					<th>Actual</th>
+				</tr>
+			</thead>
+			<ui:repeat value="#{teamBB.getCurrentStats()}" var="stat">
+				<tr>
+				<td><b>#{stat.getName()}</b></td>
+				<td>#{stat.getBase()}</td>
+				<td><div class="slider"></div></td>
+				<td><h:inputText class="evs"></h:inputText></td>
+				<td>#{stat.getRealValue()}</td>
+			</tr>
+			</ui:repeat>
+		</table>
+	</div>
+</ui:composition>

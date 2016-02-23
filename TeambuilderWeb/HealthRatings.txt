@@ -1,0 +1,3076 @@
+769. : Shedinja:
+ Physical: 0.008130081300813009 Special: 0.00684931506849315
+ EviolitePhysical: 0.012048192771084338 EvioliteSpecial: 0.01020408163265306
+
+768. : Pichu:
+ Physical: 1.3555555555555556 Special: 1.7681159420289856
+ EviolitePhysical: 2.0165289256198347 EvioliteSpecial: 2.652173913043478
+
+767. : Diglett:
+ Physical: 1.435897435897436 Special: 1.8211382113821137
+ EviolitePhysical: 2.1333333333333333 EvioliteSpecial: 2.6987951807228914
+
+766. : Carvanha:
+ Physical: 1.7604790419161678 Special: 1.7604790419161678
+ EviolitePhysical: 2.625 EvioliteSpecial: 2.625
+
+765. : Ralts:
+ Physical: 1.6666666666666667 Special: 1.8840579710144927
+ EviolitePhysical: 2.4761904761904763 EvioliteSpecial: 2.8260869565217392
+
+764. : Sunkern:
+ Physical: 1.8082191780821917 Special: 1.8082191780821917
+ EviolitePhysical: 2.693877551020408 EvioliteSpecial: 2.693877551020408
+
+763. : Feebas:
+ Physical: 1.4610778443113772 Special: 2.1785714285714284
+ EviolitePhysical: 2.1785714285714284 EvioliteSpecial: 3.2533333333333334
+
+762. : Magikarp:
+ Physical: 2.1785714285714284 Special: 1.4610778443113772
+ EviolitePhysical: 3.2533333333333334 EvioliteSpecial: 2.1785714285714284
+
+761. : Weedle:
+ Physical: 1.9452054794520548 Special: 1.7005988023952097
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 2.5357142857142856
+
+760. : Abra:
+ Physical: 1.4111111111111112 Special: 2.267857142857143
+ EviolitePhysical: 2.0991735537190084 EvioliteSpecial: 3.3866666666666667
+
+759. : Gastly:
+ Physical: 1.8082191780821917 Special: 1.9130434782608696
+ EviolitePhysical: 2.693877551020408 EvioliteSpecial: 2.869565217391304
+
+758. : Rattata:
+ Physical: 1.9130434782608696 Special: 1.9130434782608696
+ EviolitePhysical: 2.869565217391304 EvioliteSpecial: 2.869565217391304
+
+757. : Poochyena:
+ Physical: 1.9855072463768115 Special: 1.8767123287671232
+ EviolitePhysical: 2.9782608695652173 EvioliteSpecial: 2.795918367346939
+
+756. : Wingull:
+ Physical: 1.9452054794520548 Special: 1.9452054794520548
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 2.8979591836734695
+
+755. : Starly:
+ Physical: 1.9452054794520548 Special: 1.9452054794520548
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 2.8979591836734695
+
+754. : Taillow:
+ Physical: 1.9452054794520548 Special: 1.9452054794520548
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 2.8979591836734695
+
+753. : Caterpie:
+ Physical: 2.130434782608696 Special: 1.7604790419161678
+ EviolitePhysical: 3.1956521739130435 EvioliteSpecial: 2.625
+
+752. : Spearow:
+ Physical: 1.9452054794520548 Special: 1.9722222222222223
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 2.9278350515463916
+
+751. : Scatterbug:
+ Physical: 2.1538461538461537 Special: 1.794871794871795
+ EviolitePhysical: 3.218390804597701 EvioliteSpecial: 2.6666666666666665
+
+750. : Remoraid:
+ Physical: 1.9855072463768115 Special: 1.9855072463768115
+ EviolitePhysical: 2.9782608695652173 EvioliteSpecial: 2.9782608695652173
+
+749. : Tyrogue:
+ Physical: 1.9855072463768115 Special: 1.9855072463768115
+ EviolitePhysical: 2.9782608695652173 EvioliteSpecial: 2.9782608695652173
+
+748. : Blitzle:
+ Physical: 2.0704225352112675 Special: 2.0704225352112675
+ EviolitePhysical: 3.0625 EvioliteSpecial: 3.0625
+
+747. : Wurmple:
+ Physical: 2.130434782608696 Special: 2.0136986301369864
+ EviolitePhysical: 3.1956521739130435 EvioliteSpecial: 3.0
+
+746. : Whismur:
+ Physical: 2.075 Special: 2.075
+ EviolitePhysical: 3.102803738317757 EvioliteSpecial: 3.102803738317757
+
+745. : Combee:
+ Physical: 2.078740157480315 Special: 2.078740157480315
+ EviolitePhysical: 3.1058823529411765 EvioliteSpecial: 3.1058823529411765
+
+744. : Bunnelby:
+ Physical: 2.1052631578947367 Special: 2.0588235294117645
+ EviolitePhysical: 3.146067415730337 EvioliteSpecial: 3.076923076923077
+
+743. : Shuppet:
+ Physical: 2.1159420289855073 Special: 2.0709219858156027
+ EviolitePhysical: 3.1739130434782608 EvioliteSpecial: 3.106382978723404
+
+742. : Sentret:
+ Physical: 1.9712230215827338 Special: 2.227642276422764
+ EviolitePhysical: 2.946236559139785 EvioliteSpecial: 3.3012048192771086
+
+741. : Doduo:
+ Physical: 2.227642276422764 Special: 1.9855072463768115
+ EviolitePhysical: 3.3012048192771086 EvioliteSpecial: 2.9782608695652173
+
+740. : Tynamo:
+ Physical: 2.1076923076923078 Special: 2.1076923076923078
+ EviolitePhysical: 3.1494252873563218 EvioliteSpecial: 3.1494252873563218
+
+739. : Shinx:
+ Physical: 2.115107913669065 Special: 2.115107913669065
+ EviolitePhysical: 3.161290322580645 EvioliteSpecial: 3.161290322580645
+
+738. : Pidgey:
+ Physical: 2.1846153846153844 Special: 2.0579710144927534
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.0869565217391304
+
+737. : Noibat:
+ Physical: 2.0579710144927534 Special: 2.1846153846153844
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 3.264367816091954
+
+736. : Zubat:
+ Physical: 2.0579710144927534 Special: 2.1846153846153844
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 3.264367816091954
+
+735. : Meowth:
+ Physical: 2.0579710144927534 Special: 2.1846153846153844
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 3.264367816091954
+
+734. : Purrloin:
+ Physical: 2.1343283582089554 Special: 2.1343283582089554
+ EviolitePhysical: 3.1777777777777776 EvioliteSpecial: 3.1777777777777776
+
+733. : Bellsprout:
+ Physical: 2.2028985507246377 Special: 2.0821917808219177
+ EviolitePhysical: 3.3043478260869565 EvioliteSpecial: 3.1020408163265305
+
+732. : Kricketot:
+ Physical: 2.171875 Special: 2.171875
+ EviolitePhysical: 3.2325581395348837 EvioliteSpecial: 3.2325581395348837
+
+731. : Mankey:
+ Physical: 2.0579710144927534 Special: 2.3089430894308944
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 3.4216867469879517
+
+730. : Spinarak:
+ Physical: 2.1846153846153844 Special: 2.1846153846153844
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.264367816091954
+
+729. : Electrike:
+ Physical: 2.1846153846153844 Special: 2.1846153846153844
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.264367816091954
+
+728. : Zorua:
+ Physical: 2.1846153846153844 Special: 2.1846153846153844
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.264367816091954
+
+727. : Riolu:
+ Physical: 2.1846153846153844 Special: 2.1846153846153844
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.264367816091954
+
+726. : Poliwag:
+ Physical: 2.1846153846153844 Special: 2.1846153846153844
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.264367816091954
+
+725. : Slugma:
+ Physical: 2.1846153846153844 Special: 2.1846153846153844
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.264367816091954
+
+724. : Seedot:
+ Physical: 2.427350427350427 Special: 1.9452054794520548
+ EviolitePhysical: 3.5949367088607596 EvioliteSpecial: 2.8979591836734695
+
+723. : Lotad:
+ Physical: 1.9452054794520548 Special: 2.427350427350427
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 3.5949367088607596
+
+722. : Zigzagoon:
+ Physical: 2.1875 Special: 2.1875
+ EviolitePhysical: 3.255813953488372 EvioliteSpecial: 3.255813953488372
+
+721. : Horsea:
+ Physical: 2.693877551020408 Special: 1.6923076923076923
+ EviolitePhysical: 4.0 EvioliteSpecial: 2.5142857142857142
+
+720. : Helioptile:
+ Physical: 2.0709219858156027 Special: 2.3174603174603177
+ EviolitePhysical: 3.106382978723404 EvioliteSpecial: 3.4761904761904763
+
+719. : Kakuna:
+ Physical: 2.5128205128205128 Special: 1.8846153846153846
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 2.8
+
+718. : Sandile:
+ Physical: 2.2028985507246377 Special: 2.2028985507246377
+ EviolitePhysical: 3.3043478260869565 EvioliteSpecial: 3.3043478260869565
+
+717. : Swinub:
+ Physical: 2.3384615384615386 Special: 2.0821917808219177
+ EviolitePhysical: 3.4942528735632186 EvioliteSpecial: 3.1020408163265305
+
+716. : Buizel:
+ Physical: 2.2753623188405796 Special: 2.1506849315068495
+ EviolitePhysical: 3.4130434782608696 EvioliteSpecial: 3.204081632653061
+
+715. : Igglybuff:
+ Physical: 2.1333333333333333 Special: 2.2994011976047903
+ EviolitePhysical: 3.1735537190082646 EvioliteSpecial: 3.4285714285714284
+
+714. : Pikachu:
+ Physical: 2.1076923076923078 Special: 2.341880341880342
+ EviolitePhysical: 3.1494252873563218 EvioliteSpecial: 3.4683544303797467
+
+713. : Surskit:
+ Physical: 2.0 Special: 2.4695652173913043
+ EviolitePhysical: 2.9583333333333335 EvioliteSpecial: 3.688311688311688
+
+712. : Venipede:
+ Physical: 2.467289719626168 Special: 2.015267175572519
+ EviolitePhysical: 3.6666666666666665 EvioliteSpecial: 3.0
+
+711. : Patrat:
+ Physical: 2.2442748091603053 Special: 2.2442748091603053
+ EviolitePhysical: 3.340909090909091 EvioliteSpecial: 3.340909090909091
+
+710. : Froakie:
+ Physical: 2.2 Special: 2.306451612903226
+ EviolitePhysical: 3.2873563218390807 EvioliteSpecial: 3.4047619047619047
+
+709. : Smoochum:
+ Physical: 1.6333333333333333 Special: 2.8823529411764706
+ EviolitePhysical: 2.4297520661157024 EvioliteSpecial: 4.260869565217392
+
+708. : Houndour:
+ Physical: 2.0136986301369864 Special: 2.5128205128205128
+ EviolitePhysical: 3.0 EvioliteSpecial: 3.721518987341772
+
+707. : Kirlia:
+ Physical: 2.028985507246377 Special: 2.5
+ EviolitePhysical: 3.0434782608695654 EvioliteSpecial: 3.7333333333333334
+
+706. : Fletchling:
+ Physical: 2.3333333333333335 Special: 2.210526315789474
+ EviolitePhysical: 3.5 EvioliteSpecial: 3.303370786516854
+
+705. : Hoppip:
+ Physical: 2.1076923076923078 Special: 2.4464285714285716
+ EviolitePhysical: 3.1494252873563218 EvioliteSpecial: 3.6533333333333333
+
+704. : Wooper:
+ Physical: 2.5528455284552845 Special: 2.0128205128205128
+ EviolitePhysical: 3.783132530120482 EvioliteSpecial: 2.9904761904761905
+
+703. : Treecko:
+ Physical: 2.0579710144927534 Special: 2.5357142857142856
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 3.7866666666666666
+
+702. : Croagunk:
+ Physical: 2.3076923076923075 Special: 2.3076923076923075
+ EviolitePhysical: 3.4482758620689653 EvioliteSpecial: 3.4482758620689653
+
+701. : Burmy:
+ Physical: 2.3089430894308944 Special: 2.3089430894308944
+ EviolitePhysical: 3.4216867469879517 EvioliteSpecial: 3.4216867469879517
+
+700. : Natu:
+ Physical: 2.3089430894308944 Special: 2.3089430894308944
+ EviolitePhysical: 3.4216867469879517 EvioliteSpecial: 3.4216867469879517
+
+699. : Glameow:
+ Physical: 2.377952755905512 Special: 2.253731343283582
+ EviolitePhysical: 3.552941176470588 EvioliteSpecial: 3.3555555555555556
+
+698. : Ekans:
+ Physical: 2.2096774193548385 Special: 2.424778761061947
+ EviolitePhysical: 3.261904761904762 EvioliteSpecial: 3.6052631578947367
+
+697. : Charmander:
+ Physical: 2.238095238095238 Special: 2.41025641025641
+ EviolitePhysical: 3.357142857142857 EvioliteSpecial: 3.569620253164557
+
+696. : Cyndaquil:
+ Physical: 2.238095238095238 Special: 2.41025641025641
+ EviolitePhysical: 3.357142857142857 EvioliteSpecial: 3.569620253164557
+
+695. : Metapod:
+ Physical: 2.7142857142857144 Special: 1.9487179487179487
+ EviolitePhysical: 4.053333333333334 EvioliteSpecial: 2.895238095238095
+
+694. : Cascoon:
+ Physical: 2.7142857142857144 Special: 1.9487179487179487
+ EviolitePhysical: 4.053333333333334 EvioliteSpecial: 2.895238095238095
+
+693. : Silcoon:
+ Physical: 2.7142857142857144 Special: 1.9487179487179487
+ EviolitePhysical: 4.053333333333334 EvioliteSpecial: 2.895238095238095
+
+692. : Skitty:
+ Physical: 2.4715447154471546 Special: 2.2028985507246377
+ EviolitePhysical: 3.6626506024096384 EvioliteSpecial: 3.3043478260869565
+
+691. : Azurill:
+ Physical: 2.3384615384615386 Special: 2.3384615384615386
+ EviolitePhysical: 3.4942528735632186 EvioliteSpecial: 3.4942528735632186
+
+690. : Cacnea:
+ Physical: 2.3384615384615386 Special: 2.3384615384615386
+ EviolitePhysical: 3.4942528735632186 EvioliteSpecial: 3.4942528735632186
+
+689. : Tympole:
+ Physical: 2.3384615384615386 Special: 2.3384615384615386
+ EviolitePhysical: 3.4942528735632186 EvioliteSpecial: 3.4942528735632186
+
+688. : Pidove:
+ Physical: 2.5982905982905984 Special: 2.0821917808219177
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.1020408163265305
+
+687. : Chimchar:
+ Physical: 2.3548387096774195 Special: 2.3548387096774195
+ EviolitePhysical: 3.4761904761904763 EvioliteSpecial: 3.4761904761904763
+
+686. : Meditite:
+ Physical: 2.357142857142857 Special: 2.357142857142857
+ EviolitePhysical: 3.52 EvioliteSpecial: 3.52
+
+685. : Staryu:
+ Physical: 2.357142857142857 Special: 2.357142857142857
+ EviolitePhysical: 3.52 EvioliteSpecial: 3.52
+
+684. : Cleffa:
+ Physical: 2.026666666666667 Special: 2.7142857142857144
+ EviolitePhysical: 3.04 EvioliteSpecial: 4.053333333333334
+
+683. : Bagon:
+ Physical: 2.7476635514018692 Special: 2.0136986301369864
+ EviolitePhysical: 4.083333333333333 EvioliteSpecial: 3.0
+
+682. : Spewpa:
+ Physical: 2.7476635514018692 Special: 2.0136986301369864
+ EviolitePhysical: 4.083333333333333 EvioliteSpecial: 3.0
+
+681. : Makuhita:
+ Physical: 2.3835616438356166 Special: 2.3835616438356166
+ EviolitePhysical: 3.5510204081632653 EvioliteSpecial: 3.5510204081632653
+
+680. : Dratini:
+ Physical: 2.3252032520325203 Special: 2.4444444444444446
+ EviolitePhysical: 3.4457831325301207 EvioliteSpecial: 3.6202531645569622
+
+679. : Torchic:
+ Physical: 2.2615384615384615 Special: 2.5128205128205128
+ EviolitePhysical: 3.3793103448275863 EvioliteSpecial: 3.721518987341772
+
+678. : Solosis:
+ Physical: 2.2615384615384615 Special: 2.5128205128205128
+ EviolitePhysical: 3.3793103448275863 EvioliteSpecial: 3.721518987341772
+
+677. : Delibird:
+ Physical: 2.3902439024390243 Special: 2.3902439024390243
+ EviolitePhysical: 3.5421686746987953 EvioliteSpecial: 3.5421686746987953
+
+676. : Trapinch:
+ Physical: 2.3902439024390243 Special: 2.3902439024390243
+ EviolitePhysical: 3.5421686746987953 EvioliteSpecial: 3.5421686746987953
+
+675. : Lillipup:
+ Physical: 2.3902439024390243 Special: 2.3902439024390243
+ EviolitePhysical: 3.5421686746987953 EvioliteSpecial: 3.5421686746987953
+
+674. : Barboach:
+ Physical: 2.4126984126984126 Special: 2.375
+ EviolitePhysical: 3.619047619047619 EvioliteSpecial: 3.5348837209302326
+
+673. : Magby:
+ Physical: 2.1940298507462686 Special: 2.625
+ EviolitePhysical: 3.2666666666666666 EvioliteSpecial: 3.92
+
+672. : Elekid:
+ Physical: 2.1940298507462686 Special: 2.625
+ EviolitePhysical: 3.2666666666666666 EvioliteSpecial: 3.92
+
+671. : Smeargle:
+ Physical: 2.2753623188405796 Special: 2.5528455284552845
+ EviolitePhysical: 3.4130434782608696 EvioliteSpecial: 3.783132530120482
+
+670. : Cubchoo:
+ Physical: 2.4153846153846152 Special: 2.4153846153846152
+ EviolitePhysical: 3.6091954022988504 EvioliteSpecial: 3.6091954022988504
+
+669. : Minccino:
+ Physical: 2.4153846153846152 Special: 2.4153846153846152
+ EviolitePhysical: 3.6091954022988504 EvioliteSpecial: 3.6091954022988504
+
+668. : Krabby:
+ Physical: 3.142857142857143 Special: 1.6923076923076923
+ EviolitePhysical: 4.714285714285714 EvioliteSpecial: 2.5142857142857142
+
+667. : Fennekin:
+ Physical: 2.1846153846153844 Special: 2.6542056074766354
+ EviolitePhysical: 3.264367816091954 EvioliteSpecial: 3.9444444444444446
+
+666. : Kadabra:
+ Physical: 1.9452054794520548 Special: 2.8979591836734695
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 4.303030303030303
+
+665. : Magnemite:
+ Physical: 2.5918367346938775 Special: 2.267857142857143
+ EviolitePhysical: 3.8484848484848486 EvioliteSpecial: 3.3866666666666667
+
+664. : Mime Jr.:
+ Physical: 1.983739837398374 Special: 2.9047619047619047
+ EviolitePhysical: 2.9397590361445785 EvioliteSpecial: 4.357142857142857
+
+663. : Paras:
+ Physical: 2.4464285714285716 Special: 2.4464285714285716
+ EviolitePhysical: 3.6533333333333333 EvioliteSpecial: 3.6533333333333333
+
+662. : Vulpix:
+ Physical: 2.1538461538461537 Special: 2.7450980392156863
+ EviolitePhysical: 3.218390804597701 EvioliteSpecial: 4.057971014492754
+
+661. : Cranidos:
+ Physical: 2.6 Special: 2.315068493150685
+ EviolitePhysical: 3.8850574712643677 EvioliteSpecial: 3.4489795918367347
+
+660. : Vanillite:
+ Physical: 2.358974358974359 Special: 2.5794392523364484
+ EviolitePhysical: 3.4936708860759493 EvioliteSpecial: 3.8333333333333335
+
+659. : Karrablast:
+ Physical: 2.4715447154471546 Special: 2.4715447154471546
+ EviolitePhysical: 3.6626506024096384 EvioliteSpecial: 3.6626506024096384
+
+658. : Corphish:
+ Physical: 2.843137254901961 Special: 2.101449275362319
+ EviolitePhysical: 4.202898550724638 EvioliteSpecial: 3.152173913043478
+
+657. : Bidoof:
+ Physical: 2.476923076923077 Special: 2.476923076923077
+ EviolitePhysical: 3.7011494252873565 EvioliteSpecial: 3.7011494252873565
+
+656. : Budew:
+ Physical: 2.0579710144927534 Special: 2.8979591836734695
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 4.303030303030303
+
+655. : Voltorb:
+ Physical: 2.427350427350427 Special: 2.5357142857142856
+ EviolitePhysical: 3.5949367088607596 EvioliteSpecial: 3.7866666666666666
+
+654. : Mareep:
+ Physical: 2.4153846153846152 Special: 2.5528455284552845
+ EviolitePhysical: 3.6091954022988504 EvioliteSpecial: 3.783132530120482
+
+653. : Woobat:
+ Physical: 2.492063492063492 Special: 2.492063492063492
+ EviolitePhysical: 3.738095238095238 EvioliteSpecial: 3.738095238095238
+
+652. : Nincada:
+ Physical: 3.1666666666666665 Special: 1.821917808219178
+ EviolitePhysical: 4.75 EvioliteSpecial: 2.7142857142857144
+
+651. : Cherubi:
+ Physical: 2.3902439024390243 Special: 2.601769911504425
+ EviolitePhysical: 3.5421686746987953 EvioliteSpecial: 3.8684210526315788
+
+650. : Haunter:
+ Physical: 2.3902439024390243 Special: 2.625
+ EviolitePhysical: 3.5421686746987953 EvioliteSpecial: 3.92
+
+649. : Chingling:
+ Physical: 2.5128205128205128 Special: 2.5128205128205128
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 3.721518987341772
+
+648. : Petilil:
+ Physical: 2.5128205128205128 Special: 2.5128205128205128
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 3.721518987341772
+
+647. : Anorith:
+ Physical: 2.5128205128205128 Special: 2.5128205128205128
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 3.721518987341772
+
+646. : Mienfoo:
+ Physical: 2.5128205128205128 Special: 2.5128205128205128
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 3.721518987341772
+
+645. : Unown:
+ Physical: 2.5210084033613445 Special: 2.5210084033613445
+ EviolitePhysical: 3.75 EvioliteSpecial: 3.75
+
+644. : Ditto:
+ Physical: 2.5210084033613445 Special: 2.5210084033613445
+ EviolitePhysical: 3.75 EvioliteSpecial: 3.75
+
+643. : Axew:
+ Physical: 2.7663551401869158 Special: 2.276923076923077
+ EviolitePhysical: 4.111111111111111 EvioliteSpecial: 3.4022988505747125
+
+642. : Shellder:
+ Physical: 3.3846153846153846 Special: 1.6923076923076923
+ EviolitePhysical: 4.981132075471698 EvioliteSpecial: 2.5142857142857142
+
+641. : Cottonee:
+ Physical: 2.6542056074766354 Special: 2.427350427350427
+ EviolitePhysical: 3.9444444444444446 EvioliteSpecial: 3.5949367088607596
+
+640. : Staravia:
+ Physical: 2.6837606837606836 Special: 2.4153846153846152
+ EviolitePhysical: 3.9746835443037973 EvioliteSpecial: 3.6091954022988504
+
+639. : Ledyba:
+ Physical: 1.9452054794520548 Special: 3.1555555555555554
+ EviolitePhysical: 2.8979591836734695 EvioliteSpecial: 4.655737704918033
+
+638. : Murkrow:
+ Physical: 2.5511811023622046 Special: 2.5511811023622046
+ EviolitePhysical: 3.8117647058823527 EvioliteSpecial: 3.8117647058823527
+
+637. : Oshawott:
+ Physical: 2.5528455284552845 Special: 2.5528455284552845
+ EviolitePhysical: 3.783132530120482 EvioliteSpecial: 3.783132530120482
+
+636. : Archen:
+ Physical: 2.5528455284552845 Special: 2.5528455284552845
+ EviolitePhysical: 3.783132530120482 EvioliteSpecial: 3.783132530120482
+
+635. : Pansear:
+ Physical: 2.5546218487394956 Special: 2.5546218487394956
+ EviolitePhysical: 3.8 EvioliteSpecial: 3.8
+
+634. : Pansage:
+ Physical: 2.5546218487394956 Special: 2.5546218487394956
+ EviolitePhysical: 3.8 EvioliteSpecial: 3.8
+
+633. : Panpour:
+ Physical: 2.5546218487394956 Special: 2.5546218487394956
+ EviolitePhysical: 3.8 EvioliteSpecial: 3.8
+
+632. : Drilbur:
+ Physical: 2.4923076923076923 Special: 2.6341463414634148
+ EviolitePhysical: 3.7241379310344827 EvioliteSpecial: 3.9036144578313254
+
+631. : Numel:
+ Physical: 2.4923076923076923 Special: 2.6341463414634148
+ EviolitePhysical: 3.7241379310344827 EvioliteSpecial: 3.9036144578313254
+
+630. : Dugtrio:
+ Physical: 2.341880341880342 Special: 2.795918367346939
+ EviolitePhysical: 3.4683544303797467 EvioliteSpecial: 4.151515151515151
+
+629. : Nidoran?:
+ Physical: 2.7304347826086954 Special: 2.4153846153846152
+ EviolitePhysical: 4.077922077922078 EvioliteSpecial: 3.6091954022988504
+
+628. : Nidoran?:
+ Physical: 2.7304347826086954 Special: 2.4153846153846152
+ EviolitePhysical: 4.077922077922078 EvioliteSpecial: 3.6091954022988504
+
+627. : Phantump:
+ Physical: 2.436974789915966 Special: 2.710280373831776
+ EviolitePhysical: 3.625 EvioliteSpecial: 4.027777777777778
+
+626. : Psyduck:
+ Physical: 2.5546218487394956 Special: 2.5982905982905984
+ EviolitePhysical: 3.8 EvioliteSpecial: 3.848101265822785
+
+625. : Hoothoot:
+ Physical: 2.219178082191781 Special: 2.9454545454545453
+ EviolitePhysical: 3.306122448979592 EvioliteSpecial: 4.378378378378378
+
+624. : Mudkip:
+ Physical: 2.5982905982905984 Special: 2.5982905982905984
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.848101265822785
+
+623. : Vibrava:
+ Physical: 2.5982905982905984 Special: 2.5982905982905984
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.848101265822785
+
+622. : Snorunt:
+ Physical: 2.5982905982905984 Special: 2.5982905982905984
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.848101265822785
+
+621. : Larvitar:
+ Physical: 2.5982905982905984 Special: 2.5982905982905984
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.848101265822785
+
+620. : Joltik:
+ Physical: 2.5982905982905984 Special: 2.5982905982905984
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.848101265822785
+
+619. : Deoxys:
+ Physical: 2.5982905982905984 Special: 2.5982905982905984
+ EviolitePhysical: 3.848101265822785 EvioliteSpecial: 3.848101265822785
+
+618. : Gible:
+ Physical: 2.6016260162601625 Special: 2.6016260162601625
+ EviolitePhysical: 3.855421686746988 EvioliteSpecial: 3.855421686746988
+
+617. : Growlithe:
+ Physical: 2.5528455284552845 Special: 2.6837606837606836
+ EviolitePhysical: 3.783132530120482 EvioliteSpecial: 3.9746835443037973
+
+616. : Snivy:
+ Physical: 2.625 Special: 2.625
+ EviolitePhysical: 3.92 EvioliteSpecial: 3.92
+
+615. : Goomy:
+ Physical: 2.130434782608696 Special: 3.127659574468085
+ EviolitePhysical: 3.1956521739130435 EvioliteSpecial: 4.666666666666667
+
+614. : Goldeen:
+ Physical: 2.7476635514018692 Special: 2.5128205128205128
+ EviolitePhysical: 4.083333333333333 EvioliteSpecial: 3.721518987341772
+
+613. : Snubbull:
+ Physical: 2.769230769230769 Special: 2.4923076923076923
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 3.7241379310344827
+
+612. : Pawniard:
+ Physical: 3.0 Special: 2.2615384615384615
+ EviolitePhysical: 4.454545454545454 EvioliteSpecial: 3.3793103448275863
+
+611. : Deino:
+ Physical: 2.6324786324786325 Special: 2.6324786324786325
+ EviolitePhysical: 3.8987341772151898 EvioliteSpecial: 3.8987341772151898
+
+610. : Krokorok:
+ Physical: 2.6341463414634148 Special: 2.6341463414634148
+ EviolitePhysical: 3.9036144578313254 EvioliteSpecial: 3.9036144578313254
+
+609. : Inkay:
+ Physical: 2.743362831858407 Special: 2.540983606557377
+ EviolitePhysical: 4.078947368421052 EvioliteSpecial: 3.7804878048780486
+
+608. : Kabuto:
+ Physical: 3.142857142857143 Special: 2.1463414634146343
+ EviolitePhysical: 4.714285714285714 EvioliteSpecial: 3.180722891566265
+
+607. : Sharpedo:
+ Physical: 2.646153846153846 Special: 2.646153846153846
+ EviolitePhysical: 3.954022988505747 EvioliteSpecial: 3.954022988505747
+
+606. : Nuzleaf:
+ Physical: 2.646153846153846 Special: 2.646153846153846
+ EviolitePhysical: 3.954022988505747 EvioliteSpecial: 3.954022988505747
+
+605. : Stunky:
+ Physical: 2.75 Special: 2.578125
+ EviolitePhysical: 4.074074074074074 EvioliteSpecial: 3.8372093023255816
+
+604. : Togepi:
+ Physical: 2.6862745098039214 Special: 2.6862745098039214
+ EviolitePhysical: 3.971014492753623 EvioliteSpecial: 3.971014492753623
+
+603. : Bulbasaur:
+ Physical: 2.4915254237288136 Special: 2.8823529411764706
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 4.260869565217392
+
+602. : Slakoth:
+ Physical: 3.02803738317757 Special: 2.347826086956522
+ EviolitePhysical: 4.5 EvioliteSpecial: 3.5217391304347827
+
+601. : Jigglypuff:
+ Physical: 2.5988023952095807 Special: 2.782051282051282
+ EviolitePhysical: 3.875 EvioliteSpecial: 4.133333333333334
+
+600. : Buneary:
+ Physical: 2.532258064516129 Special: 2.8545454545454545
+ EviolitePhysical: 3.738095238095238 EvioliteSpecial: 4.243243243243243
+
+599. : Gothita:
+ Physical: 2.5128205128205128 Special: 2.8823529411764706
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 4.260869565217392
+
+598. : Litwick:
+ Physical: 2.7142857142857144 Special: 2.7142857142857144
+ EviolitePhysical: 4.053333333333334 EvioliteSpecial: 4.053333333333334
+
+597. : Yanma:
+ Physical: 2.7154471544715446 Special: 2.7154471544715446
+ EviolitePhysical: 4.024096385542169 EvioliteSpecial: 4.024096385542169
+
+596. : Tepig:
+ Physical: 2.7154471544715446 Special: 2.7154471544715446
+ EviolitePhysical: 4.024096385542169 EvioliteSpecial: 4.024096385542169
+
+595. : Luvdisc:
+ Physical: 2.5892857142857144 Special: 2.843137254901961
+ EviolitePhysical: 3.8666666666666667 EvioliteSpecial: 4.202898550724638
+
+594. : Machop:
+ Physical: 2.9401709401709404 Special: 2.4927536231884058
+ EviolitePhysical: 4.3544303797468356 EvioliteSpecial: 3.739130434782609
+
+593. : Baltoy:
+ Physical: 2.5357142857142856 Special: 2.8979591836734695
+ EviolitePhysical: 3.7866666666666666 EvioliteSpecial: 4.303030303030303
+
+592. : Ninjask:
+ Physical: 2.6504065040650406 Special: 2.786324786324786
+ EviolitePhysical: 3.927710843373494 EvioliteSpecial: 4.1265822784810124
+
+591. : Flabébé:
+ Physical: 2.2290076335877864 Special: 3.208791208791209
+ EviolitePhysical: 3.3181818181818183 EvioliteSpecial: 4.786885245901639
+
+590. : Grovyle:
+ Physical: 2.4715447154471546 Special: 2.980392156862745
+ EviolitePhysical: 3.6626506024096384 EvioliteSpecial: 4.405797101449275
+
+589. : Luxio:
+ Physical: 2.7457627118644066 Special: 2.7457627118644066
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.10126582278481
+
+588. : Binacle:
+ Physical: 2.88 Special: 2.618181818181818
+ EviolitePhysical: 4.298507462686567 EvioliteSpecial: 3.891891891891892
+
+587. : Golett:
+ Physical: 2.752136752136752 Special: 2.752136752136752
+ EviolitePhysical: 4.075949367088608 EvioliteSpecial: 4.075949367088608
+
+586. : Totodile:
+ Physical: 2.9514563106796117 Special: 2.5546218487394956
+ EviolitePhysical: 4.405797101449275 EvioliteSpecial: 3.8
+
+585. : Oddish:
+ Physical: 2.625 Special: 2.8823529411764706
+ EviolitePhysical: 3.92 EvioliteSpecial: 4.260869565217392
+
+584. : Deerling:
+ Physical: 2.769230769230769 Special: 2.769230769230769
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.10126582278481
+
+583. : Teddiursa:
+ Physical: 2.769230769230769 Special: 2.769230769230769
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.10126582278481
+
+582. : Beautifly:
+ Physical: 2.769230769230769 Special: 2.769230769230769
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.10126582278481
+
+581. : Frogadier:
+ Physical: 2.7130434782608694 Special: 2.8363636363636364
+ EviolitePhysical: 4.0519480519480515 EvioliteSpecial: 4.216216216216216
+
+580. : Klink:
+ Physical: 2.8979591836734695 Special: 2.6542056074766354
+ EviolitePhysical: 4.303030303030303 EvioliteSpecial: 3.9444444444444446
+
+579. : Piplup:
+ Physical: 2.743362831858407 Special: 2.8181818181818183
+ EviolitePhysical: 4.078947368421052 EvioliteSpecial: 4.1891891891891895
+
+578. : Weepinbell:
+ Physical: 2.8547008547008548 Special: 2.7154471544715446
+ EviolitePhysical: 4.227848101265823 EvioliteSpecial: 4.024096385542169
+
+577. : Sandshrew:
+ Physical: 3.4942528735632186 Special: 2.0821917808219177
+ EviolitePhysical: 5.1525423728813555 EvioliteSpecial: 3.1020408163265305
+
+576. : Geodude:
+ Physical: 3.641025641025641 Special: 1.9452054794520548
+ EviolitePhysical: 5.3584905660377355 EvioliteSpecial: 2.8979591836734695
+
+575. : Darumaka:
+ Physical: 2.796747967479675 Special: 2.796747967479675
+ EviolitePhysical: 4.144578313253012 EvioliteSpecial: 4.144578313253012
+
+574. : Clamperl:
+ Physical: 3.1494252873563218 Special: 2.4464285714285716
+ EviolitePhysical: 4.6440677966101696 EvioliteSpecial: 3.6533333333333333
+
+573. : Ducklett:
+ Physical: 2.8034188034188032 Special: 2.8034188034188032
+ EviolitePhysical: 4.151898734177215 EvioliteSpecial: 4.151898734177215
+
+572. : Aipom:
+ Physical: 2.8035714285714284 Special: 2.8035714285714284
+ EviolitePhysical: 4.1866666666666665 EvioliteSpecial: 4.1866666666666665
+
+571. : Elgyem:
+ Physical: 2.8035714285714284 Special: 2.8035714285714284
+ EviolitePhysical: 4.1866666666666665 EvioliteSpecial: 4.1866666666666665
+
+570. : Larvesta:
+ Physical: 2.8035714285714284 Special: 2.8035714285714284
+ EviolitePhysical: 4.1866666666666665 EvioliteSpecial: 4.1866666666666665
+
+569. : Finneon:
+ Physical: 2.7454545454545456 Special: 2.876190476190476
+ EviolitePhysical: 4.081081081081081 EvioliteSpecial: 4.253521126760563
+
+568. : Roggenrola:
+ Physical: 3.6091954022988504 Special: 2.0128205128205128
+ EviolitePhysical: 5.322033898305085 EvioliteSpecial: 2.9904761904761905
+
+567. : Venonat:
+ Physical: 2.769230769230769 Special: 2.892857142857143
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.32
+
+566. : Chespin:
+ Physical: 3.0980392156862746 Special: 2.569105691056911
+ EviolitePhysical: 4.579710144927536 EvioliteSpecial: 3.8072289156626504
+
+565. : Liepard:
+ Physical: 2.8376068376068377 Special: 2.8376068376068377
+ EviolitePhysical: 4.2025316455696204 EvioliteSpecial: 4.2025316455696204
+
+564. : Skrelp:
+ Physical: 2.8411214953271027 Special: 2.8411214953271027
+ EviolitePhysical: 4.222222222222222 EvioliteSpecial: 4.222222222222222
+
+563. : Ponyta:
+ Physical: 2.7142857142857144 Special: 2.980392156862745
+ EviolitePhysical: 4.053333333333334 EvioliteSpecial: 4.405797101449275
+
+562. : Dwebble:
+ Physical: 3.4942528735632186 Special: 2.2028985507246377
+ EviolitePhysical: 5.1525423728813555 EvioliteSpecial: 3.3043478260869565
+
+561. : Chatot:
+ Physical: 2.894308943089431 Special: 2.8031496062992125
+ EviolitePhysical: 4.289156626506024 EvioliteSpecial: 4.188235294117647
+
+560. : Squirtle:
+ Physical: 2.8627450980392157 Special: 2.8349514563106797
+ EviolitePhysical: 4.231884057971015 EvioliteSpecial: 4.231884057971015
+
+559. : Tentacool:
+ Physical: 2.0579710144927534 Special: 3.641025641025641
+ EviolitePhysical: 3.0869565217391304 EvioliteSpecial: 5.3584905660377355
+
+558. : Farfetch'd:
+ Physical: 2.75 Special: 2.9615384615384617
+ EviolitePhysical: 4.1066666666666665 EvioliteSpecial: 4.4
+
+557. : Timburr:
+ Physical: 3.1607142857142856 Special: 2.5652173913043477
+ EviolitePhysical: 4.72 EvioliteSpecial: 3.847826086956522
+
+556. : Tranquill:
+ Physical: 3.1538461538461537 Special: 2.5826771653543306
+ EviolitePhysical: 4.685714285714286 EvioliteSpecial: 3.8588235294117648
+
+555. : Sewaddle:
+ Physical: 3.0 Special: 2.7476635514018692
+ EviolitePhysical: 4.454545454545454 EvioliteSpecial: 4.083333333333333
+
+554. : Skiploom:
+ Physical: 2.6837606837606836 Special: 3.0784313725490198
+ EviolitePhysical: 3.9746835443037973 EvioliteSpecial: 4.550724637681159
+
+553. : Eevee:
+ Physical: 2.6837606837606836 Special: 3.0784313725490198
+ EviolitePhysical: 3.9746835443037973 EvioliteSpecial: 4.550724637681159
+
+552. : Chikorita:
+ Physical: 2.8823529411764706 Special: 2.8823529411764706
+ EviolitePhysical: 4.260869565217392 EvioliteSpecial: 4.260869565217392
+
+551. : Pidgeotto:
+ Physical: 2.9464285714285716 Special: 2.8205128205128207
+ EviolitePhysical: 4.4 EvioliteSpecial: 4.177215189873418
+
+550. : Monferno:
+ Physical: 2.8869565217391306 Special: 2.8869565217391306
+ EviolitePhysical: 4.311688311688312 EvioliteSpecial: 4.311688311688312
+
+549. : Pumpkaboo:
+ Physical: 3.0816326530612246 Special: 2.6964285714285716
+ EviolitePhysical: 4.575757575757576 EvioliteSpecial: 4.026666666666666
+
+548. : Fletchinder:
+ Physical: 2.9285714285714284 Special: 2.8521739130434782
+ EviolitePhysical: 4.373333333333333 EvioliteSpecial: 4.259740259740259
+
+547. : Snover:
+ Physical: 2.769230769230769 Special: 3.02803738317757
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.5
+
+546. : Swellow:
+ Physical: 3.02803738317757 Special: 2.769230769230769
+ EviolitePhysical: 4.5 EvioliteSpecial: 4.10126582278481
+
+545. : Duskull:
+ Physical: 2.9047619047619047 Special: 2.9047619047619047
+ EviolitePhysical: 4.357142857142857 EvioliteSpecial: 4.357142857142857
+
+544. : Beldum:
+ Physical: 3.1555555555555554 Special: 2.6542056074766354
+ EviolitePhysical: 4.655737704918033 EvioliteSpecial: 3.9444444444444446
+
+543. : Koffing:
+ Physical: 3.506172839506173 Special: 2.3089430894308944
+ EviolitePhysical: 5.163636363636364 EvioliteSpecial: 3.4216867469879517
+
+542. : Pineco:
+ Physical: 3.619047619047619 Special: 2.2028985507246377
+ EviolitePhysical: 5.428571428571429 EvioliteSpecial: 3.3043478260869565
+
+541. : Foongus:
+ Physical: 2.7804878048780486 Special: 3.0535714285714284
+ EviolitePhysical: 4.120481927710843 EvioliteSpecial: 4.56
+
+540. : Clauncher:
+ Physical: 2.923076923076923 Special: 2.923076923076923
+ EviolitePhysical: 4.3428571428571425 EvioliteSpecial: 4.3428571428571425
+
+539. : Trubbish:
+ Physical: 2.923076923076923 Special: 2.923076923076923
+ EviolitePhysical: 4.3428571428571425 EvioliteSpecial: 4.3428571428571425
+
+538. : Roselia:
+ Physical: 2.4715447154471546 Special: 3.3777777777777778
+ EviolitePhysical: 3.6626506024096384 EvioliteSpecial: 4.983606557377049
+
+537. : Turtwig:
+ Physical: 3.0485436893203883 Special: 2.8035714285714284
+ EviolitePhysical: 4.550724637681159 EvioliteSpecial: 4.1866666666666665
+
+536. : Happiny:
+ Physical: 1.8967136150234742 Special: 3.9607843137254903
+ EviolitePhysical: 2.825174825174825 EvioliteSpecial: 5.855072463768116
+
+535. : Drifloon:
+ Physical: 2.762589928057554 Special: 3.096774193548387
+ EviolitePhysical: 4.129032258064516 EvioliteSpecial: 4.571428571428571
+
+534. : Emolga:
+ Physical: 2.9345794392523366 Special: 2.9345794392523366
+ EviolitePhysical: 4.361111111111111 EvioliteSpecial: 4.361111111111111
+
+533. : Swablu:
+ Physical: 2.7476635514018692 Special: 3.127659574468085
+ EviolitePhysical: 4.083333333333333 EvioliteSpecial: 4.666666666666667
+
+532. : Chinchou:
+ Physical: 2.661654135338346 Special: 3.2181818181818183
+ EviolitePhysical: 3.9775280898876404 EvioliteSpecial: 4.783783783783784
+
+531. : Marill:
+ Physical: 2.9401709401709404 Special: 2.9401709401709404
+ EviolitePhysical: 4.3544303797468356 EvioliteSpecial: 4.3544303797468356
+
+530. : Rufflet:
+ Physical: 2.9401709401709404 Special: 2.9401709401709404
+ EviolitePhysical: 4.3544303797468356 EvioliteSpecial: 4.3544303797468356
+
+529. : Spheal:
+ Physical: 2.9401709401709404 Special: 2.9401709401709404
+ EviolitePhysical: 4.3544303797468356 EvioliteSpecial: 4.3544303797468356
+
+528. : Mothim:
+ Physical: 2.9401709401709404 Special: 2.9401709401709404
+ EviolitePhysical: 4.3544303797468356 EvioliteSpecial: 4.3544303797468356
+
+527. : Bergmite:
+ Physical: 3.6091954022988504 Special: 2.2753623188405796
+ EviolitePhysical: 5.322033898305085 EvioliteSpecial: 3.4130434782608696
+
+526. : Nidorino:
+ Physical: 2.9908256880733943 Special: 2.9107142857142856
+ EviolitePhysical: 4.465753424657534 EvioliteSpecial: 4.346666666666667
+
+525. : Loudred:
+ Physical: 2.9523809523809526 Special: 2.9523809523809526
+ EviolitePhysical: 4.428571428571429 EvioliteSpecial: 4.428571428571429
+
+524. : Skiddo:
+ Physical: 2.823529411764706 Special: 3.0825688073394497
+ EviolitePhysical: 4.2 EvioliteSpecial: 4.602739726027397
+
+523. : Skorupi:
+ Physical: 3.380952380952381 Special: 2.5357142857142856
+ EviolitePhysical: 5.071428571428571 EvioliteSpecial: 3.7866666666666666
+
+522. : Plusle:
+ Physical: 2.4923076923076923 Special: 3.4468085106382977
+ EviolitePhysical: 3.7241379310344827 EvioliteSpecial: 5.142857142857143
+
+521. : Litleo:
+ Physical: 3.037037037037037 Special: 2.9026548672566372
+ EviolitePhysical: 4.493150684931507 EvioliteSpecial: 4.315789473684211
+
+520. : Spoink:
+ Physical: 2.347826086956522 Special: 3.6
+ EviolitePhysical: 3.5217391304347827 EvioliteSpecial: 5.311475409836065
+
+519. : Omanyte:
+ Physical: 3.5128205128205128 Special: 2.4464285714285716
+ EviolitePhysical: 5.169811320754717 EvioliteSpecial: 3.6533333333333333
+
+518. : Honedge:
+ Physical: 3.769230769230769 Special: 2.1940298507462686
+ EviolitePhysical: 5.547169811320755 EvioliteSpecial: 3.2666666666666666
+
+517. : Yamask:
+ Physical: 3.218390804597701 Special: 2.7450980392156863
+ EviolitePhysical: 4.745762711864407 EvioliteSpecial: 4.057971014492754
+
+516. : Espurr:
+ Physical: 2.9026548672566372 Special: 3.0654205607476634
+ EviolitePhysical: 4.315789473684211 EvioliteSpecial: 4.555555555555555
+
+515. : Duosion:
+ Physical: 2.8547008547008548 Special: 3.121495327102804
+ EviolitePhysical: 4.227848101265823 EvioliteSpecial: 4.638888888888889
+
+514. : Swoobat:
+ Physical: 3.017857142857143 Special: 3.017857142857143
+ EviolitePhysical: 4.506666666666667 EvioliteSpecial: 4.506666666666667
+
+513. : Lampent:
+ Physical: 3.02803738317757 Special: 3.02803738317757
+ EviolitePhysical: 4.5 EvioliteSpecial: 4.5
+
+512. : Zoroark:
+ Physical: 3.02803738317757 Special: 3.02803738317757
+ EviolitePhysical: 4.5 EvioliteSpecial: 4.5
+
+511. : Spinda:
+ Physical: 3.02803738317757 Special: 3.02803738317757
+ EviolitePhysical: 4.5 EvioliteSpecial: 4.5
+
+510. : Shroomish:
+ Physical: 3.02803738317757 Special: 3.02803738317757
+ EviolitePhysical: 4.5 EvioliteSpecial: 4.5
+
+509. : Combusken:
+ Physical: 3.02803738317757 Special: 3.02803738317757
+ EviolitePhysical: 4.5 EvioliteSpecial: 4.5
+
+508. : Munna:
+ Physical: 2.894308943089431 Special: 3.1785714285714284
+ EviolitePhysical: 4.289156626506024 EvioliteSpecial: 4.746666666666667
+
+507. : Lombre:
+ Physical: 2.769230769230769 Special: 3.306122448979592
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 4.909090909090909
+
+506. : Tyrunt:
+ Physical: 3.4782608695652173 Special: 2.6016260162601625
+ EviolitePhysical: 5.161290322580645 EvioliteSpecial: 3.855421686746988
+
+505. : Gulpin:
+ Physical: 3.0442477876106193 Special: 3.0442477876106193
+ EviolitePhysical: 4.526315789473684 EvioliteSpecial: 4.526315789473684
+
+504. : Pancham:
+ Physical: 3.25 Special: 2.8403361344537816
+ EviolitePhysical: 4.828571428571428 EvioliteSpecial: 4.225
+
+503. : Charmeleon:
+ Physical: 2.962962962962963 Special: 3.1372549019607843
+ EviolitePhysical: 4.383561643835616 EvioliteSpecial: 4.63768115942029
+
+502. : Quilava:
+ Physical: 2.962962962962963 Special: 3.1372549019607843
+ EviolitePhysical: 4.383561643835616 EvioliteSpecial: 4.63768115942029
+
+501. : Poliwhirl:
+ Physical: 3.2745098039215685 Special: 2.8547008547008548
+ EviolitePhysical: 4.840579710144928 EvioliteSpecial: 4.227848101265823
+
+500. : Raticate:
+ Physical: 2.9345794392523366 Special: 3.204081632653061
+ EviolitePhysical: 4.361111111111111 EvioliteSpecial: 4.757575757575758
+
+499. : Sneasel:
+ Physical: 2.8035714285714284 Special: 3.3404255319148937
+ EviolitePhysical: 4.1866666666666665 EvioliteSpecial: 4.984126984126984
+
+498. : Kricketune:
+ Physical: 3.086206896551724 Special: 3.086206896551724
+ EviolitePhysical: 4.589743589743589 EvioliteSpecial: 4.589743589743589
+
+497. : Accelgor:
+ Physical: 2.8 Special: 3.4018691588785046
+ EviolitePhysical: 4.183908045977011 EvioliteSpecial: 5.055555555555555
+
+496. : Scraggy:
+ Physical: 3.1020408163265305 Special: 3.1020408163265305
+ EviolitePhysical: 4.606060606060606 EvioliteSpecial: 4.606060606060606
+
+495. : Mawile:
+ Physical: 3.4942528735632186 Special: 2.7142857142857144
+ EviolitePhysical: 5.1525423728813555 EvioliteSpecial: 4.053333333333334
+
+494. : Sableye:
+ Physical: 3.234042553191489 Special: 2.980392156862745
+ EviolitePhysical: 4.825396825396825 EvioliteSpecial: 4.405797101449275
+
+493. : Grimer:
+ Physical: 3.111111111111111 Special: 3.111111111111111
+ EviolitePhysical: 4.6075949367088604 EvioliteSpecial: 4.6075949367088604
+
+492. : Vivillon:
+ Physical: 3.111111111111111 Special: 3.111111111111111
+ EviolitePhysical: 4.6075949367088604 EvioliteSpecial: 4.6075949367088604
+
+491. : Bonsly:
+ Physical: 3.753086419753086 Special: 2.4715447154471546
+ EviolitePhysical: 5.527272727272727 EvioliteSpecial: 3.6626506024096384
+
+490. : Exeggcute:
+ Physical: 3.6 Special: 2.6341463414634148
+ EviolitePhysical: 5.311475409836065 EvioliteSpecial: 3.9036144578313254
+
+489. : Aron:
+ Physical: 3.8974358974358974 Special: 2.3384615384615386
+ EviolitePhysical: 5.735849056603773 EvioliteSpecial: 3.4942528735632186
+
+488. : Absol:
+ Physical: 3.121495327102804 Special: 3.121495327102804
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 4.638888888888889
+
+487. : Mienshao:
+ Physical: 3.121495327102804 Special: 3.121495327102804
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 4.638888888888889
+
+486. : Mega Absol:
+ Physical: 3.121495327102804 Special: 3.121495327102804
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 4.638888888888889
+
+485. : Vanillish:
+ Physical: 3.0 Special: 3.25531914893617
+ EviolitePhysical: 4.434782608695652 EvioliteSpecial: 4.857142857142857
+
+484. : Swirlix:
+ Physical: 3.2475247524752477 Special: 3.0091743119266057
+ EviolitePhysical: 4.823529411764706 EvioliteSpecial: 4.493150684931507
+
+483. : Clefairy:
+ Physical: 2.8907563025210083 Special: 3.372549019607843
+ EviolitePhysical: 4.3 EvioliteSpecial: 4.9855072463768115
+
+482. : Braixen:
+ Physical: 2.9814814814814814 Special: 3.2857142857142856
+ EviolitePhysical: 4.410958904109589 EvioliteSpecial: 4.878787878787879
+
+481. : Beedrill:
+ Physical: 2.5692307692307694 Special: 3.7111111111111112
+ EviolitePhysical: 3.839080459770115 EvioliteSpecial: 5.475409836065574
+
+480. : Mega Beedrill:
+ Physical: 2.5692307692307694 Special: 3.7111111111111112
+ EviolitePhysical: 3.839080459770115 EvioliteSpecial: 5.475409836065574
+
+479. : Flaaffy:
+ Physical: 3.0714285714285716 Special: 3.2149532710280373
+ EviolitePhysical: 4.586666666666667 EvioliteSpecial: 4.777777777777778
+
+478. : Frillish:
+ Physical: 2.6837606837606836 Special: 3.6091954022988504
+ EviolitePhysical: 3.9746835443037973 EvioliteSpecial: 5.322033898305085
+
+477. : Fraxure:
+ Physical: 3.4285714285714284 Special: 2.871794871794872
+ EviolitePhysical: 5.090909090909091 EvioliteSpecial: 4.253164556962025
+
+476. : Palpitoad:
+ Physical: 3.1607142857142856 Special: 3.1607142857142856
+ EviolitePhysical: 4.72 EvioliteSpecial: 4.72
+
+475. : Dodrio:
+ Physical: 3.306122448979592 Special: 3.02803738317757
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 4.5
+
+474. : Cubone:
+ Physical: 3.753086419753086 Special: 2.5982905982905984
+ EviolitePhysical: 5.527272727272727 EvioliteSpecial: 3.848101265822785
+
+473. : Gabite:
+ Physical: 3.3333333333333335 Special: 3.0357142857142856
+ EviolitePhysical: 4.927536231884058 EvioliteSpecial: 4.533333333333333
+
+472. : Butterfree:
+ Physical: 2.769230769230769 Special: 3.6
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 5.311475409836065
+
+471. : Seel:
+ Physical: 2.982142857142857 Special: 3.4081632653061225
+ EviolitePhysical: 4.453333333333333 EvioliteSpecial: 5.0606060606060606
+
+470. : Persian:
+ Physical: 3.121495327102804 Special: 3.2745098039215685
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 4.840579710144928
+
+469. : Hippopotas:
+ Physical: 3.7362637362637363 Special: 2.677165354330709
+ EviolitePhysical: 5.483870967741935 EvioliteSpecial: 4.0
+
+468. : Shellos:
+ Physical: 2.991596638655462 Special: 3.423076923076923
+ EviolitePhysical: 4.45 EvioliteSpecial: 5.085714285714285
+
+467. : Seadra:
+ Physical: 3.876543209876543 Special: 2.5528455284552845
+ EviolitePhysical: 5.709090909090909 EvioliteSpecial: 3.783132530120482
+
+466. : Alakazam:
+ Physical: 2.5528455284552845 Special: 3.876543209876543
+ EviolitePhysical: 3.783132530120482 EvioliteSpecial: 5.709090909090909
+
+465. : Manectric:
+ Physical: 3.2149532710280373 Special: 3.2149532710280373
+ EviolitePhysical: 4.777777777777778 EvioliteSpecial: 4.777777777777778
+
+464. : Galvantula:
+ Physical: 3.2149532710280373 Special: 3.2149532710280373
+ EviolitePhysical: 4.777777777777778 EvioliteSpecial: 4.777777777777778
+
+463. : Cacturne:
+ Physical: 3.2149532710280373 Special: 3.2149532710280373
+ EviolitePhysical: 4.777777777777778 EvioliteSpecial: 4.777777777777778
+
+462. : Basculin:
+ Physical: 3.372549019607843 Special: 3.0714285714285716
+ EviolitePhysical: 4.9855072463768115 EvioliteSpecial: 4.586666666666667
+
+461. : Delcatty:
+ Physical: 3.372549019607843 Special: 3.0714285714285716
+ EviolitePhysical: 4.9855072463768115 EvioliteSpecial: 4.586666666666667
+
+460. : Banette:
+ Physical: 3.2549019607843137 Special: 3.1923076923076925
+ EviolitePhysical: 4.811594202898551 EvioliteSpecial: 4.742857142857143
+
+459. : Fearow:
+ Physical: 3.2745098039215685 Special: 3.1809523809523808
+ EviolitePhysical: 4.840579710144928 EvioliteSpecial: 4.704225352112676
+
+458. : Shelmet:
+ Physical: 3.4942528735632186 Special: 2.980392156862745
+ EviolitePhysical: 5.1525423728813555 EvioliteSpecial: 4.405797101449275
+
+457. : Gengar:
+ Physical: 3.02803738317757 Special: 3.4468085106382977
+ EviolitePhysical: 4.5 EvioliteSpecial: 5.142857142857143
+
+456. : Dedenne:
+ Physical: 3.1009174311926606 Special: 3.38
+ EviolitePhysical: 4.63013698630137 EvioliteSpecial: 5.044776119402985
+
+455. : Drowzee:
+ Physical: 2.6341463414634148 Special: 3.857142857142857
+ EviolitePhysical: 3.9036144578313254 EvioliteSpecial: 5.785714285714286
+
+454. : Raichu:
+ Physical: 2.892857142857143 Special: 3.6
+ EviolitePhysical: 4.32 EvioliteSpecial: 5.311475409836065
+
+453. : Minun:
+ Physical: 2.769230769230769 Special: 3.7241379310344827
+ EviolitePhysical: 4.10126582278481 EvioliteSpecial: 5.491525423728813
+
+452. : Amaura:
+ Physical: 3.0598290598290596 Special: 3.4423076923076925
+ EviolitePhysical: 4.531645569620253 EvioliteSpecial: 5.114285714285714
+
+451. : Nidorina:
+ Physical: 3.44 Special: 3.0714285714285716
+ EviolitePhysical: 5.134328358208955 EvioliteSpecial: 4.586666666666667
+
+450. : Dragonair:
+ Physical: 3.196078431372549 Special: 3.326530612244898
+ EviolitePhysical: 4.72463768115942 EvioliteSpecial: 4.9393939393939394
+
+449. : Primeape:
+ Physical: 3.121495327102804 Special: 3.4081632653061225
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 5.0606060606060606
+
+448. : Volbeat:
+ Physical: 2.982142857142857 Special: 3.5531914893617023
+ EviolitePhysical: 4.453333333333333 EvioliteSpecial: 5.301587301587301
+
+447. : Illumise:
+ Physical: 2.982142857142857 Special: 3.5531914893617023
+ EviolitePhysical: 4.453333333333333 EvioliteSpecial: 5.301587301587301
+
+446. : Qwilfish:
+ Physical: 3.5531914893617023 Special: 2.982142857142857
+ EviolitePhysical: 5.301587301587301 EvioliteSpecial: 4.453333333333333
+
+445. : Floatzel:
+ Physical: 3.3392857142857144 Special: 3.1965811965811968
+ EviolitePhysical: 4.986666666666666 EvioliteSpecial: 4.734177215189874
+
+444. : Seviper:
+ Physical: 3.2710280373831777 Special: 3.2710280373831777
+ EviolitePhysical: 4.861111111111111 EvioliteSpecial: 4.861111111111111
+
+443. : Zangoose:
+ Physical: 3.2710280373831777 Special: 3.2710280373831777
+ EviolitePhysical: 4.861111111111111 EvioliteSpecial: 4.861111111111111
+
+442. : Phanpy:
+ Physical: 3.588785046728972 Special: 2.953846153846154
+ EviolitePhysical: 5.333333333333333 EvioliteSpecial: 4.413793103448276
+
+441. : Jynx:
+ Physical: 2.420289855072464 Special: 4.1234567901234565
+ EviolitePhysical: 3.630434782608696 EvioliteSpecial: 6.072727272727272
+
+440. : Herdier:
+ Physical: 3.2745098039215685 Special: 3.2745098039215685
+ EviolitePhysical: 4.840579710144928 EvioliteSpecial: 4.840579710144928
+
+439. : Floette:
+ Physical: 2.6 Special: 3.949367088607595
+ EviolitePhysical: 3.8518518518518516 EvioliteSpecial: 5.886792452830188
+
+438. : Tirtouga:
+ Physical: 4.0519480519480515 Special: 2.5365853658536586
+ EviolitePhysical: 6.0 EvioliteSpecial: 3.7590361445783134
+
+437. : Purugly:
+ Physical: 3.3592233009708736 Special: 3.2336448598130842
+ EviolitePhysical: 5.0144927536231885 EvioliteSpecial: 4.805555555555555
+
+436. : Rotom:
+ Physical: 3.3043478260869565 Special: 3.3043478260869565
+ EviolitePhysical: 4.903225806451613 EvioliteSpecial: 4.903225806451613
+
+435. : Watchog:
+ Physical: 3.306122448979592 Special: 3.306122448979592
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 4.909090909090909
+
+434. : Dewott:
+ Physical: 3.308411214953271 Special: 3.308411214953271
+ EviolitePhysical: 4.916666666666667 EvioliteSpecial: 4.916666666666667
+
+433. : Cinccino:
+ Physical: 3.308411214953271 Special: 3.308411214953271
+ EviolitePhysical: 4.916666666666667 EvioliteSpecial: 4.916666666666667
+
+432. : Wynaut:
+ Physical: 3.310924369747899 Special: 3.310924369747899
+ EviolitePhysical: 4.925 EvioliteSpecial: 4.925
+
+431. : Breloom:
+ Physical: 3.6 Special: 3.02803738317757
+ EviolitePhysical: 5.311475409836065 EvioliteSpecial: 4.5
+
+430. : Ivysaur:
+ Physical: 3.1153846153846154 Special: 3.6
+ EviolitePhysical: 4.628571428571429 EvioliteSpecial: 5.311475409836065
+
+429. : Whirlipede:
+ Physical: 3.5949367088607596 Special: 3.120879120879121
+ EviolitePhysical: 5.3584905660377355 EvioliteSpecial: 4.655737704918033
+
+428. : Slowpoke:
+ Physical: 3.764705882352941 Special: 2.953846153846154
+ EviolitePhysical: 5.565217391304348 EvioliteSpecial: 4.413793103448276
+
+427. : Wailmer:
+ Physical: 3.36231884057971 Special: 3.36231884057971
+ EviolitePhysical: 5.043478260869565 EvioliteSpecial: 5.043478260869565
+
+426. : Ariados:
+ Physical: 3.510204081632653 Special: 3.2149532710280373
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 4.777777777777778
+
+425. : Mightyena:
+ Physical: 3.510204081632653 Special: 3.2149532710280373
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 4.777777777777778
+
+424. : Crawdaunt:
+ Physical: 3.793103448275862 Special: 2.9464285714285716
+ EviolitePhysical: 5.593220338983051 EvioliteSpecial: 4.4
+
+423. : Girafarig:
+ Physical: 3.372549019607843 Special: 3.372549019607843
+ EviolitePhysical: 4.9855072463768115 EvioliteSpecial: 4.9855072463768115
+
+422. : Misdreavus:
+ Physical: 3.02803738317757 Special: 3.7241379310344827
+ EviolitePhysical: 4.5 EvioliteSpecial: 5.491525423728813
+
+421. : Gloom:
+ Physical: 3.306122448979592 Special: 3.4468085106382977
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 5.142857142857143
+
+420. : Bibarel:
+ Physical: 3.383177570093458 Special: 3.383177570093458
+ EviolitePhysical: 5.027777777777778 EvioliteSpecial: 5.027777777777778
+
+419. : Mantyke:
+ Physical: 2.5128205128205128 Special: 4.260869565217392
+ EviolitePhysical: 3.721518987341772 EvioliteSpecial: 6.25531914893617
+
+418. : Stantler:
+ Physical: 3.3653846153846154 Special: 3.4313725490196076
+ EviolitePhysical: 5.0 EvioliteSpecial: 5.072463768115942
+
+417. : Hitmonlee:
+ Physical: 2.690265486725664 Special: 4.108108108108108
+ EviolitePhysical: 4.0 EvioliteSpecial: 6.08
+
+416. : Simipour:
+ Physical: 3.4038461538461537 Special: 3.4038461538461537
+ EviolitePhysical: 5.057142857142857 EvioliteSpecial: 5.057142857142857
+
+415. : Simisage:
+ Physical: 3.4038461538461537 Special: 3.4038461538461537
+ EviolitePhysical: 5.057142857142857 EvioliteSpecial: 5.057142857142857
+
+414. : Simisear:
+ Physical: 3.4038461538461537 Special: 3.4038461538461537
+ EviolitePhysical: 5.057142857142857 EvioliteSpecial: 5.057142857142857
+
+413. : Swanna:
+ Physical: 3.4038461538461537 Special: 3.4038461538461537
+ EviolitePhysical: 5.057142857142857 EvioliteSpecial: 5.057142857142857
+
+412. : Zebstrika:
+ Physical: 3.4038461538461537 Special: 3.4038461538461537
+ EviolitePhysical: 5.057142857142857 EvioliteSpecial: 5.057142857142857
+
+411. : Xatu:
+ Physical: 3.4081632653061225 Special: 3.4081632653061225
+ EviolitePhysical: 5.0606060606060606 EvioliteSpecial: 5.0606060606060606
+
+410. : Eelektrik:
+ Physical: 3.4081632653061225 Special: 3.4081632653061225
+ EviolitePhysical: 5.0606060606060606 EvioliteSpecial: 5.0606060606060606
+
+409. : Heliolisk:
+ Physical: 2.8521739130434782 Special: 4.0
+ EviolitePhysical: 4.259740259740259 EvioliteSpecial: 5.963636363636364
+
+408. : Magneton:
+ Physical: 3.753086419753086 Special: 3.1020408163265305
+ EviolitePhysical: 5.527272727272727 EvioliteSpecial: 4.606060606060606
+
+407. : Pignite:
+ Physical: 3.4285714285714284 Special: 3.4285714285714284
+ EviolitePhysical: 5.12 EvioliteSpecial: 5.12
+
+406. : Linoone:
+ Physical: 3.4285714285714284 Special: 3.4285714285714284
+ EviolitePhysical: 5.070422535211268 EvioliteSpecial: 5.070422535211268
+
+405. : Arbok:
+ Physical: 3.306122448979592 Special: 3.5604395604395602
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 5.311475409836065
+
+404. : Venomoth:
+ Physical: 3.2149532710280373 Special: 3.6595744680851063
+ EviolitePhysical: 4.777777777777778 EvioliteSpecial: 5.4603174603174605
+
+403. : Shieldon:
+ Physical: 3.7714285714285714 Special: 3.1058823529411765
+ EviolitePhysical: 5.617021276595745 EvioliteSpecial: 4.631578947368421
+
+402. : Mega Sharpedo:
+ Physical: 3.510204081632653 Special: 3.372549019607843
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 4.9855072463768115
+
+401. : Medicham:
+ Physical: 3.4468085106382977 Special: 3.4468085106382977
+ EviolitePhysical: 5.142857142857143 EvioliteSpecial: 5.142857142857143
+
+400. : Servine:
+ Physical: 3.4468085106382977 Special: 3.4468085106382977
+ EviolitePhysical: 5.142857142857143 EvioliteSpecial: 5.142857142857143
+
+399. : Spritzee:
+ Physical: 3.364485981308411 Special: 3.5294117647058822
+ EviolitePhysical: 5.0 EvioliteSpecial: 5.217391304347826
+
+398. : Mr. Mime:
+ Physical: 2.784313725490196 Special: 4.115942028985507
+ EviolitePhysical: 4.115942028985507 EvioliteSpecial: 6.042553191489362
+
+397. : Electabuzz:
+ Physical: 3.0642201834862384 Special: 3.839080459770115
+ EviolitePhysical: 4.575342465753424 EvioliteSpecial: 5.661016949152542
+
+396. : Magmar:
+ Physical: 3.0642201834862384 Special: 3.839080459770115
+ EviolitePhysical: 4.575342465753424 EvioliteSpecial: 5.661016949152542
+
+395. : Electrode:
+ Physical: 3.306122448979592 Special: 3.6
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 5.311475409836065
+
+394. : Ferroseed:
+ Physical: 3.5180722891566263 Special: 3.395348837209302
+ EviolitePhysical: 5.214285714285714 EvioliteSpecial: 5.0344827586206895
+
+393. : Croconaw:
+ Physical: 3.7111111111111112 Special: 3.2115384615384617
+ EviolitePhysical: 5.475409836065574 EvioliteSpecial: 4.771428571428571
+
+392. : Prinplup:
+ Physical: 3.3535353535353534 Special: 3.5698924731182795
+ EviolitePhysical: 4.955223880597015 EvioliteSpecial: 5.354838709677419
+
+391. : Ledian:
+ Physical: 2.6837606837606836 Special: 4.243243243243243
+ EviolitePhysical: 3.9746835443037973 EvioliteSpecial: 6.28
+
+390. : Archeops:
+ Physical: 3.4705882352941178 Special: 3.4705882352941178
+ EviolitePhysical: 5.130434782608695 EvioliteSpecial: 5.130434782608695
+
+389. : Mega Alakazam:
+ Physical: 3.0784313725490198 Special: 3.876543209876543
+ EviolitePhysical: 4.550724637681159 EvioliteSpecial: 5.709090909090909
+
+388. : Houndoom:
+ Physical: 3.0256410256410255 Special: 3.933333333333333
+ EviolitePhysical: 4.481012658227848 EvioliteSpecial: 5.80327868852459
+
+387. : Porygon:
+ Physical: 3.4081632653061225 Special: 3.5531914893617023
+ EviolitePhysical: 5.0606060606060606 EvioliteSpecial: 5.301587301587301
+
+386. : Furret:
+ Physical: 3.6310679611650487 Special: 3.3392857142857144
+ EviolitePhysical: 5.420289855072464 EvioliteSpecial: 4.986666666666666
+
+385. : Graveler:
+ Physical: 4.422535211267606 Special: 2.5528455284552845
+ EviolitePhysical: 6.541666666666667 EvioliteSpecial: 3.783132530120482
+
+384. : Rhyhorn:
+ Physical: 4.493827160493828 Special: 2.493150684931507
+ EviolitePhysical: 6.618181818181818 EvioliteSpecial: 3.7142857142857144
+
+383. : Ambipom:
+ Physical: 3.504950495049505 Special: 3.504950495049505
+ EviolitePhysical: 5.205882352941177 EvioliteSpecial: 5.205882352941177
+
+382. : Marshtomp:
+ Physical: 3.510204081632653 Special: 3.510204081632653
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.212121212121212
+
+381. : Pupitar:
+ Physical: 3.510204081632653 Special: 3.510204081632653
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.212121212121212
+
+380. : Castform:
+ Physical: 3.510204081632653 Special: 3.510204081632653
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.212121212121212
+
+379. : Lucario:
+ Physical: 3.510204081632653 Special: 3.510204081632653
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.212121212121212
+
+378. : Froslass:
+ Physical: 3.510204081632653 Special: 3.510204081632653
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.212121212121212
+
+377. : Honchkrow:
+ Physical: 3.5130434782608697 Special: 3.5130434782608697
+ EviolitePhysical: 5.246753246753247 EvioliteSpecial: 5.246753246753247
+
+376. : Gothorita:
+ Physical: 3.306122448979592 Special: 3.7241379310344827
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 5.491525423728813
+
+375. : Vullaby:
+ Physical: 3.6595744680851063 Special: 3.372549019607843
+ EviolitePhysical: 5.4603174603174605 EvioliteSpecial: 4.9855072463768115
+
+374. : Quilladin:
+ Physical: 4.0246913580246915 Special: 3.0185185185185186
+ EviolitePhysical: 5.927272727272728 EvioliteSpecial: 4.465753424657534
+
+373. : Greninja:
+ Physical: 3.48 Special: 3.5876288659793816
+ EviolitePhysical: 5.1940298507462686 EvioliteSpecial: 5.3538461538461535
+
+372. : Maractus:
+ Physical: 3.54 Special: 3.54
+ EviolitePhysical: 5.2835820895522385 EvioliteSpecial: 5.2835820895522385
+
+371. : Zweilous:
+ Physical: 3.5510204081632653 Special: 3.5510204081632653
+ EviolitePhysical: 5.2727272727272725 EvioliteSpecial: 5.2727272727272725
+
+370. : Kingler:
+ Physical: 4.422535211267606 Special: 2.6837606837606836
+ EviolitePhysical: 6.541666666666667 EvioliteSpecial: 3.9746835443037973
+
+369. : Machoke:
+ Physical: 3.7142857142857144 Special: 3.4018691588785046
+ EviolitePhysical: 5.515151515151516 EvioliteSpecial: 5.055555555555555
+
+368. : Rapidash:
+ Physical: 3.4081632653061225 Special: 3.7111111111111112
+ EviolitePhysical: 5.0606060606060606 EvioliteSpecial: 5.475409836065574
+
+367. : Chimecho:
+ Physical: 3.4081632653061225 Special: 3.7111111111111112
+ EviolitePhysical: 5.0606060606060606 EvioliteSpecial: 5.475409836065574
+
+366. : Onix:
+ Physical: 4.892857142857143 Special: 2.227642276422764
+ EviolitePhysical: 7.2105263157894735 EvioliteSpecial: 3.3012048192771086
+
+365. : Rampardos:
+ Physical: 3.7196261682242993 Special: 3.4017094017094016
+ EviolitePhysical: 5.527777777777778 EvioliteSpecial: 5.037974683544304
+
+364. : Durant:
+ Physical: 4.444444444444445 Special: 2.689075630252101
+ EviolitePhysical: 6.530612244897959 EvioliteSpecial: 4.0
+
+363. : Shelgon:
+ Physical: 4.282051282051282 Special: 2.8547008547008548
+ EviolitePhysical: 6.30188679245283 EvioliteSpecial: 4.227848101265823
+
+362. : Wartortle:
+ Physical: 3.577777777777778 Special: 3.577777777777778
+ EviolitePhysical: 5.278688524590164 EvioliteSpecial: 5.278688524590164
+
+361. : Dustox:
+ Physical: 3.306122448979592 Special: 3.857142857142857
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 5.785714285714286
+
+360. : Scolipede:
+ Physical: 3.857142857142857 Special: 3.306122448979592
+ EviolitePhysical: 5.684210526315789 EvioliteSpecial: 4.909090909090909
+
+359. : Pachirisu:
+ Physical: 3.306122448979592 Special: 3.857142857142857
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 5.785714285714286
+
+358. : Camerupt:
+ Physical: 3.510204081632653 Special: 3.6595744680851063
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.4603174603174605
+
+357. : Whimsicott:
+ Physical: 3.7241379310344827 Special: 3.4468085106382977
+ EviolitePhysical: 5.491525423728813 EvioliteSpecial: 5.142857142857143
+
+356. : Boldore:
+ Physical: 4.526315789473684 Special: 2.646153846153846
+ EviolitePhysical: 6.745098039215686 EvioliteSpecial: 3.954022988505747
+
+355. : Masquerain:
+ Physical: 3.3076923076923075 Special: 3.865168539325843
+ EviolitePhysical: 4.914285714285715 EvioliteSpecial: 5.733333333333333
+
+354. : Shiftry:
+ Physical: 3.588785046728972 Special: 3.588785046728972
+ EviolitePhysical: 5.333333333333333 EvioliteSpecial: 5.333333333333333
+
+353. : Parasect:
+ Physical: 3.6 Special: 3.6
+ EviolitePhysical: 5.311475409836065 EvioliteSpecial: 5.311475409836065
+
+352. : Bayleef:
+ Physical: 3.6 Special: 3.6
+ EviolitePhysical: 5.311475409836065 EvioliteSpecial: 5.311475409836065
+
+351. : Corsola:
+ Physical: 3.6091954022988504 Special: 3.6091954022988504
+ EviolitePhysical: 5.322033898305085 EvioliteSpecial: 5.322033898305085
+
+350. : Azelf:
+ Physical: 3.6122448979591835 Special: 3.6122448979591835
+ EviolitePhysical: 5.363636363636363 EvioliteSpecial: 5.363636363636363
+
+349. : Swadloon:
+ Physical: 3.738095238095238 Special: 3.488888888888889
+ EviolitePhysical: 5.607142857142857 EvioliteSpecial: 5.147540983606557
+
+348. : Sunflora:
+ Physical: 3.1607142857142856 Special: 4.068965517241379
+ EviolitePhysical: 4.72 EvioliteSpecial: 6.0
+
+347. : Jolteon:
+ Physical: 3.121495327102804 Special: 4.1234567901234565
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 6.072727272727272
+
+346. : Espeon:
+ Physical: 3.121495327102804 Special: 4.1234567901234565
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 6.072727272727272
+
+345. : Toxicroak:
+ Physical: 3.627450980392157 Special: 3.627450980392157
+ EviolitePhysical: 5.36231884057971 EvioliteSpecial: 5.36231884057971
+
+344. : Nosepass:
+ Physical: 4.125 Special: 3.142857142857143
+ EviolitePhysical: 6.1395348837209305 EvioliteSpecial: 4.714285714285714
+
+343. : Tangela:
+ Physical: 4.704225352112676 Special: 2.5692307692307694
+ EviolitePhysical: 6.958333333333333 EvioliteSpecial: 3.839080459770115
+
+342. : Victreebel:
+ Physical: 3.5686274509803924 Special: 3.7142857142857144
+ EviolitePhysical: 5.27536231884058 EvioliteSpecial: 5.515151515151516
+
+341. : Cherrim:
+ Physical: 3.510204081632653 Special: 3.78021978021978
+ EviolitePhysical: 5.212121212121212 EvioliteSpecial: 5.548387096774194
+
+340. : Mismagius:
+ Physical: 3.02803738317757 Special: 4.2631578947368425
+ EviolitePhysical: 4.5 EvioliteSpecial: 6.352941176470588
+
+339. : Hawlucha:
+ Physical: 3.8297872340425534 Special: 3.4615384615384617
+ EviolitePhysical: 5.714285714285714 EvioliteSpecial: 5.142857142857143
+
+338. : Vigoroth:
+ Physical: 4.044444444444444 Special: 3.25
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 4.8533333333333335
+
+337. : Unfezant:
+ Physical: 4.044444444444444 Special: 3.25
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 4.8533333333333335
+
+336. : Mega Banette:
+ Physical: 3.5319148936170213 Special: 3.772727272727273
+ EviolitePhysical: 5.26984126984127 EvioliteSpecial: 5.627118644067797
+
+335. : Staraptor:
+ Physical: 3.816326530612245 Special: 3.4953271028037385
+ EviolitePhysical: 5.666666666666667 EvioliteSpecial: 5.194444444444445
+
+334. : Lilligant:
+ Physical: 3.6595744680851063 Special: 3.6595744680851063
+ EviolitePhysical: 5.4603174603174605 EvioliteSpecial: 5.4603174603174605
+
+333. : Sceptile:
+ Physical: 3.372549019607843 Special: 3.954022988505747
+ EviolitePhysical: 4.9855072463768115 EvioliteSpecial: 5.830508474576271
+
+332. : Lunatone:
+ Physical: 3.372549019607843 Special: 3.954022988505747
+ EviolitePhysical: 4.9855072463768115 EvioliteSpecial: 5.830508474576271
+
+331. : Weavile:
+ Physical: 3.372549019607843 Special: 3.954022988505747
+ EviolitePhysical: 4.9855072463768115 EvioliteSpecial: 5.830508474576271
+
+330. : Solrock:
+ Physical: 3.954022988505747 Special: 3.372549019607843
+ EviolitePhysical: 5.830508474576271 EvioliteSpecial: 4.9855072463768115
+
+329. : Carnivine:
+ Physical: 3.6666666666666665 Special: 3.6666666666666665
+ EviolitePhysical: 5.415384615384616 EvioliteSpecial: 5.415384615384616
+
+328. : Infernape:
+ Physical: 3.670103092783505 Special: 3.670103092783505
+ EviolitePhysical: 5.476923076923077 EvioliteSpecial: 5.476923076923077
+
+327. : Golbat:
+ Physical: 3.6122448979591835 Special: 3.765957446808511
+ EviolitePhysical: 5.363636363636363 EvioliteSpecial: 5.619047619047619
+
+326. : Talonflame:
+ Physical: 3.711340206185567 Special: 3.673469387755102
+ EviolitePhysical: 5.538461538461538 EvioliteSpecial: 5.454545454545454
+
+325. : Darmanitan:
+ Physical: 3.6964285714285716 Special: 3.6964285714285716
+ EviolitePhysical: 5.52 EvioliteSpecial: 5.52
+
+324. : Bronzor:
+ Physical: 3.697674418604651 Special: 3.697674418604651
+ EviolitePhysical: 5.482758620689655 EvioliteSpecial: 5.482758620689655
+
+323. : Heatmor:
+ Physical: 3.702970297029703 Special: 3.702970297029703
+ EviolitePhysical: 5.5 EvioliteSpecial: 5.5
+
+322. : Blaziken:
+ Physical: 3.7142857142857144 Special: 3.7142857142857144
+ EviolitePhysical: 5.515151515151516 EvioliteSpecial: 5.515151515151516
+
+321. : Sawsbuck:
+ Physical: 3.7142857142857144 Special: 3.7142857142857144
+ EviolitePhysical: 5.515151515151516 EvioliteSpecial: 5.515151515151516
+
+320. : Roserade:
+ Physical: 3.176470588235294 Special: 4.2631578947368425
+ EviolitePhysical: 4.695652173913044 EvioliteSpecial: 6.352941176470588
+
+319. : Aerodactyl:
+ Physical: 3.5686274509803924 Special: 3.872340425531915
+ EviolitePhysical: 5.27536231884058 EvioliteSpecial: 5.777777777777778
+
+318. : Starmie:
+ Physical: 3.7241379310344827 Special: 3.7241379310344827
+ EviolitePhysical: 5.491525423728813 EvioliteSpecial: 5.491525423728813
+
+317. : Mega Medicham:
+ Physical: 3.7241379310344827 Special: 3.7241379310344827
+ EviolitePhysical: 5.491525423728813 EvioliteSpecial: 5.491525423728813
+
+316. : Hitmonchan:
+ Physical: 3.340659340659341 Special: 4.108108108108108
+ EviolitePhysical: 4.983606557377049 EvioliteSpecial: 6.08
+
+315. : Pelipper:
+ Physical: 4.153846153846154 Special: 3.306122448979592
+ EviolitePhysical: 6.113207547169812 EvioliteSpecial: 4.909090909090909
+
+314. : Huntail:
+ Physical: 4.131578947368421 Special: 3.3404255319148937
+ EviolitePhysical: 6.1568627450980395 EvioliteSpecial: 4.984126984126984
+
+313. : Gorebyss:
+ Physical: 4.131578947368421 Special: 3.3404255319148937
+ EviolitePhysical: 6.1568627450980395 EvioliteSpecial: 4.984126984126984
+
+312. : Gurdurr:
+ Physical: 4.2988505747126435 Special: 3.1965811965811968
+ EviolitePhysical: 6.338983050847458 EvioliteSpecial: 4.734177215189874
+
+311. : Furfrou:
+ Physical: 3.308411214953271 Special: 4.214285714285714
+ EviolitePhysical: 4.916666666666667 EvioliteSpecial: 6.321428571428571
+
+310. : Klefki:
+ Physical: 3.8313253012048194 Special: 3.697674418604651
+ EviolitePhysical: 5.678571428571429 EvioliteSpecial: 5.578947368421052
+
+309. : Sawk:
+ Physical: 3.765957446808511 Special: 3.765957446808511
+ EviolitePhysical: 5.619047619047619 EvioliteSpecial: 5.619047619047619
+
+308. : Octillery:
+ Physical: 3.765957446808511 Special: 3.765957446808511
+ EviolitePhysical: 5.619047619047619 EvioliteSpecial: 5.619047619047619
+
+307. : Grotle:
+ Physical: 4.068965517241379 Special: 3.4705882352941178
+ EviolitePhysical: 6.0 EvioliteSpecial: 5.130434782608695
+
+306. : Mega Lucario:
+ Physical: 4.047058823529412 Special: 3.510204081632653
+ EviolitePhysical: 6.035087719298246 EvioliteSpecial: 5.212121212121212
+
+305. : Lileep:
+ Physical: 3.652173913043478 Special: 3.9069767441860463
+ EviolitePhysical: 5.419354838709677 EvioliteSpecial: 5.894736842105263
+
+304. : Kabutops:
+ Physical: 4.2631578947368425 Special: 3.306122448979592
+ EviolitePhysical: 6.352941176470588 EvioliteSpecial: 4.909090909090909
+
+303. : Mega Gengar:
+ Physical: 3.6 Special: 4.0
+ EviolitePhysical: 5.311475409836065 EvioliteSpecial: 5.890909090909091
+
+302. : Electivire:
+ Physical: 3.54 Special: 4.068965517241379
+ EviolitePhysical: 5.2835820895522385 EvioliteSpecial: 6.0
+
+301. : Seaking:
+ Physical: 3.5686274509803924 Special: 4.044444444444444
+ EviolitePhysical: 5.27536231884058 EvioliteSpecial: 5.967213114754099
+
+300. : Mega Sceptile:
+ Physical: 3.6595744680851063 Special: 3.954022988505747
+ EviolitePhysical: 5.4603174603174605 EvioliteSpecial: 5.830508474576271
+
+299. : Flareon:
+ Physical: 3.121495327102804 Special: 4.513513513513513
+ EviolitePhysical: 4.638888888888889 EvioliteSpecial: 6.68
+
+298. : Pyroar:
+ Physical: 3.9166666666666665 Special: 3.722772277227723
+ EviolitePhysical: 5.7846153846153845 EvioliteSpecial: 5.529411764705882
+
+297. : Scyther:
+ Physical: 3.8222222222222224 Special: 3.8222222222222224
+ EviolitePhysical: 5.639344262295082 EvioliteSpecial: 5.639344262295082
+
+296. : Mega Manectric:
+ Physical: 3.8222222222222224 Special: 3.8222222222222224
+ EviolitePhysical: 5.639344262295082 EvioliteSpecial: 5.639344262295082
+
+295. : Lumineon:
+ Physical: 3.6774193548387095 Special: 3.9767441860465116
+ EviolitePhysical: 5.516129032258065 EvioliteSpecial: 5.896551724137931
+
+294. : Gligar:
+ Physical: 4.394736842105263 Special: 3.2745098039215685
+ EviolitePhysical: 6.549019607843137 EvioliteSpecial: 4.840579710144928
+
+293. : Granbull:
+ Physical: 4.085106382978723 Special: 3.588785046728972
+ EviolitePhysical: 6.095238095238095 EvioliteSpecial: 5.333333333333333
+
+292. : Pinsir:
+ Physical: 4.282051282051282 Special: 3.4081632653061225
+ EviolitePhysical: 6.30188679245283 EvioliteSpecial: 5.0606060606060606
+
+291. : Bisharp:
+ Physical: 4.282051282051282 Special: 3.4081632653061225
+ EviolitePhysical: 6.30188679245283 EvioliteSpecial: 5.0606060606060606
+
+290. : Pidgeot:
+ Physical: 3.9361702127659575 Special: 3.7755102040816326
+ EviolitePhysical: 5.873015873015873 EvioliteSpecial: 5.606060606060606
+
+289. : Chandelure:
+ Physical: 3.857142857142857 Special: 3.857142857142857
+ EviolitePhysical: 5.785714285714286 EvioliteSpecial: 5.785714285714286
+
+288. : Tornadus:
+ Physical: 3.693877551020408 Special: 4.022222222222222
+ EviolitePhysical: 5.484848484848484 EvioliteSpecial: 5.934426229508197
+
+287. : Thundurus:
+ Physical: 3.693877551020408 Special: 4.022222222222222
+ EviolitePhysical: 5.484848484848484 EvioliteSpecial: 5.934426229508197
+
+286. : Klang:
+ Physical: 4.0 Special: 3.7241379310344827
+ EviolitePhysical: 5.890909090909091 EvioliteSpecial: 5.491525423728813
+
+285. : Sliggoo:
+ Physical: 3.0088495575221237 Special: 4.722222222222222
+ EviolitePhysical: 4.473684210526316 EvioliteSpecial: 6.938775510204081
+
+284. : Cryogonal:
+ Physical: 2.356164383561644 Special: 5.375
+ EviolitePhysical: 3.510204081632653 EvioliteSpecial: 8.0
+
+283. : Sigilyph:
+ Physical: 3.8666666666666667 Special: 3.8666666666666667
+ EviolitePhysical: 5.704918032786885 EvioliteSpecial: 5.704918032786885
+
+282. : Meowstic:
+ Physical: 3.78494623655914 Special: 3.955056179775281
+ EviolitePhysical: 5.67741935483871 EvioliteSpecial: 5.866666666666666
+
+281. : Togetic:
+ Physical: 3.6091954022988504 Special: 4.131578947368421
+ EviolitePhysical: 5.322033898305085 EvioliteSpecial: 6.1568627450980395
+
+280. : Metang:
+ Physical: 4.153846153846154 Special: 3.6
+ EviolitePhysical: 6.113207547169812 EvioliteSpecial: 5.311475409836065
+
+279. : Magcargo:
+ Physical: 4.405797101449275 Special: 3.3777777777777778
+ EviolitePhysical: 6.468085106382978 EvioliteSpecial: 4.983606557377049
+
+278. : Yanmega:
+ Physical: 4.372093023255814 Special: 3.418181818181818
+ EviolitePhysical: 6.482758620689655 EvioliteSpecial: 5.081081081081081
+
+277. : Porygon-Z:
+ Physical: 3.816326530612245 Special: 3.978723404255319
+ EviolitePhysical: 5.666666666666667 EvioliteSpecial: 5.936507936507937
+
+276. : Sealeo:
+ Physical: 3.9183673469387754 Special: 3.9183673469387754
+ EviolitePhysical: 5.818181818181818 EvioliteSpecial: 5.818181818181818
+
+275. : Hitmontop:
+ Physical: 3.753086419753086 Special: 4.108108108108108
+ EviolitePhysical: 5.527272727272727 EvioliteSpecial: 6.08
+
+274. : Leavanny:
+ Physical: 3.933333333333333 Special: 3.933333333333333
+ EviolitePhysical: 5.80327868852459 EvioliteSpecial: 5.80327868852459
+
+273. : Haxorus:
+ Physical: 4.238095238095238 Special: 3.63265306122449
+ EviolitePhysical: 6.357142857142857 EvioliteSpecial: 5.393939393939394
+
+272. : Nidoking:
+ Physical: 3.9782608695652173 Special: 3.893617021276596
+ EviolitePhysical: 5.903225806451613 EvioliteSpecial: 5.809523809523809
+
+271. : Magmortar:
+ Physical: 3.54 Special: 4.37037037037037
+ EviolitePhysical: 5.2835820895522385 EvioliteSpecial: 6.4363636363636365
+
+270. : Sandslash:
+ Physical: 4.783783783783784 Special: 3.1607142857142856
+ EviolitePhysical: 7.08 EvioliteSpecial: 4.72
+
+269. : Lopunny:
+ Physical: 3.7954545454545454 Special: 4.175
+ EviolitePhysical: 5.661016949152542 EvioliteSpecial: 6.185185185185185
+
+268. : Marowak:
+ Physical: 4.378378378378378 Special: 3.6
+ EviolitePhysical: 6.48 EvioliteSpecial: 5.311475409836065
+
+267. : Jumpluff:
+ Physical: 3.6122448979591835 Special: 4.37037037037037
+ EviolitePhysical: 5.363636363636363 EvioliteSpecial: 6.4363636363636365
+
+266. : Tauros:
+ Physical: 4.37037037037037 Special: 3.6122448979591835
+ EviolitePhysical: 6.4363636363636365 EvioliteSpecial: 5.363636363636363
+
+265. : Wormadam:
+ Physical: 3.7241379310344827 Special: 4.2631578947368425
+ EviolitePhysical: 5.491525423728813 EvioliteSpecial: 6.352941176470588
+
+264. : Lairon:
+ Physical: 5.225806451612903 Special: 2.769230769230769
+ EviolitePhysical: 7.714285714285714 EvioliteSpecial: 4.10126582278481
+
+263. : Luxray:
+ Physical: 4.0 Special: 4.0
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 5.967213114754099
+
+262. : Kecleon:
+ Physical: 3.306122448979592 Special: 4.695652173913044
+ EviolitePhysical: 4.909090909090909 EvioliteSpecial: 6.8936170212765955
+
+261. : Skuntank:
+ Physical: 4.1 Special: 3.9047619047619047
+ EviolitePhysical: 6.119402985074627 EvioliteSpecial: 5.774647887323944
+
+260. : Golduck:
+ Physical: 4.0 Special: 4.044444444444444
+ EviolitePhysical: 5.870967741935484 EvioliteSpecial: 5.967213114754099
+
+259. : Wigglytuff:
+ Physical: 3.934959349593496 Special: 4.136752136752137
+ EviolitePhysical: 5.831325301204819 EvioliteSpecial: 6.1265822784810124
+
+258. : Dunsparce:
+ Physical: 4.122448979591836 Special: 3.9607843137254903
+ EviolitePhysical: 6.121212121212121 EvioliteSpecial: 5.855072463768116
+
+257. : Phione:
+ Physical: 4.044444444444444 Special: 4.044444444444444
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 5.967213114754099
+
+256. : Flygon:
+ Physical: 4.044444444444444 Special: 4.044444444444444
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 5.967213114754099
+
+255. : Glalie:
+ Physical: 4.044444444444444 Special: 4.044444444444444
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 5.967213114754099
+
+254. : Mega Glalie:
+ Physical: 4.044444444444444 Special: 4.044444444444444
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 5.967213114754099
+
+253. : Mega Blaziken:
+ Physical: 4.044444444444444 Special: 4.044444444444444
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 5.967213114754099
+
+252. : Typhlosion:
+ Physical: 3.956043956043956 Special: 4.137931034482759
+ EviolitePhysical: 5.806451612903226 EvioliteSpecial: 6.101694915254237
+
+251. : Charizard:
+ Physical: 3.956043956043956 Special: 4.137931034482759
+ EviolitePhysical: 5.806451612903226 EvioliteSpecial: 6.101694915254237
+
+250. : Excadrill:
+ Physical: 3.9626168224299065 Special: 4.1568627450980395
+ EviolitePhysical: 5.888888888888889 EvioliteSpecial: 6.144927536231884
+
+249. : Gardevoir:
+ Physical: 3.3333333333333335 Special: 4.788732394366197
+ EviolitePhysical: 4.927536231884058 EvioliteSpecial: 7.083333333333333
+
+248. : Gallade:
+ Physical: 3.3333333333333335 Special: 4.788732394366197
+ EviolitePhysical: 4.927536231884058 EvioliteSpecial: 7.083333333333333
+
+247. : Diggersby:
+ Physical: 4.065217391304348 Special: 4.065217391304348
+ EviolitePhysical: 6.032258064516129 EvioliteSpecial: 6.032258064516129
+
+246. : Beheeyem:
+ Physical: 3.765957446808511 Special: 4.37037037037037
+ EviolitePhysical: 5.619047619047619 EvioliteSpecial: 6.4363636363636365
+
+245. : Ursaring:
+ Physical: 4.085106382978723 Special: 4.085106382978723
+ EviolitePhysical: 6.095238095238095 EvioliteSpecial: 6.095238095238095
+
+244. : Lickitung:
+ Physical: 4.085106382978723 Special: 4.085106382978723
+ EviolitePhysical: 6.095238095238095 EvioliteSpecial: 6.095238095238095
+
+243. : Garbodor:
+ Physical: 4.089887640449438 Special: 4.089887640449438
+ EviolitePhysical: 6.066666666666666 EvioliteSpecial: 6.066666666666666
+
+242. : Doublade:
+ Physical: 5.4576271186440675 Special: 2.7288135593220337
+ EviolitePhysical: 8.05 EvioliteSpecial: 4.075949367088608
+
+241. : Clawitzer:
+ Physical: 4.070588235294117 Special: 4.119047619047619
+ EviolitePhysical: 6.0701754385964914 EvioliteSpecial: 6.0701754385964914
+
+240. : Darkrai:
+ Physical: 4.095238095238095 Special: 4.095238095238095
+ EviolitePhysical: 6.142857142857143 EvioliteSpecial: 6.142857142857143
+
+239. : Slurpuff:
+ Physical: 4.27906976744186 Special: 3.9148936170212765
+ EviolitePhysical: 6.344827586206897 EvioliteSpecial: 5.841269841269841
+
+238. : Ninetales:
+ Physical: 3.723404255319149 Special: 4.487179487179487
+ EviolitePhysical: 5.555555555555555 EvioliteSpecial: 6.60377358490566
+
+237. : Spiritomb:
+ Physical: 4.108108108108108 Special: 4.108108108108108
+ EviolitePhysical: 6.08 EvioliteSpecial: 6.08
+
+236. : Mega Diancie:
+ Physical: 4.108108108108108 Special: 4.108108108108108
+ EviolitePhysical: 6.08 EvioliteSpecial: 6.08
+
+235. : Sudowoodo:
+ Physical: 4.845070422535211 Special: 3.372549019607843
+ EviolitePhysical: 7.166666666666667 EvioliteSpecial: 4.9855072463768115
+
+234. : Mega Pidgeot:
+ Physical: 4.111111111111111 Special: 4.111111111111111
+ EviolitePhysical: 6.065573770491803 EvioliteSpecial: 6.065573770491803
+
+233. : Trevenant:
+ Physical: 4.021505376344086 Special: 4.202247191011236
+ EviolitePhysical: 6.032258064516129 EvioliteSpecial: 6.233333333333333
+
+232. : Delphox:
+ Physical: 3.6875 Special: 4.538461538461538
+ EviolitePhysical: 5.446153846153846 EvioliteSpecial: 6.679245283018868
+
+231. : Scizor:
+ Physical: 4.410256410256411 Special: 3.8222222222222224
+ EviolitePhysical: 6.490566037735849 EvioliteSpecial: 5.639344262295082
+
+230. : Mega Lopunny:
+ Physical: 4.073170731707317 Special: 4.175
+ EviolitePhysical: 6.072727272727272 EvioliteSpecial: 6.185185185185185
+
+229. : Vanilluxe:
+ Physical: 3.9770114942528734 Special: 4.271604938271605
+ EviolitePhysical: 5.864406779661017 EvioliteSpecial: 6.290909090909091
+
+228. : Weezing:
+ Physical: 4.840579710144928 Special: 3.4081632653061225
+ EviolitePhysical: 7.1063829787234045 EvioliteSpecial: 5.0606060606060606
+
+227. : Piloswine:
+ Physical: 4.488888888888889 Special: 3.7757009345794392
+ EviolitePhysical: 6.622950819672131 EvioliteSpecial: 5.611111111111111
+
+226. : Vileplume:
+ Physical: 4.068965517241379 Special: 4.214285714285714
+ EviolitePhysical: 6.0 EvioliteSpecial: 6.321428571428571
+
+225. : Klinklang:
+ Physical: 4.563380281690141 Special: 3.7241379310344827
+ EviolitePhysical: 6.75 EvioliteSpecial: 5.491525423728813
+
+224. : Mega Mawile:
+ Physical: 4.537313432835821 Special: 3.753086419753086
+ EviolitePhysical: 6.7555555555555555 EvioliteSpecial: 5.527272727272727
+
+223. : Exploud:
+ Physical: 3.9615384615384617 Special: 4.336842105263158
+ EviolitePhysical: 5.885714285714286 EvioliteSpecial: 6.4375
+
+222. : Drapion:
+ Physical: 4.648648648648648 Special: 3.6595744680851063
+ EviolitePhysical: 6.88 EvioliteSpecial: 5.4603174603174605
+
+221. : Eelektross:
+ Physical: 4.155555555555556 Special: 4.155555555555556
+ EviolitePhysical: 6.131147540983607 EvioliteSpecial: 6.131147540983607
+
+220. : Noivern:
+ Physical: 4.155555555555556 Special: 4.155555555555556
+ EviolitePhysical: 6.131147540983607 EvioliteSpecial: 6.131147540983607
+
+219. : Crobat:
+ Physical: 4.155555555555556 Special: 4.155555555555556
+ EviolitePhysical: 6.131147540983607 EvioliteSpecial: 6.131147540983607
+
+218. : Emboar:
+ Physical: 4.1568627450980395 Special: 4.1568627450980395
+ EviolitePhysical: 6.144927536231884 EvioliteSpecial: 6.144927536231884
+
+217. : Cloyster:
+ Physical: 5.846153846153846 Special: 2.4715447154471546
+ EviolitePhysical: 8.685714285714285 EvioliteSpecial: 3.6626506024096384
+
+216. : Heracross:
+ Physical: 3.872340425531915 Special: 4.493827160493828
+ EviolitePhysical: 5.777777777777778 EvioliteSpecial: 6.618181818181818
+
+215. : Ludicolo:
+ Physical: 3.7142857142857144 Special: 4.666666666666667
+ EviolitePhysical: 5.515151515151516 EvioliteSpecial: 6.867924528301887
+
+214. : Exeggutor:
+ Physical: 4.528735632183908 Special: 3.8627450980392157
+ EviolitePhysical: 6.677966101694915 EvioliteSpecial: 5.7101449275362315
+
+213. : Quagsire:
+ Physical: 4.528735632183908 Special: 3.8627450980392157
+ EviolitePhysical: 6.677966101694915 EvioliteSpecial: 5.7101449275362315
+
+212. : Pangoro:
+ Physical: 4.329670329670329 Special: 4.061855670103093
+ EviolitePhysical: 6.354838709677419 EvioliteSpecial: 6.061538461538461
+
+211. : Krookodile:
+ Physical: 4.377777777777778 Special: 4.020408163265306
+ EviolitePhysical: 6.459016393442623 EvioliteSpecial: 5.96969696969697
+
+210. : Leafeon:
+ Physical: 5.138461538461539 Special: 3.2745098039215685
+ EviolitePhysical: 7.590909090909091 EvioliteSpecial: 4.840579710144928
+
+209. : Malamar:
+ Physical: 4.423529411764706 Special: 4.0
+ EviolitePhysical: 6.5964912280701755 EvioliteSpecial: 5.968253968253968
+
+208. : Mega Houndoom:
+ Physical: 4.214285714285714 Special: 4.214285714285714
+ EviolitePhysical: 6.321428571428571 EvioliteSpecial: 6.321428571428571
+
+207. : Gourgeist:
+ Physical: 4.911764705882353 Special: 3.5531914893617023
+ EviolitePhysical: 7.260869565217392 EvioliteSpecial: 5.301587301587301
+
+206. : Armaldo:
+ Physical: 4.538461538461538 Special: 3.933333333333333
+ EviolitePhysical: 6.679245283018868 EvioliteSpecial: 5.80327868852459
+
+205. : Grumpig:
+ Physical: 3.5686274509803924 Special: 4.918918918918919
+ EviolitePhysical: 5.27536231884058 EvioliteSpecial: 7.28
+
+204. : Golurk:
+ Physical: 4.2444444444444445 Special: 4.2444444444444445
+ EviolitePhysical: 6.262295081967213 EvioliteSpecial: 6.262295081967213
+
+203. : Abomasnow:
+ Physical: 4.085106382978723 Special: 4.413793103448276
+ EviolitePhysical: 6.095238095238095 EvioliteSpecial: 6.508474576271187
+
+202. : Noctowl:
+ Physical: 3.452991452991453 Special: 5.05
+ EviolitePhysical: 5.113924050632911 EvioliteSpecial: 7.481481481481482
+
+201. : Druddigon:
+ Physical: 4.261904761904762 Special: 4.261904761904762
+ EviolitePhysical: 6.392857142857143 EvioliteSpecial: 6.392857142857143
+
+200. : Drifblim:
+ Physical: 4.064516129032258 Special: 4.460176991150442
+ EviolitePhysical: 6.0 EvioliteSpecial: 6.631578947368421
+
+199. : Arcanine:
+ Physical: 4.266666666666667 Special: 4.266666666666667
+ EviolitePhysical: 6.295081967213115 EvioliteSpecial: 6.295081967213115
+
+198. : Genesect:
+ Physical: 4.271604938271605 Special: 4.271604938271605
+ EviolitePhysical: 6.290909090909091 EvioliteSpecial: 6.290909090909091
+
+197. : Samurott:
+ Physical: 4.528735632183908 Special: 4.020408163265306
+ EviolitePhysical: 6.677966101694915 EvioliteSpecial: 5.96969696969697
+
+196. : Volcarona:
+ Physical: 3.6666666666666665 Special: 4.921052631578948
+ EviolitePhysical: 5.420289855072464 EvioliteSpecial: 7.333333333333333
+
+195. : Braviary:
+ Physical: 4.297872340425532 Special: 4.297872340425532
+ EviolitePhysical: 6.412698412698413 EvioliteSpecial: 6.412698412698413
+
+194. : Glaceon:
+ Physical: 4.513513513513513 Special: 4.1234567901234565
+ EviolitePhysical: 6.68 EvioliteSpecial: 6.072727272727272
+
+193. : Omastar:
+ Physical: 5.134328358208955 Special: 3.510204081632653
+ EviolitePhysical: 7.644444444444445 EvioliteSpecial: 5.212121212121212
+
+192. : Mega Gardevoir:
+ Physical: 3.3333333333333335 Special: 5.3125
+ EviolitePhysical: 4.927536231884058 EvioliteSpecial: 7.906976744186046
+
+191. : Mamoswine:
+ Physical: 4.711111111111111 Special: 3.9626168224299065
+ EviolitePhysical: 6.950819672131147 EvioliteSpecial: 5.888888888888889
+
+190. : Mega Aerodactyl:
+ Physical: 4.183908045977011 Special: 4.493827160493828
+ EviolitePhysical: 6.169491525423729 EvioliteSpecial: 6.618181818181818
+
+189. : Machamp:
+ Physical: 4.266666666666667 Special: 4.413793103448276
+ EviolitePhysical: 6.295081967213115 EvioliteSpecial: 6.508474576271187
+
+188. : Tyrantrum:
+ Physical: 5.257142857142857 Special: 3.439252336448598
+ EviolitePhysical: 7.829787234042553 EvioliteSpecial: 5.111111111111111
+
+187. : Dusclops:
+ Physical: 4.369230769230769 Special: 4.369230769230769
+ EviolitePhysical: 6.454545454545454 EvioliteSpecial: 6.454545454545454
+
+186. : Serperior:
+ Physical: 4.37037037037037 Special: 4.37037037037037
+ EviolitePhysical: 6.4363636363636365 EvioliteSpecial: 6.4363636363636365
+
+185. : Kingdra:
+ Physical: 4.37037037037037 Special: 4.37037037037037
+ EviolitePhysical: 6.4363636363636365 EvioliteSpecial: 6.4363636363636365
+
+184. : Beartic:
+ Physical: 4.377777777777778 Special: 4.377777777777778
+ EviolitePhysical: 6.459016393442623 EvioliteSpecial: 6.459016393442623
+
+183. : Salamence:
+ Physical: 4.377777777777778 Special: 4.377777777777778
+ EviolitePhysical: 6.459016393442623 EvioliteSpecial: 6.459016393442623
+
+182. : Landorus:
+ Physical: 4.5476190476190474 Special: 4.2444444444444445
+ EviolitePhysical: 6.821428571428571 EvioliteSpecial: 6.262295081967213
+
+181. : Crustle:
+ Physical: 5.134328358208955 Special: 3.6595744680851063
+ EviolitePhysical: 7.644444444444445 EvioliteSpecial: 5.4603174603174605
+
+180. : Mantine:
+ Physical: 3.4081632653061225 Special: 5.387096774193548
+ EviolitePhysical: 5.0606060606060606 EvioliteSpecial: 7.9523809523809526
+
+179. : Skarmory:
+ Physical: 5.387096774193548 Special: 3.4081632653061225
+ EviolitePhysical: 7.9523809523809526 EvioliteSpecial: 5.0606060606060606
+
+178. : Venusaur:
+ Physical: 4.136363636363637 Special: 4.666666666666667
+ EviolitePhysical: 6.169491525423729 EvioliteSpecial: 6.867924528301887
+
+177. : Seismitoad:
+ Physical: 4.404255319148936 Special: 4.404255319148936
+ EviolitePhysical: 6.571428571428571 EvioliteSpecial: 6.571428571428571
+
+176. : Mega Pinsir:
+ Physical: 4.840579710144928 Special: 3.9761904761904763
+ EviolitePhysical: 7.1063829787234045 EvioliteSpecial: 5.964285714285714
+
+175. : Mega Sableye:
+ Physical: 4.537313432835821 Special: 4.28169014084507
+ EviolitePhysical: 6.7555555555555555 EvioliteSpecial: 6.333333333333333
+
+174. : Whiscash:
+ Physical: 4.463157894736842 Special: 4.371134020618556
+ EviolitePhysical: 6.625 EvioliteSpecial: 6.523076923076923
+
+173. : Clefable:
+ Physical: 4.147368421052631 Special: 4.690476190476191
+ EviolitePhysical: 6.15625 EvioliteSpecial: 7.035714285714286
+
+172. : Tentacruel:
+ Physical: 3.5686274509803924 Special: 5.27536231884058
+ EviolitePhysical: 5.27536231884058 EvioliteSpecial: 7.74468085106383
+
+171. : Wailord:
+ Physical: 4.4227642276422765 Special: 4.4227642276422765
+ EviolitePhysical: 6.554216867469879 EvioliteSpecial: 6.554216867469879
+
+170. : Altaria:
+ Physical: 4.214285714285714 Special: 4.657894736842105
+ EviolitePhysical: 6.321428571428571 EvioliteSpecial: 6.9411764705882355
+
+169. : Nidoqueen:
+ Physical: 4.465116279069767 Special: 4.413793103448276
+ EviolitePhysical: 6.7368421052631575 EvioliteSpecial: 6.508474576271187
+
+168. : Dragalge:
+ Physical: 3.9761904761904763 Special: 4.911764705882353
+ EviolitePhysical: 5.964285714285714 EvioliteSpecial: 7.260869565217392
+
+167. : Gothitelle:
+ Physical: 4.246913580246914 Special: 4.648648648648648
+ EviolitePhysical: 6.254545454545455 EvioliteSpecial: 6.88
+
+166. : Stoutland:
+ Physical: 4.4523809523809526 Special: 4.4523809523809526
+ EviolitePhysical: 6.678571428571429 EvioliteSpecial: 6.678571428571429
+
+165. : Bellossom:
+ Physical: 4.37037037037037 Special: 4.538461538461538
+ EviolitePhysical: 6.4363636363636365 EvioliteSpecial: 6.679245283018868
+
+164. : Vespiquen:
+ Physical: 4.467532467532467 Special: 4.467532467532467
+ EviolitePhysical: 6.615384615384615 EvioliteSpecial: 6.615384615384615
+
+163. : Mega Camerupt:
+ Physical: 4.410256410256411 Special: 4.526315789473684
+ EviolitePhysical: 6.490566037735849 EvioliteSpecial: 6.745098039215686
+
+162. : Magnezone:
+ Physical: 4.845070422535211 Special: 4.095238095238095
+ EviolitePhysical: 7.166666666666667 EvioliteSpecial: 6.142857142857143
+
+161. : Barbaracle:
+ Physical: 4.901408450704225 Special: 4.046511627906977
+ EviolitePhysical: 7.25 EvioliteSpecial: 6.0
+
+160. : Carracosta:
+ Physical: 5.5 Special: 3.450980392156863
+ EviolitePhysical: 8.186046511627907 EvioliteSpecial: 5.101449275362318
+
+159. : Claydol:
+ Physical: 4.2631578947368425 Special: 4.695652173913044
+ EviolitePhysical: 6.352941176470588 EvioliteSpecial: 6.8936170212765955
+
+158. : Latios:
+ Physical: 4.044444444444444 Special: 4.918918918918919
+ EviolitePhysical: 5.967213114754099 EvioliteSpecial: 7.28
+
+157. : Azumarill:
+ Physical: 4.488888888888889 Special: 4.488888888888889
+ EviolitePhysical: 6.622950819672131 EvioliteSpecial: 6.622950819672131
+
+156. : Moltres:
+ Physical: 4.571428571428571 Special: 4.413793103448276
+ EviolitePhysical: 6.857142857142857 EvioliteSpecial: 6.508474576271187
+
+155. : Ampharos:
+ Physical: 4.413793103448276 Special: 4.571428571428571
+ EviolitePhysical: 6.508474576271187 EvioliteSpecial: 6.857142857142857
+
+154. : Zapdos:
+ Physical: 4.413793103448276 Special: 4.571428571428571
+ EviolitePhysical: 6.508474576271187 EvioliteSpecial: 6.857142857142857
+
+153. : Mega Gallade:
+ Physical: 4.197530864197531 Special: 4.788732394366197
+ EviolitePhysical: 6.181818181818182 EvioliteSpecial: 7.083333333333333
+
+152. : Hoopa:
+ Physical: 3.4018691588785046 Special: 5.6
+ EviolitePhysical: 5.055555555555555 EvioliteSpecial: 8.272727272727273
+
+151. : Dewgong:
+ Physical: 4.266666666666667 Special: 4.7407407407407405
+ EviolitePhysical: 6.295081967213115 EvioliteSpecial: 6.9818181818181815
+
+150. : Raikou:
+ Physical: 4.085106382978723 Special: 4.923076923076923
+ EviolitePhysical: 6.095238095238095 EvioliteSpecial: 7.245283018867925
+
+149. : Politoed:
+ Physical: 4.085106382978723 Special: 4.923076923076923
+ EviolitePhysical: 6.095238095238095 EvioliteSpecial: 7.245283018867925
+
+148. : Forretress:
+ Physical: 5.709677419354839 Special: 3.308411214953271
+ EviolitePhysical: 8.428571428571429 EvioliteSpecial: 4.916666666666667
+
+147. : Mega Charizard Y:
+ Physical: 3.956043956043956 Special: 5.070422535211268
+ EviolitePhysical: 5.806451612903226 EvioliteSpecial: 7.5
+
+146. : Feraligatr:
+ Physical: 4.794871794871795 Special: 4.25
+ EviolitePhysical: 7.056603773584905 EvioliteSpecial: 6.338983050847458
+
+145. : Gliscor:
+ Physical: 5.2835820895522385 Special: 3.765957446808511
+ EviolitePhysical: 7.866666666666666 EvioliteSpecial: 5.619047619047619
+
+144. : Escavalier:
+ Physical: 4.526315789473684 Special: 4.526315789473684
+ EviolitePhysical: 6.745098039215686 EvioliteSpecial: 6.745098039215686
+
+143. : Torkoal:
+ Physical: 5.548387096774194 Special: 3.510204081632653
+ EviolitePhysical: 8.19047619047619 EvioliteSpecial: 5.212121212121212
+
+142. : Aromatisse:
+ Physical: 4.229166666666667 Special: 4.833333333333333
+ EviolitePhysical: 6.246153846153846 EvioliteSpecial: 7.12280701754386
+
+141. : Mega Charizard X:
+ Physical: 4.931506849315069 Special: 4.137931034482759
+ EviolitePhysical: 7.346938775510204 EvioliteSpecial: 6.101694915254237
+
+140. : Porygon2:
+ Physical: 4.4523809523809526 Special: 4.617283950617284
+ EviolitePhysical: 6.678571428571429 EvioliteSpecial: 6.8
+
+139. : Hypno:
+ Physical: 3.816326530612245 Special: 5.267605633802817
+ EviolitePhysical: 5.666666666666667 EvioliteSpecial: 7.791666666666667
+
+138. : Lanturn:
+ Physical: 4.203703703703703 Special: 4.881720430107527
+ EviolitePhysical: 6.219178082191781 EvioliteSpecial: 7.32258064516129
+
+137. : Gastrodon:
+ Physical: 4.303030303030303 Special: 4.786516853932584
+ EviolitePhysical: 6.358208955223881 EvioliteSpecial: 7.1
+
+136. : Munchlax:
+ Physical: 3.646153846153846 Special: 5.448275862068965
+ EviolitePhysical: 5.448275862068965 EvioliteSpecial: 8.033898305084746
+
+135. : Empoleon:
+ Physical: 4.376470588235295 Special: 4.769230769230769
+ EviolitePhysical: 6.526315789473684 EvioliteSpecial: 7.153846153846154
+
+134. : Donphan:
+ Physical: 5.565217391304348 Special: 3.588785046728972
+ EviolitePhysical: 8.170212765957446 EvioliteSpecial: 5.333333333333333
+
+133. : Golem:
+ Physical: 5.6 Special: 3.5686274509803924
+ EviolitePhysical: 8.272727272727273 EvioliteSpecial: 5.27536231884058
+
+132. : Conkeldurr:
+ Physical: 5.111111111111111 Special: 4.0588235294117645
+ EviolitePhysical: 7.527272727272727 EvioliteSpecial: 6.0
+
+131. : Swalot:
+ Physical: 4.590909090909091 Special: 4.590909090909091
+ EviolitePhysical: 6.8474576271186445 EvioliteSpecial: 6.8474576271186445
+
+130. : Dusknoir:
+ Physical: 4.59375 Special: 4.59375
+ EviolitePhysical: 6.837209302325581 EvioliteSpecial: 6.837209302325581
+
+129. : Keldeo:
+ Physical: 4.595238095238095 Special: 4.595238095238095
+ EviolitePhysical: 6.892857142857143 EvioliteSpecial: 6.892857142857143
+
+128. : Terrakion:
+ Physical: 4.595238095238095 Special: 4.595238095238095
+ EviolitePhysical: 6.892857142857143 EvioliteSpecial: 6.892857142857143
+
+127. : Hariyama:
+ Physical: 4.598130841121495 Special: 4.598130841121495
+ EviolitePhysical: 6.833333333333333 EvioliteSpecial: 6.833333333333333
+
+126. : Kangaskhan:
+ Physical: 4.6 Special: 4.6
+ EviolitePhysical: 6.786885245901639 EvioliteSpecial: 6.786885245901639
+
+125. : Miltank:
+ Physical: 5.184210526315789 Special: 4.020408163265306
+ EviolitePhysical: 7.7254901960784315 EvioliteSpecial: 5.96969696969697
+
+124. : Amoonguss:
+ Physical: 4.408163265306122 Special: 4.8
+ EviolitePhysical: 6.545454545454546 EvioliteSpecial: 7.081967213114754
+
+123. : Hydreigon:
+ Physical: 4.619047619047619 Special: 4.619047619047619
+ EviolitePhysical: 6.928571428571429 EvioliteSpecial: 6.928571428571429
+
+122. : Tropius:
+ Physical: 4.568181818181818 Special: 4.674418604651163
+ EviolitePhysical: 6.813559322033898 EvioliteSpecial: 7.052631578947368
+
+121. : Poliwrath:
+ Physical: 4.7407407407407405 Special: 4.571428571428571
+ EviolitePhysical: 6.9818181818181815 EvioliteSpecial: 6.857142857142857
+
+120. : Meganium:
+ Physical: 4.666666666666667 Special: 4.666666666666667
+ EviolitePhysical: 6.867924528301887 EvioliteSpecial: 6.867924528301887
+
+119. : Rhydon:
+ Physical: 6.0 Special: 3.3658536585365852
+ EviolitePhysical: 8.808510638297872 EvioliteSpecial: 4.9879518072289155
+
+118. : Gyarados:
+ Physical: 4.329670329670329 Special: 5.051282051282051
+ EviolitePhysical: 6.459016393442623 EvioliteSpecial: 7.433962264150943
+
+117. : Gogoat:
+ Physical: 4.326923076923077 Special: 5.056179775280899
+ EviolitePhysical: 6.428571428571429 EvioliteSpecial: 7.5
+
+116. : Reuniclus:
+ Physical: 4.51063829787234 Special: 4.873563218390805
+ EviolitePhysical: 6.73015873015873 EvioliteSpecial: 7.186440677966102
+
+115. : Blastoise:
+ Physical: 4.641025641025641 Special: 4.7631578947368425
+ EviolitePhysical: 6.830188679245283 EvioliteSpecial: 7.098039215686274
+
+114. : Scrafty:
+ Physical: 4.704225352112676 Special: 4.704225352112676
+ EviolitePhysical: 6.958333333333333 EvioliteSpecial: 6.958333333333333
+
+113. : Jellicent:
+ Physical: 4.122448979591836 Special: 5.315789473684211
+ EviolitePhysical: 6.121212121212121 EvioliteSpecial: 7.921568627450981
+
+112. : Mega Altaria:
+ Physical: 4.783783783783784 Special: 4.657894736842105
+ EviolitePhysical: 7.08 EvioliteSpecial: 6.9411764705882355
+
+111. : Cofagrigus:
+ Physical: 5.245901639344262 Special: 4.2105263157894735
+ EviolitePhysical: 7.804878048780488 EvioliteSpecial: 6.2745098039215685
+
+110. : Tangrowth:
+ Physical: 6.029850746268656 Special: 3.452991452991453
+ EviolitePhysical: 8.977777777777778 EvioliteSpecial: 5.113924050632911
+
+109. : Bronzong:
+ Physical: 4.76056338028169 Special: 4.76056338028169
+ EviolitePhysical: 7.041666666666667 EvioliteSpecial: 7.041666666666667
+
+108. : Audino:
+ Physical: 4.767441860465116 Special: 4.767441860465116
+ EviolitePhysical: 7.068965517241379 EvioliteSpecial: 7.068965517241379
+
+107. : Mesprit:
+ Physical: 4.7894736842105265 Special: 4.7894736842105265
+ EviolitePhysical: 7.137254901960785 EvioliteSpecial: 7.137254901960785
+
+106. : Entei:
+ Physical: 4.988505747126437 Special: 4.617021276595745
+ EviolitePhysical: 7.3559322033898304 EvioliteSpecial: 6.888888888888889
+
+105. : Volcanion:
+ Physical: 5.27536231884058 Special: 4.333333333333333
+ EviolitePhysical: 7.74468085106383 EvioliteSpecial: 6.5
+
+104. : Swampert:
+ Physical: 4.809523809523809 Special: 4.809523809523809
+ EviolitePhysical: 7.214285714285714 EvioliteSpecial: 7.214285714285714
+
+103. : Chesnaught:
+ Physical: 5.588235294117647 Special: 4.042553191489362
+ EviolitePhysical: 8.26086956521739 EvioliteSpecial: 6.031746031746032
+
+102. : Slowbro:
+ Physical: 5.324324324324325 Special: 4.377777777777778
+ EviolitePhysical: 7.88 EvioliteSpecial: 6.459016393442623
+
+101. : Slowking:
+ Physical: 4.377777777777778 Special: 5.324324324324325
+ EviolitePhysical: 6.459016393442623 EvioliteSpecial: 7.88
+
+100. : Muk:
+ Physical: 4.404255319148936 Special: 5.3076923076923075
+ EviolitePhysical: 6.571428571428571 EvioliteSpecial: 7.811320754716981
+
+99. : Torterra:
+ Physical: 5.184210526315789 Special: 4.528735632183908
+ EviolitePhysical: 7.7254901960784315 EvioliteSpecial: 6.677966101694915
+
+98. : Cradily:
+ Physical: 4.7 Special: 5.013333333333334
+ EviolitePhysical: 6.962962962962963 EvioliteSpecial: 7.52
+
+97. : Dragonite:
+ Physical: 4.765432098765432 Special: 4.948717948717949
+ EviolitePhysical: 7.0181818181818185 EvioliteSpecial: 7.283018867924528
+
+96. : Bouffalant:
+ Physical: 4.864197530864198 Special: 4.864197530864198
+ EviolitePhysical: 7.163636363636364 EvioliteSpecial: 7.163636363636364
+
+95. : Aggron:
+ Physical: 6.615384615384615 Special: 3.2149532710280373
+ EviolitePhysical: 9.82857142857143 EvioliteSpecial: 4.777777777777778
+
+94. : Florges:
+ Physical: 3.6363636363636362 Special: 6.206896551724138
+ EviolitePhysical: 5.373134328358209 EvioliteSpecial: 9.23076923076923
+
+93. : Rayquaza:
+ Physical: 4.928571428571429 Special: 4.928571428571429
+ EviolitePhysical: 7.392857142857143 EvioliteSpecial: 7.392857142857143
+
+92. : Virizion:
+ Physical: 4.020833333333333 Special: 5.848484848484849
+ EviolitePhysical: 5.938461538461539 EvioliteSpecial: 8.772727272727273
+
+91. : Cobalion:
+ Physical: 5.848484848484849 Special: 4.020833333333333
+ EviolitePhysical: 8.772727272727273 EvioliteSpecial: 5.938461538461539
+
+90. : Togekiss:
+ Physical: 4.617283950617284 Special: 5.267605633802817
+ EviolitePhysical: 6.8 EvioliteSpecial: 7.791666666666667
+
+89. : Mewtwo:
+ Physical: 4.9523809523809526 Special: 4.9523809523809526
+ EviolitePhysical: 7.428571428571429 EvioliteSpecial: 7.428571428571429
+
+88. : Gigalith:
+ Physical: 5.753846153846154 Special: 4.155555555555556
+ EviolitePhysical: 8.5 EvioliteSpecial: 6.131147540983607
+
+87. : Mega Heracross:
+ Physical: 5.126760563380282 Special: 4.7894736842105265
+ EviolitePhysical: 7.583333333333333 EvioliteSpecial: 7.137254901960785
+
+86. : Sylveon:
+ Physical: 3.8627450980392157 Special: 6.061538461538461
+ EviolitePhysical: 5.7101449275362315 EvioliteSpecial: 8.954545454545455
+
+85. : Metagross:
+ Physical: 5.6 Special: 4.333333333333333
+ EviolitePhysical: 8.272727272727273 EvioliteSpecial: 6.5
+
+84. : Latias:
+ Physical: 4.333333333333333 Special: 5.6
+ EviolitePhysical: 6.5 EvioliteSpecial: 8.272727272727273
+
+83. : Mega Latios:
+ Physical: 4.666666666666667 Special: 5.27536231884058
+ EviolitePhysical: 6.867924528301887 EvioliteSpecial: 7.74468085106383
+
+82. : Mega Scizor:
+ Physical: 5.548387096774194 Special: 4.410256410256411
+ EviolitePhysical: 8.19047619047619 EvioliteSpecial: 6.490566037735849
+
+81. : Garchomp:
+ Physical: 5.185185185185185 Special: 4.827586206896552
+ EviolitePhysical: 7.636363636363637 EvioliteSpecial: 7.11864406779661
+
+80. : Vaporeon:
+ Physical: 4.336448598130841 Special: 5.728395061728395
+ EviolitePhysical: 6.444444444444445 EvioliteSpecial: 8.436363636363636
+
+79. : Walrein:
+ Physical: 5.0476190476190474 Special: 5.0476190476190474
+ EviolitePhysical: 7.571428571428571 EvioliteSpecial: 7.571428571428571
+
+78. : Mega Abomasnow:
+ Physical: 5.052631578947368 Special: 5.052631578947368
+ EviolitePhysical: 7.529411764705882 EvioliteSpecial: 7.529411764705882
+
+77. : Aurorus:
+ Physical: 4.6875 Special: 5.421686746987952
+ EviolitePhysical: 6.923076923076923 EvioliteSpecial: 8.035714285714286
+
+76. : Stunfisk:
+ Physical: 4.795454545454546 Special: 5.341772151898734
+ EviolitePhysical: 7.1525423728813555 EvioliteSpecial: 7.962264150943396
+
+75. : Relicanth:
+ Physical: 6.2153846153846155 Special: 3.9607843137254903
+ EviolitePhysical: 9.181818181818182 EvioliteSpecial: 5.855072463768116
+
+74. : Throh:
+ Physical: 5.103448275862069 Special: 5.103448275862069
+ EviolitePhysical: 7.52542372881356 EvioliteSpecial: 7.52542372881356
+
+73. : Milotic:
+ Physical: 4.329670329670329 Special: 5.880597014925373
+ EviolitePhysical: 6.459016393442623 EvioliteSpecial: 8.755555555555556
+
+72. : Mega Ampharos:
+ Physical: 5.052631578947368 Special: 5.1891891891891895
+ EviolitePhysical: 7.529411764705882 EvioliteSpecial: 7.68
+
+71. : Mega Mewtwo Y:
+ Physical: 4.244897959183674 Special: 6.028985507246377
+ EviolitePhysical: 6.303030303030303 EvioliteSpecial: 8.851063829787234
+
+70. : Alomomola:
+ Physical: 5.933333333333334 Special: 4.341463414634147
+ EviolitePhysical: 8.754098360655737 EvioliteSpecial: 6.433734939759036
+
+69. : Heatran:
+ Physical: 5.1466666666666665 Special: 5.1466666666666665
+ EviolitePhysical: 7.568627450980392 EvioliteSpecial: 7.568627450980392
+
+68. : Diancie:
+ Physical: 5.1525423728813555 Special: 5.1525423728813555
+ EviolitePhysical: 7.6 EvioliteSpecial: 7.6
+
+67. : Carbink:
+ Physical: 5.1525423728813555 Special: 5.1525423728813555
+ EviolitePhysical: 7.6 EvioliteSpecial: 7.6
+
+66. : Mega Blastoise:
+ Physical: 5.246376811594203 Special: 5.098591549295775
+ EviolitePhysical: 7.702127659574468 EvioliteSpecial: 7.541666666666667
+
+65. : Celebi:
+ Physical: 5.17948717948718 Special: 5.17948717948718
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 7.622641509433962
+
+64. : Mew:
+ Physical: 5.17948717948718 Special: 5.17948717948718
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 7.622641509433962
+
+63. : Victini:
+ Physical: 5.17948717948718 Special: 5.17948717948718
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 7.622641509433962
+
+62. : Manaphy:
+ Physical: 5.17948717948718 Special: 5.17948717948718
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 7.622641509433962
+
+61. : Jirachi:
+ Physical: 5.17948717948718 Special: 5.17948717948718
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 7.622641509433962
+
+60. : Shaymin:
+ Physical: 5.17948717948718 Special: 5.17948717948718
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 7.622641509433962
+
+59. : Ferrothorn:
+ Physical: 5.415384615384616 Special: 4.957746478873239
+ EviolitePhysical: 8.0 EvioliteSpecial: 7.333333333333333
+
+58. : Hippowdon:
+ Physical: 6.0 Special: 4.375
+ EviolitePhysical: 8.936170212765957 EvioliteSpecial: 6.461538461538462
+
+57. : Musharna:
+ Physical: 5.011494252873563 Special: 5.382716049382716
+ EviolitePhysical: 7.389830508474576 EvioliteSpecial: 7.927272727272728
+
+56. : Goodra:
+ Physical: 3.9183673469387754 Special: 6.508474576271187
+ EviolitePhysical: 5.818181818181818 EvioliteSpecial: 9.6
+
+55. : Lickilicky:
+ Physical: 5.234567901234568 Special: 5.234567901234568
+ EviolitePhysical: 7.709090909090909 EvioliteSpecial: 7.709090909090909
+
+54. : Palkia:
+ Physical: 4.923076923076923 Special: 5.565217391304348
+ EviolitePhysical: 7.245283018867925 EvioliteSpecial: 8.170212765957446
+
+53. : Meloetta:
+ Physical: 4.391304347826087 Special: 6.121212121212121
+ EviolitePhysical: 6.516129032258065 EvioliteSpecial: 8.977777777777778
+
+52. : Rhyperior:
+ Physical: 6.676923076923077 Special: 3.875
+ EviolitePhysical: 9.863636363636363 EvioliteSpecial: 5.786666666666667
+
+51. : Mega Rayquaza:
+ Physical: 5.3076923076923075 Special: 5.3076923076923075
+ EviolitePhysical: 7.811320754716981 EvioliteSpecial: 7.811320754716981
+
+50. : Mega Kangaskhan:
+ Physical: 5.3076923076923075 Special: 5.3076923076923075
+ EviolitePhysical: 7.811320754716981 EvioliteSpecial: 7.811320754716981
+
+49. : Mega Venusaur:
+ Physical: 5.352941176470588 Special: 5.27536231884058
+ EviolitePhysical: 7.913043478260869 EvioliteSpecial: 7.74468085106383
+
+48. : Articuno:
+ Physical: 4.923076923076923 Special: 5.731343283582089
+ EviolitePhysical: 7.245283018867925 EvioliteSpecial: 8.533333333333333
+
+47. : Mega Mewtwo X:
+ Physical: 5.333333333333333 Special: 5.333333333333333
+ EviolitePhysical: 7.849056603773585 EvioliteSpecial: 7.849056603773585
+
+46. : Mega Salamence:
+ Physical: 6.061538461538461 Special: 4.690476190476191
+ EviolitePhysical: 8.954545454545455 EvioliteSpecial: 7.035714285714286
+
+45. : Probopass:
+ Physical: 5.311475409836065 Special: 5.491525423728813
+ EviolitePhysical: 7.902439024390244 EvioliteSpecial: 8.1
+
+44. : Kyurem:
+ Physical: 5.404761904761905 Special: 5.404761904761905
+ EviolitePhysical: 8.107142857142858 EvioliteSpecial: 8.107142857142858
+
+43. : Mandibuzz:
+ Physical: 5.578947368421052 Special: 5.234567901234568
+ EviolitePhysical: 8.313725490196079 EvioliteSpecial: 7.709090909090909
+
+42. : Wobbuffet:
+ Physical: 5.407407407407407 Special: 5.407407407407407
+ EviolitePhysical: 8.0 EvioliteSpecial: 8.0
+
+41. : Lapras:
+ Physical: 5.155555555555556 Special: 5.728395061728395
+ EviolitePhysical: 7.60655737704918 EvioliteSpecial: 8.436363636363636
+
+40. : Uxie:
+ Physical: 5.446153846153846 Special: 5.446153846153846
+ EviolitePhysical: 8.045454545454545 EvioliteSpecial: 8.045454545454545
+
+39. : Mega Swampert:
+ Physical: 5.45945945945946 Special: 5.45945945945946
+ EviolitePhysical: 8.08 EvioliteSpecial: 8.08
+
+38. : Avalugg:
+ Physical: 7.7254901960784315 Special: 3.2295081967213113
+ EviolitePhysical: 11.588235294117647 EvioliteSpecial: 4.804878048780488
+
+37. : Aegislash:
+ Physical: 5.491525423728813 Special: 5.491525423728813
+ EviolitePhysical: 8.1 EvioliteSpecial: 8.1
+
+36. : Steelix:
+ Physical: 7.531914893617022 Special: 3.4705882352941178
+ EviolitePhysical: 11.0625 EvioliteSpecial: 5.130434782608695
+
+35. : Reshiram:
+ Physical: 5.17948717948718 Special: 5.855072463768116
+ EviolitePhysical: 7.622641509433962 EvioliteSpecial: 8.595744680851064
+
+34. : Dialga:
+ Physical: 5.855072463768116 Special: 5.17948717948718
+ EviolitePhysical: 8.595744680851064 EvioliteSpecial: 7.622641509433962
+
+33. : Zekrom:
+ Physical: 5.855072463768116 Special: 5.17948717948718
+ EviolitePhysical: 8.595744680851064 EvioliteSpecial: 7.622641509433962
+
+32. : Mega Metagross:
+ Physical: 6.169491525423729 Special: 4.918918918918919
+ EviolitePhysical: 9.1 EvioliteSpecial: 7.28
+
+31. : Mega Garchomp:
+ Physical: 5.915492957746479 Special: 5.185185185185185
+ EviolitePhysical: 8.75 EvioliteSpecial: 7.636363636363637
+
+30. : Bastiodon:
+ Physical: 6.0 Special: 5.142857142857143
+ EviolitePhysical: 8.756756756756756 EvioliteSpecial: 7.714285714285714
+
+29. : Zygarde:
+ Physical: 6.086956521739131 Special: 5.185185185185185
+ EviolitePhysical: 9.130434782608695 EvioliteSpecial: 7.636363636363637
+
+28. : Kyogre:
+ Physical: 4.809523809523809 Special: 6.516129032258065
+ EviolitePhysical: 7.214285714285714 EvioliteSpecial: 9.619047619047619
+
+27. : Groudon:
+ Physical: 6.516129032258065 Special: 4.809523809523809
+ EviolitePhysical: 9.619047619047619 EvioliteSpecial: 7.214285714285714
+
+26. : Shuckle:
+ Physical: 5.674418604651163 Special: 5.674418604651163
+ EviolitePhysical: 8.413793103448276 EvioliteSpecial: 8.413793103448276
+
+25. : Suicune:
+ Physical: 5.690140845070423 Special: 5.690140845070423
+ EviolitePhysical: 8.416666666666666 EvioliteSpecial: 8.416666666666666
+
+24. : Umbreon:
+ Physical: 5.324324324324325 Special: 6.061538461538461
+ EviolitePhysical: 7.88 EvioliteSpecial: 8.954545454545455
+
+23. : Mega Gyarados:
+ Physical: 5.324324324324325 Special: 6.061538461538461
+ EviolitePhysical: 7.88 EvioliteSpecial: 8.954545454545455
+
+22. : Yveltal:
+ Physical: 5.62962962962963 Special: 5.772151898734177
+ EviolitePhysical: 8.290909090909091 EvioliteSpecial: 8.60377358490566
+
+21. : Xerneas:
+ Physical: 5.62962962962963 Special: 5.772151898734177
+ EviolitePhysical: 8.290909090909091 EvioliteSpecial: 8.60377358490566
+
+20. : Slaking:
+ Physical: 6.461538461538462 Special: 4.9411764705882355
+ EviolitePhysical: 9.50943396226415 EvioliteSpecial: 7.304347826086956
+
+19. : Mega Latias:
+ Physical: 5.27536231884058 Special: 6.169491525423729
+ EviolitePhysical: 7.74468085106383 EvioliteSpecial: 9.1
+
+18. : Regigigas:
+ Physical: 5.72972972972973 Special: 5.72972972972973
+ EviolitePhysical: 8.48 EvioliteSpecial: 8.48
+
+17. : Mega Aggron:
+ Physical: 8.0 Special: 3.8222222222222224
+ EviolitePhysical: 11.862068965517242 EvioliteSpecial: 5.639344262295082
+
+16. : Mega Slowbro:
+ Physical: 7.576923076923077 Special: 4.377777777777778
+ EviolitePhysical: 11.257142857142858 EvioliteSpecial: 6.459016393442623
+
+15. : Ho-Oh:
+ Physical: 4.9523809523809526 Special: 7.172413793103448
+ EviolitePhysical: 7.428571428571429 EvioliteSpecial: 10.666666666666666
+
+14. : Snorlax:
+ Physical: 5.137254901960785 Special: 7.081081081081081
+ EviolitePhysical: 7.594202898550725 EvioliteSpecial: 10.48
+
+13. : Mega Audino:
+ Physical: 6.119402985074627 Special: 6.119402985074627
+ EviolitePhysical: 9.11111111111111 EvioliteSpecial: 9.11111111111111
+
+12. : Registeel:
+ Physical: 6.169491525423729 Special: 6.169491525423729
+ EviolitePhysical: 9.1 EvioliteSpecial: 9.1
+
+11. : Regice:
+ Physical: 4.666666666666667 Special: 7.74468085106383
+ EviolitePhysical: 6.867924528301887 EvioliteSpecial: 11.375
+
+10. : Regirock:
+ Physical: 7.74468085106383 Special: 4.666666666666667
+ EviolitePhysical: 11.375 EvioliteSpecial: 6.867924528301887
+
+9. : Chansey:
+ Physical: 3.3051643192488265 Special: 9.263157894736842
+ EviolitePhysical: 4.923076923076923 EvioliteSpecial: 13.803921568627452
+
+8. : Mega Steelix:
+ Physical: 8.232558139534884 Special: 4.37037037037037
+ EviolitePhysical: 12.206896551724139 EvioliteSpecial: 6.4363636363636365
+
+7. : Arceus:
+ Physical: 6.434782608695652 Special: 6.434782608695652
+ EviolitePhysical: 9.446808510638299 EvioliteSpecial: 9.446808510638299
+
+6. : Tyranitar:
+ Physical: 5.45945945945946 Special: 7.622641509433962
+ EviolitePhysical: 8.08 EvioliteSpecial: 11.222222222222221
+
+5. : Cresselia:
+ Physical: 6.434782608695652 Special: 6.8307692307692305
+ EviolitePhysical: 9.446808510638299 EvioliteSpecial: 10.090909090909092
+
+4. : Lugia:
+ Physical: 6.4 Special: 7.172413793103448
+ EviolitePhysical: 9.454545454545455 EvioliteSpecial: 10.666666666666666
+
+3. : Giratina:
+ Physical: 7.304347826086956 Special: 7.304347826086956
+ EviolitePhysical: 10.72340425531915 EvioliteSpecial: 10.72340425531915
+
+2. : Blissey:
+ Physical: 3.6615384615384614 Special: 11.15625
+ EviolitePhysical: 5.450381679389313 EvioliteSpecial: 16.6046511627907
+
+1. : Mega Tyranitar:
+ Physical: 6.8474576271186445 Special: 8.595744680851064
+ EviolitePhysical: 10.1 EvioliteSpecial: 12.625
+

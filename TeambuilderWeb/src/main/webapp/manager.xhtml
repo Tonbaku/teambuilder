@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+<h:head>
+	<title>Teambuilder - V0.0.0.1-alpha</title>
+	<h:outputStylesheet library="css" name="style.css"></h:outputStylesheet>
+	<h:outputStylesheet library="bootstrap" name="css/bootstrap.min.css"></h:outputStylesheet>
+	<h:outputStylesheet library="jquery-ui-1.11.4" name="jquery-ui.css"></h:outputStylesheet>
+	<h:outputScript library="jquery" name="jquery-1.11.3.min.js"></h:outputScript>
+	<h:outputScript library="jquery-ui-1.11.4" name="jquery-ui.min.js"></h:outputScript>
+	<h:outputScript library="js" name="main.js"></h:outputScript>
+</h:head>
+<h:body>
+	<div class="container-fluid">
+		<div id="menu" class="col-md-10 col-md-offset-3">
+			<div id="headerArea" class="row">
+				<div class="header col-md-16">Teambuilder v0.0.0.1-alpha, by
+					Shiro</div>
+			</div>
+			<div class="row"></div>
+			<div class="col-md-2">
+				<span class="glyphicon glyphicon-arrow-left"></span>
+			</div>
+			<div class="tabList col-md-14">
+				<div class="tab">OVERVIEW</div>
+				<div class="tab">
+					<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+				</div>
+				<div class="tab">
+					<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+				</div>
+				<div class="tab">
+					<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+				</div>
+				<div class="tab">
+					<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+				</div>
+				<div class="tab">
+					<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+				</div>
+				<div class="tab">
+					<img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img>
+				</div>
+			</div>
+			<div class="content col-md-16">
+				<div class="tabContent">
+					<h:panelGroup id="tabContent" class="member">
+						<div class="Mheader">
+							<h:panelGroup id="icon" class="icon">
+								<img src="#{spriteAccessBB.getSpriteURLForName(teamBB.name)}"
+									title="Keldeo" />
+							</h:panelGroup>
+							<div class="Mtitle">
+								<span> <b> <h:form prependId="false">
+											<h:inputText id="inputPokemon" value="#{teamBB.name}"
+												autocomplete="off" onfocus="setAutocompleteSrc('Pokemon')"
+												onblur="onPokemonChange()">
+											</h:inputText>
+											<h:commandLink id="nameChangeButton"
+												action="#{teamBB.onNameChanged()}">
+												<f:ajax render=":tabContent"></f:ajax>
+											</h:commandLink>
+										</h:form></b> Item: <h:selectOneMenu>
+										<f:selectItem itemValue=""></f:selectItem>
+									</h:selectOneMenu><br /> Ability: <h:form>
+										<h:selectOneMenu value="#{teamBB.ability}" onchange="submit()"
+											valueChangeListener="#{teamBB.onAbilityChanged}">
+											<f:selectItems value="#{teamBB.getAbilities()}" var="ability"
+												itemLabel="#{ability.name}" itemValue="#{ability}" />
+										</h:selectOneMenu>
+										<br />
+									</h:form>
+								</span>
+							</div>
+							<ui:include src="xhtml/includes/stats.xhtml"></ui:include>
+
+							<div class="moves">
+							<ui:repeat value="#{teamBB.getCurrentMoves()}" var="move">
+								<div class="moveButton #{move.getType().getName().toLowerCase()}">
+									#{move.getName()}
+								</div>
+							</ui:repeat>
+								
+							</div>
+						</div>
+						
+						<div class="threats col-md-16">
+							<div class="offensiv col-md-5">
+								Offensive Threats
+								<ul>
+									<ui:repeat value="#{metadataBB.getCountersFor(teamBB.name)}" var="counter">
+										<li><img src="#{spriteAccessBB.getIconForName(counter)}"></img>#{counter}</li>
+									</ui:repeat>
+								</ul>
+							</div>
+							<div class="col-md-1">
+								<span class="glyphicon glyphicon-triangle-right"></span>
+							</div>
+							<div class="defensiv col-md-4">
+								Defensive Threats
+								<ul>
+									<li><img src="#{spriteAccessBB.getIconForName('Slowbro')}"></img></li>
+									<li><img
+										src="#{spriteAccessBB.getIconForName('Venusaur')}"></img></li>
+									<li><img src="#{spriteAccessBB.getIconForName('Latias')}"></img></li>
+								</ul>
+							</div>
+							<div class="col-md-1">
+								<span class="glyphicon glyphicon-triangle-left"></span>
+							</div>
+							<div class="suggestions col-md-5">
+								Suggested Teammates
+								<ul>
+									<li><img
+										src="#{spriteAccessBB.getIconForName('Tyranitar')}"></img></li>
+									<li><img
+										src="#{spriteAccessBB.getIconForName('Charizard')}"></img></li>
+									<li><img
+										src="#{spriteAccessBB.getIconForName('Thundurus')}"></img></li>
+								</ul>
+							</div>
+						</div>
+					</h:panelGroup>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<h:form prependId="false">
+		<h:commandButton id="completeButton"
+			action="#{autocompleteBB.onAjaxCall}">
+			<f:ajax render="@form"></f:ajax>
+		</h:commandButton>
+		<h:inputText id="autocompleteField"></h:inputText>
+		<script>
+		   		$(document).ready(function(){
+		   			autocompleteOptions = #{autocompleteBB.getSuggestions()};
+		   			if(autocompleteOptions != null){
+		   				$( "#inputPokemon" ).autocomplete({
+		   				  source: function( request, response ) {
+		   				          var matcher = new RegExp( "^" + $.ui.autocomplete.escapeRegex( request.term ), "i" );
+		   				          response( $.grep( autocompleteOptions, function( item ){
+		   				              return matcher.test( item.value );
+		   				          }) );
+		   				      }, 
+		   					select: function(event, ui){
+		   						onPokemonChange();
+		   					}
+		   				}).autocomplete( "instance" )._renderItem = function( ul, item ) {
+		   				    return $( "<li>" ).append( "<a>" + item.icon + item.label + "</a></li>" ).appendTo( ul );
+		   				}
+		   				
+		   			}
+		   		});
+	   		</script>
+	</h:form>
+
+</h:body>
+</html>
